@@ -141,6 +141,7 @@ namespace Banshee.Dap.Mtp
             }
             AcceptableMimeTypes = mimetypes.ToArray ();
 
+            AddDapProperty (Catalog.GetString ("Required Folder Depth"), 2.ToString());
             AddDapProperty (Catalog.GetString ("Serial number"), mtp_device.SerialNumber);
             AddDapProperty (Catalog.GetString ("Version"), mtp_device.Version);
             try {
@@ -418,10 +419,67 @@ namespace Banshee.Dap.Mtp
             if (track.HasAttribute (TrackMediaAttributes.VideoStream)) {
                 return mtp_device.VideoFolder;
             } else if (track.HasAttribute (TrackMediaAttributes.Podcast)) {
-                return mtp_device.PodcastFolder;
+                return GetPodcastFolder (track);
             } else {
-                return mtp_device.MusicFolder;
+                return GetAlbumFolder (track);
             }
+        }
+
+        private Folder GetPodcastFolder (TrackInfo track)
+        {
+            Folder root, target;
+            if (null == mtp_device.PodcastFolder) {
+                root = mtp_device.GetRootFolders ().Find (x => x.Name == "Podcasts");
+
+                if (null == root) {
+                    root = mtp_device.MusicFolder.AddChild ("Podcasts");
+                }
+            } else {
+                root = mtp_device.PodcastFolder;
+            }
+
+            List<Folder> podcast_albums = root.GetChildren ();
+            target = podcast_albums.Find (x => x.Name == track.DisplayAlbumTitle);
+
+            if (null == target) {
+                target = root.AddChild (track.DisplayAlbumTitle);
+            }
+
+            return target;
+        }
+
+        private Folder GetAlbumFolder (TrackInfo track)
+        {
+            Folder root = mtp_device.MusicFolder;
+            Folder targetArtistFolder = null;
+            Folder albumFolder = null;
+            string albumArtist = track.DisplayAlbumArtistName;
+            string albumName = track.DisplayAlbumTitle;
+
+            foreach (Folder artistFolder in root.GetChildren()) {
+                if (artistFolder.Name == albumArtist) {
+                    targetArtistFolder = artistFolder;
+                    break;
+                }
+            }
+
+            if (targetArtistFolder == null) {
+                targetArtistFolder = root.AddChild(albumArtist);
+                albumFolder = targetArtistFolder.AddChild(albumName);
+            }
+            else {
+                foreach (Folder artistAlbum in targetArtistFolder.GetChildren()){
+                    if (artistAlbum.Name == albumName) {
+                        albumFolder = artistAlbum;
+                        break;
+                    }
+                }
+                if (albumFolder == null) {
+                    albumFolder = targetArtistFolder.AddChild(albumName);
+                }
+           }
+
+            return albumFolder;
         }
 
         private int OnUploadProgress (ulong sent, ulong total, IntPtr data)
