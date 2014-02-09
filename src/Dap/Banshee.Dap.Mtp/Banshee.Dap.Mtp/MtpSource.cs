@@ -57,7 +57,7 @@ namespace Banshee.Dap.Mtp
         //private bool supports_jpegs = false;
         private Dictionary<long, Track> track_map;
 
-        private Dictionary<string, Album> album_cache = new Dictionary<string, Album> ();
+        private Dictionary<string, Tuple<Album, Folder>> album_cache = new Dictionary<string, Tuple<Album, Folder>> ();
 
         private bool supports_jpegs = false;
         private bool can_sync_albumart = NeverSyncAlbumArtSchema.Get () == false;
@@ -352,7 +352,8 @@ namespace Banshee.Dap.Mtp
             lock (mtp_device) {
                 Track mtp_track = TrackInfoToMtpTrack (track, fromUri);
                 bool video = track.HasAttribute (TrackMediaAttributes.VideoStream);
-                mtp_device.UploadTrack (fromUri.LocalPath, mtp_track, GetFolderForTrack (track), OnUploadProgress);
+                Folder folder = GetFolderForTrack (track);
+                mtp_device.UploadTrack (fromUri.LocalPath, mtp_track, folder, OnUploadProgress);
 
                 // Add/update album art
                 if (!video) {
@@ -391,17 +392,17 @@ namespace Banshee.Dap.Mtp
                                 if (bytes != null) {
                                     ArtworkManager.DisposePixbuf (pic);
                                     album.Save (bytes, width, height);
-                                    album_cache [key] = album;
+                                    album_cache [key] = Tuple.Create(album, folder);
                                 }
                             } catch (Exception e) {
                                 Log.Debug ("Failed to create MTP Album", e.Message);
                             }
                         } else {
                             album.Save ();
-                            album_cache[key] = album;
+                            album_cache[key] = Tuple.Create(album, folder);
                         }
                     } else {
-                        Album album = album_cache[key];
+                        Album album = album_cache[key].Item1;
                         album.AddTrack (mtp_track);
                         album.Save ();
                     }
@@ -450,36 +451,30 @@ namespace Banshee.Dap.Mtp
 
         private Folder GetAlbumFolder (TrackInfo track)
         {
-            Folder root = mtp_device.MusicFolder;
-            Folder targetArtistFolder = null;
-            Folder albumFolder = null;
-            string albumArtist = track.DisplayAlbumArtistName;
-            string albumName = track.DisplayAlbumTitle;
+            string artist = track.DisplayAlbumArtistName;
+            string album = track.DisplayAlbumTitle;
+            string key = MakeAlbumKey (artist, album);
 
-            foreach (Folder artistFolder in root.GetChildren()) {
-                if (artistFolder.Name == albumArtist) {
-                    targetArtistFolder = artistFolder;
-                    break;
-                }
+            if (album_cache.ContainsKey (key)) {
+                return album_cache [key].Item2;
             }
 
-            if (targetArtistFolder == null) {
-                targetArtistFolder = root.AddChild(albumArtist);
-                albumFolder = targetArtistFolder.AddChild(albumName);
+            Folder root = mtp_device.MusicFolder;
+            Folder tmp = root.GetChildren ().Find (x => x.Name == artist);
+            Folder target;
+
+            if (null == tmp) {
+                target = root.AddChild (artist).AddChild (album);
             }
             else {
-                foreach (Folder artistAlbum in targetArtistFolder.GetChildren()){
-                    if (artistAlbum.Name == albumName) {
-                        albumFolder = artistAlbum;
-                        break;
-                    }
-                }
-                if (albumFolder == null) {
-                    albumFolder = targetArtistFolder.AddChild(albumName);
-                }
-           }
+                target = tmp.GetChildren ().Find (x => x.Name == album);
 
-            return albumFolder;
+                if (null == target) {
+                    target = tmp.AddChild (album);
+                }
+            }
+
+            return target;
         }
 
         private int OnUploadProgress (ulong sent, ulong total, IntPtr data)
@@ -500,7 +495,7 @@ namespace Banshee.Dap.Mtp
                 // Remove track from album, and remove album from device if it no longer has tracks
                 string key = MakeAlbumKey (track.ArtistName, track.AlbumTitle);
                 if (album_cache.ContainsKey (key)) {
-                    Album album = album_cache[key];
+                    Album album = album_cache[key].Item1;
                     album.RemoveTrack (mtp_track);
                     if (album.Count == 0) {
                         album.Remove ();
