@@ -49,6 +49,10 @@ using Banshee.Configuration;
 using Banshee.Preferences;
 using Gst.Video;
 
+using Constants = Gst.Constants;
+using Global = Gst.Global;
+using GlobalPbUtil = Gst.PbUtils.Global;
+
 namespace Banshee.GStreamerSharp
 {
     public class PlayerEngine : Banshee.MediaEngine.PlayerEngine, IEqualizer, IVisualizationDataSource
@@ -799,7 +803,7 @@ namespace Banshee.GStreamerSharp
             if (!list.GetString (Constants.TAG_LANGUAGE_CODE, out code))
                 return String.Empty;
 
-            var name = Gst.Tags.GlobalTag.TagGetLanguageName (code);
+            var name = Tag.GetLanguageName (code);
             Log.Debug ("Subtitle language code " + code + " resolved to " + name);
 
             return name;

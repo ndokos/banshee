@@ -45,6 +45,8 @@ using Banshee.Configuration.Schema;
 using Gst;
 using Gst.Video;
 
+using Global = Gst.Video.Global;
+
 namespace Banshee.GStreamerSharp
 {
     public class VideoManager
@@ -114,7 +116,7 @@ namespace Banshee.GStreamerSharp
                 return;
             }
 
-            if (!GlobalVideo.IsVideoOverlayPrepareWindowHandleMessage (message)) {
+            if (!Global.IsVideoOverlayPrepareWindowHandleMessage (message)) {
                 return;
             }
 
