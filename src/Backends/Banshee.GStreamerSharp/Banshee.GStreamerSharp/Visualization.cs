@@ -40,6 +40,9 @@ using Hyena;
 
 using Banshee.MediaEngine;
 
+using Constants = Gst.Constants;
+using Global = Gst.Audio.Global;
+
 namespace Banshee.GStreamerSharp
 {
     public class Visualization
@@ -147,7 +150,7 @@ namespace Banshee.GStreamerSharp
         private Caps caps = Caps.FromString (
             "audio/x-raw, " +
             //FIXME: is this correct way to port this? https://github.com/GNOME/banshee/commit/e40923df1bc55129832dff5ca2c782f5040b412f#diff-7c442526ef990528be03ffbca9921ec3R38
-            "format = (string) " + Gst.Audio.GlobalAudio.AudioFormatToString (Gst.Audio.AudioFormat.F32) + ", " +
+            "format = (string) " + Global.AudioFormatToString (Gst.Audio.AudioFormat.F32) + ", " +
             "rate = (int) 44100, " +
             "channels = (int) 2");
 
