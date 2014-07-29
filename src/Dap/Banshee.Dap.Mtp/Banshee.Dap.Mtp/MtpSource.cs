@@ -49,9 +49,6 @@ namespace Banshee.Dap.Mtp
 {
     public class MtpSource : DapSource
     {
-        protected override object InternalLock {
-            get { return mtp_device; }
-        }
         private MtpDevice mtp_device;
 
         //private bool supports_jpegs = false;
@@ -521,7 +518,6 @@ namespace Banshee.Dap.Mtp
                 return;
 
             disposed = true;
-            base.Dispose ();
 
             if (mtp_device != null) {
                 lock (mtp_device) {
@@ -530,6 +526,8 @@ namespace Banshee.Dap.Mtp
             }
 
             mtp_device = null;
+
+            base.Dispose ();
         }
 
         private static string MakeAlbumKey (string album_artist, string album)

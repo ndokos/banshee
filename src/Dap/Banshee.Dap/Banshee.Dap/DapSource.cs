@@ -110,8 +110,6 @@ namespace Banshee.Dap
                 }
             }
 
-            Flush ();
-
             if (dap_info_bar != null) {
                 var info_bar = dap_info_bar;
                 ThreadAssist.ProxyToMain (info_bar.Destroy);
@@ -126,6 +124,8 @@ namespace Banshee.Dap
 
             if (sync != null)
                 sync.Dispose ();
+
+            base.Dispose ();
         }
 
         private void PurgeTemporaryPlaylists ()
