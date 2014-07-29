@@ -115,7 +115,7 @@ namespace Banshee.Dap
                     }
 
                     while (to_remove.Count > 0) {
-                        UnmapDevice (to_remove.Dequeue ().Device.Uuid);
+                        Unmap (to_remove.Dequeue ().Device.Uuid);
                     }
                 }
             }
@@ -136,7 +136,7 @@ namespace Banshee.Dap
 
                 List<DapSource> dap_sources = new List<DapSource> (sources.Values);
                 foreach (DapSource source in dap_sources) {
-                    UnmapDevice (source.Device.Uuid);
+                    Unmap (source.Device.Uuid);
                 }
 
                 sources.Clear ();
@@ -308,7 +308,7 @@ namespace Banshee.Dap
             DapSource source = null;
             lock (sync) {
                 if (sources == null) {
-                    // DapService already disposed...
+                    Log.WarningFormat ("Dap.DapService: already Disposed, can't unmap {0}", uuid);
                     return;
                 }
 
