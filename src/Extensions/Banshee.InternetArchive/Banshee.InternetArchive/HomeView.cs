@@ -97,7 +97,7 @@ namespace Banshee.InternetArchive
             var search_box = new HBox () { Spacing = 6, BorderWidth = 4 };
             var entry = new SearchEntry () {
                 Visible = true,
-                EmptyMessage = String.Format (Catalog.GetString ("Search..."))
+                EmptyMessage = String.Format (Catalog.GetString ("Search…"))
             };
 
             source.Properties.Set<SearchEntry> ("Nereid.SearchEntry", entry);

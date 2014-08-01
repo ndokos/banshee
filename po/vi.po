@@ -104,7 +104,7 @@ msgstr "Thư viện sách tiếng (audiobook)"
 
 #: ../data/addin-xml-strings.cs:44
 msgid "Organize audiobooks, lectures, etc."
-msgstr "Tổ chức sách tiếng, các bài giảng,..."
+msgstr "Tổ chức sách tiếng, các bài giảng,…"
 
 #: ../data/addin-xml-strings.cs:45 ../data/addin-xml-strings.cs:50
 #: ../data/addin-xml-strings.cs:80 ../data/addin-xml-strings.cs:95
@@ -701,8 +701,8 @@ msgid "Could not construct pipeline"
 msgstr "Không thể cấu tạo ống dẫn"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Ghi CD..."
+msgid "Write CD…"
+msgstr "Ghi CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1347,13 +1347,13 @@ msgstr "Đang quét tìm các tập tin đa phương tiện"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
-msgstr "Đang quét..."
+msgid "Scanning…"
+msgstr "Đang quét…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Đang quét ({0} tập tin)..."
+msgid "Scanning ({0} files)…"
+msgstr "Đang quét ({0} tập tin)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -1369,7 +1369,7 @@ msgstr "Tiến trình nhập hiện thời đang chạy. Bạn có muốn dừng
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdRipper.cs:185
 #, csharp-format
 msgid "Importing {0} of {1}"
-msgstr "Đang nhập {0} trên {1}..."
+msgstr "Đang nhập {0} trên {1}…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/RescanPipeline.cs:78
 #, csharp-format
@@ -1648,7 +1648,7 @@ msgstr "Các bài hát chưa được đánh giá"
 
 #: ../src/Core/Banshee.Services/Banshee.Library/ThreadPoolImportSource.cs:56
 msgid "Importing Songs"
-msgstr "Đang nhập bài hát..."
+msgstr "Đang nhập bài hát…"
 
 #: ../src/Core/Banshee.Services/Banshee.Library/ThreadPoolImportSource.cs:113
 #, csharp-format
@@ -2672,8 +2672,8 @@ msgid "External Document"
 msgstr "Tài liệu bên ngoài"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Chọn ảnh bìa mới..."
+msgid "Choose New Cover Art…"
+msgstr "Chọn ảnh bìa mới…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2720,12 +2720,12 @@ msgid "Hide context pane"
 msgstr "Ẩn khung ngữ cảnh"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "Đang chờ phát nhạc bắt đầu..."
+msgid "Waiting for playback to begin…"
+msgstr "Đang chờ phát nhạc bắt đầu…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "Đang tải..."
+msgid "Loading…"
+msgstr "Đang tải…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -2873,8 +2873,8 @@ msgid "Open Location"
 msgstr "Mở vị trí"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Duyệt..."
+msgid "Browse…"
+msgstr "Duyệt…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -2889,16 +2889,16 @@ msgid "_Media"
 msgstr "_Phương tiện"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Nhập _Phương tiện..."
+msgid "Import _Media…"
+msgstr "Nhập _Phương tiện…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Nhập phương tiện từ nhiều nguồn"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Nhập _danh sách phát..."
+msgid "Import _Playlist…"
+msgstr "Nhập _danh sách phát…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -2913,8 +2913,8 @@ msgid "Rescan the Music Library folder"
 msgstr "Quét lại thư mục thư viện nhạc"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Mở Đị_a chỉ..."
+msgid "Open _Location…"
+msgstr "Mở Đị_a chỉ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3017,8 +3017,8 @@ msgid "Play the previous item"
 msgstr "Phát mục trước"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Tua _tới..."
+msgid "Seek _To…"
+msgstr "Tua _tới…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3097,8 +3097,8 @@ msgid "Subtitle"
 msgstr "Phụ đề"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Nạp tập tin..."
+msgid "Load File…"
+msgstr "Nạp tập tin…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3139,8 +3139,8 @@ msgid "Create a new empty playlist"
 msgstr "Tạo một danh sách phát rỗng mới"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "Danh _sách thông minh mới..."
+msgid "New _Smart Playlist…"
+msgstr "Danh _sách thông minh mới…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3159,8 +3159,8 @@ msgid "Rename"
 msgstr "Đổi tên"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Xuất danh sách phát..."
+msgid "Export Playlist…"
+msgstr "Xuất danh sách phát…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3842,8 +3842,8 @@ msgid "Continue {0}"
 msgstr "Tiếp tục {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "Đang dừng..."
+msgid "Stopping…"
+msgstr "Đang dừng…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3862,8 +3862,8 @@ msgid "Files"
 msgstr "Tập tin"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "C_họn tập tin..."
+msgid "C_hoose Files…"
+msgstr "C_họn tập tin…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -3890,8 +3890,8 @@ msgid "Folders"
 msgstr "Thư Mục"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Chọn thư mục..."
+msgid "C_hoose Folders…"
+msgstr "Chọn thư mục…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -3966,7 +3966,7 @@ msgid "Reset location to default ({0})"
 msgstr "Đặt lại vị trí về mặc định ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4026,8 +4026,8 @@ msgstr "Hiện hoặc ẩn bộ duyệt album/nghệ sĩ"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "Đang tải {0}..."
+msgid "Loading {0}…"
+msgstr "Đang tải {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4051,8 +4051,8 @@ msgstr "Nghỉ"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Đang liên lạc..."
+msgid "Contacting…"
+msgstr "Đang liên lạc…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
 msgid "Buffering"
@@ -4124,8 +4124,8 @@ msgstr "Đang đồng bộ iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:550
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:695
-msgid "Preparing to synchronize..."
-msgstr "Đang chuẩn bị để đồng bộ..."
+msgid "Preparing to synchronize…"
+msgstr "Đang chuẩn bị để đồng bộ…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:553
 #, csharp-format
@@ -4311,8 +4311,8 @@ msgstr "Ngắt kết nối"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Đang ngắt kết nối {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Đang ngắt kết nối {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4322,23 +4322,23 @@ msgstr "Không thể ngắt kết nối {0}: {1}"
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:92
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:95
 msgid "Rebuilding Database"
-msgstr "Đang xây dựng lại cơ sở dữ liệu..."
+msgstr "Đang xây dựng lại cơ sở dữ liệu…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
-msgstr "Đang quét iPod..."
+msgid "Scanning iPod…"
+msgstr "Đang quét iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
-msgstr "Đang xử lý các Bản nhạc..."
+msgid "Processing Tracks…"
+msgstr "Đang xử lý các Bản nhạc…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
-msgstr "Đang sắp xếp bài..."
+msgid "Ordering Tracks…"
+msgstr "Đang sắp xếp bài…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
-msgstr "Đang lưu cơ sở dữ liệu mới..."
+msgid "Saving new database…"
+msgstr "Đang lưu cơ sở dữ liệu mới…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
 msgid "Error rebuilding iPod database"
@@ -4369,11 +4369,11 @@ msgid "Please manually remove some songs"
 msgstr "Hãy tự gỡ bỏ vài bài hát"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:724
-msgid "Updating..."
-msgstr "Đang cập nhật..."
+msgid "Updating…"
+msgstr "Đang cập nhật…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:728
-msgid "Flushing to disk..."
+msgid "Flushing to disk…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:61
@@ -4421,8 +4421,8 @@ msgstr ""
 "iPod của bạn được gắn chỉ đọc. Banshee không thể phục hồi iPod của bạn."
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:125
-msgid "Rebuild iPod Database..."
-msgstr "Xây dựng lại cơ sở dữ liệu iPod..."
+msgid "Rebuild iPod Database…"
+msgstr "Xây dựng lại cơ sở dữ liệu iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:133
 msgid "Confirm Rebuild iPod Database"
@@ -4445,8 +4445,8 @@ msgid "Rebuild Database"
 msgstr "Xây dựng lại cơ sở dữ liệu"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:157
-msgid "Rebuilding iPod Database..."
-msgstr "Đang xây dựng lại cơ sở dữ liệu iPod..."
+msgid "Rebuilding iPod Database…"
+msgstr "Đang xây dựng lại cơ sở dữ liệu iPod…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
 msgid "Purchased Music"
@@ -4591,7 +4591,7 @@ msgid "Open Book"
 msgstr "Mở sách"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "Hợp nhất đĩa"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
@@ -4680,7 +4680,7 @@ msgstr "Bài {0}"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdRipper.cs:121
 msgid "Importing Audio CD"
-msgstr "Đang nhập đĩa CD âm thanh..."
+msgstr "Đang nhập đĩa CD âm thanh…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdRipper.cs:122
 msgid "Initializing Drive"
@@ -4761,8 +4761,8 @@ msgid "Duplicate this audio CD"
 msgstr "Sao đôi CD âm thanh này"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-msgid "Searching for track information..."
-msgstr "Đang tìm kiếm thông tin bài..."
+msgid "Searching for track information…"
+msgstr "Đang tìm kiếm thông tin bài…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
 msgid "Could not fetch track information"
@@ -4782,8 +4782,8 @@ msgid "Could not duplicate audio CD"
 msgstr "Không thể sao đôi CD âm thanh"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
-msgstr "Đang đẩy CD âm thanh ra..."
+msgid "Ejecting audio CD…"
+msgstr "Đang đẩy CD âm thanh ra…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
 #, csharp-format
@@ -4984,7 +4984,7 @@ msgstr "Đang tải (các) bài từ eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Đang khởi chạy"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -5005,7 +5005,7 @@ msgstr "Đang hủy các tải về"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Đang đợi các tải về chấm dứt"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5068,8 +5068,8 @@ msgstr ""
 "mong muốn để làm nó đậm lên hoặc bỏ chọn nó để không làm gì cả."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Sửa chữa dữ liệu lý lịch nhạc..."
+msgid "Fix Music Metadata…"
+msgstr "Sửa chữa dữ liệu lý lịch nhạc…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5305,8 +5305,8 @@ msgstr "_Văn bản"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Tìm kiếm..."
+msgid "Search…"
+msgstr "Tìm kiếm…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5941,8 +5941,8 @@ msgid "Unknown Similarity"
 msgstr "Tương tự không rõ"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Thêm đài phát..."
+msgid "_Add Station…"
+msgstr "_Thêm đài phát…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6277,7 +6277,7 @@ msgstr "Nhập các đánh giá bài hát"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:93
 msgid "Import play statistics (playcount, etc.)"
-msgstr "Nhập các thống kê bài hát (số lần phát,...)"
+msgstr "Nhập các thống kê bài hát (số lần phát,…)"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:96
 msgid "Import playlists"
@@ -6286,8 +6286,8 @@ msgstr "Nhập danh sách phát"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Định vị tập tin \"{0}\" của bạn..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Định vị tập tin \"{0}\" của bạn…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
@@ -6539,8 +6539,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Kiểm tra phần mới cho tất cả podcast"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Thêm podcast..."
+msgid "Add Podcast…"
+msgstr "Thêm podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6759,13 +6759,13 @@ msgstr "Tải lên bởi"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Phát trong Banshee..."
+msgid "Play in Banshee…"
+msgstr "Phát trong Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Phát trong trình duyệt web..."
+msgid "Play in Web Browser…"
+msgstr "Phát trong trình duyệt web…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7070,8 +7070,8 @@ msgstr "Podcast không rõ"
 #~ msgid "Music Player"
 #~ msgstr "Bộ phát nhạc"
 
-#~ msgid "<b>Loading...</b>"
-#~ msgstr "<b>Đang tải...</b>"
+#~ msgid "<b>Loading…</b>"
+#~ msgstr "<b>Đang tải…</b>"
 
 #~ msgid "Disk Usage:"
 #~ msgstr "Chỗ trên đĩa:"
@@ -7113,13 +7113,13 @@ msgstr "Podcast không rõ"
 
 #~ msgid ""
 #~ "Format for creating filenames/directories for ripped tracks, imported music, "
-#~ "etc. Format is relative to the Banshee music directory... do not form an "
+#~ "etc. Format is relative to the Banshee music directory… do not form an "
 #~ "absolute path! Tokens: %artist%, %album%, %title%, %track_number%, "
 #~ "%track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No "
 #~ "prefixed zero)."
 #~ msgstr ""
 #~ "Dạng thức khi tạo tên tập tin/thư mục cho các rãnh ghi đã trích, âm nhạc đã "
-#~ "nhập v.v. Dạng thức cân xứng với thư mục âm nhạc Banshee ... đừng tạo đường "
+#~ "nhập v.v. Dạng thức cân xứng với thư mục âm nhạc Banshee … đừng tạo đường "
 #~ "dẫn tuyệt đối ! Các hiệu bài:\n"
 #~ "%artist%, \t\t\t\tnhạc sĩ\n"
 #~ "%album%\t\t\t\ttập nhạc\n"
@@ -7452,26 +7452,26 @@ msgstr "Podcast không rõ"
 #~ msgid "_Music"
 #~ msgstr "_Nhạc"
 
-#~ msgid "Import _Folder..."
-#~ msgstr "Nhập thư _mục..."
+#~ msgid "Import _Folder…"
+#~ msgstr "Nhập thư _mục…"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "Nhập nội dung của toàn bộ thư mục"
 
-#~ msgid "Import Files..."
-#~ msgstr "Nhập tập tin..."
+#~ msgid "Import Files…"
+#~ msgstr "Nhập tập tin…"
 
 #~ msgid "Import files inside a folder"
 #~ msgstr "Nhập các tập tin trong thư mục"
 
-#~ msgid "Import Music..."
-#~ msgstr "Nhập nhạc..."
+#~ msgid "Import Music…"
+#~ msgstr "Nhập nhạc…"
 
 #~ msgid "Import music from a variety of sources"
 #~ msgstr "Nhập âm nhạc từ nguồn khác nhau"
 
-#~ msgid "Open Location..."
-#~ msgstr "Mở địa điểm..."
+#~ msgid "Open Location…"
+#~ msgstr "Mở địa điểm…"
 
 #~ msgid "Write CD"
 #~ msgstr "Ghi vào đĩa CD"
@@ -7482,8 +7482,8 @@ msgstr "Podcast không rõ"
 #~ msgid "Import Source"
 #~ msgstr "Nhập nguồn"
 
-#~ msgid "Source Properties..."
-#~ msgstr "Tài sản nguồn..."
+#~ msgid "Source Properties…"
+#~ msgstr "Tài sản nguồn…"
 
 #~ msgid "View source properties"
 #~ msgstr "Xem các tài sản của nguồn"
@@ -7503,14 +7503,14 @@ msgstr "Podcast không rõ"
 #~ msgid "Jump to playing song"
 #~ msgstr "Nhảy tớ bài hát đang phát"
 
-#~ msgid "Plugins..."
-#~ msgstr "Bổ sung..."
+#~ msgid "Plugins…"
+#~ msgstr "Bổ sung…"
 
 #~ msgid "Configure Banshee plugins"
 #~ msgstr "Cấu hình các bổ sung Banshee"
 
-#~ msgid "Columns..."
-#~ msgstr "Cột..."
+#~ msgid "Columns…"
+#~ msgstr "Cột…"
 
 #~ msgid "Select which columns to display in the song list"
 #~ msgstr "Chọn những cột cần hiển thị trong danh sách bài hát"
@@ -7518,14 +7518,14 @@ msgstr "Podcast không rõ"
 #~ msgid "Display the equalizer."
 #~ msgstr "Hiển thị bộ trộn tần số"
 
-#~ msgid "Logged Events Viewer..."
-#~ msgstr "Bộ xem sự kiện đã ghi lưu..."
+#~ msgid "Logged Events Viewer…"
+#~ msgstr "Bộ xem sự kiện đã ghi lưu…"
 
 #~ msgid "View a detailed log of events"
 #~ msgstr "Xem bản ghi chi tiết về các sự kiện"
 
-#~ msgid "Version Information..."
-#~ msgstr "Thông tin phiên bản..."
+#~ msgid "Version Information…"
+#~ msgstr "Thông tin phiên bản…"
 
 #~ msgid "Web Resources"
 #~ msgstr "Tài nguyên Mạng"
@@ -7653,8 +7653,8 @@ msgstr "Podcast không rõ"
 #~ msgid "Seek forward in current song"
 #~ msgstr "Tìm tiên lên trong bài hát hiện có"
 
-#~ msgid "Seek To..."
-#~ msgstr "Tìm tới..."
+#~ msgid "Seek To…"
+#~ msgstr "Tìm tới…"
 
 #~ msgid "Seek to a specific location in current song"
 #~ msgstr "Tìm tới vị trí riêng trong bài hát hiện có"
@@ -7819,7 +7819,7 @@ msgstr "Podcast không rõ"
 #~ msgstr "Đang đóng phiên ghi vào đĩa"
 
 #~ msgid "Waiting for Media"
-#~ msgstr "Đang đợi vật chứa..."
+#~ msgstr "Đang đợi vật chứa…"
 
 #~ msgid "Insert blank disc"
 #~ msgstr "Nạp đĩa trắng"
@@ -7852,7 +7852,7 @@ msgstr "Podcast không rõ"
 #~ msgstr "Không thể chạy trình nautilus-cd-burner"
 
 #~ msgid "Scanning"
-#~ msgstr "Đang quét..."
+#~ msgstr "Đang quét…"
 
 #~ msgid "Could not initialize component"
 #~ msgstr "Không thể sở khởi thành phần"
@@ -7867,8 +7867,8 @@ msgstr "Podcast không rõ"
 #~ "Các tập tin hiện thời đang được chuyển đổi sang dạng thức âm thanh khác. Bạn "
 #~ "có muốn thôi tiến trình này không?"
 
-#~ msgid "Initializing Transcoder..."
-#~ msgstr "Đang sở khởi bộ chuyển đổi mã..."
+#~ msgid "Initializing Transcoder…"
+#~ msgstr "Đang sở khởi bộ chuyển đổi mã…"
 
 #~ msgid "Cannot initialize DapCore because HalCore is not initialized"
 #~ msgstr "Không thể sở khởi lõi DapCore vì lõi HalCore chưa được sở khởi"
@@ -7876,11 +7876,11 @@ msgstr "Podcast không rõ"
 #~ msgid "Synchronizing {0}"
 #~ msgstr "Đang đồng bộ hóa {0}"
 
-#~ msgid "Waiting for transcoder..."
-#~ msgstr "Đang đợi bộ chuyển đổi mã..."
+#~ msgid "Waiting for transcoder…"
+#~ msgstr "Đang đợi bộ chuyển đổi mã…"
 
-#~ msgid "Processing..."
-#~ msgstr "Đang xử lý..."
+#~ msgid "Processing…"
+#~ msgstr "Đang xử lý…"
 
 #~ msgid "Device Name"
 #~ msgstr "Tên thiết bị"
@@ -7989,7 +7989,7 @@ msgstr "Podcast không rõ"
 #~ msgstr "Thư mục chính"
 
 #~ msgid "Scanning for songs"
-#~ msgstr "Đang quét tìm bài hát..."
+#~ msgstr "Đang quét tìm bài hát…"
 
 #~ msgid "Could not load track from library"
 #~ msgstr "Không thể tải rãnh ghi từ thư viện"
@@ -8067,14 +8067,14 @@ msgstr "Podcast không rõ"
 #~ msgid "Eject CD"
 #~ msgstr "Đẩy ra đĩa CD"
 
-#~ msgid "Reading table of contents from CD..."
-#~ msgstr "Đang đọc mục lục từ đĩa CD..."
+#~ msgid "Reading table of contents from CD…"
+#~ msgstr "Đang đọc mục lục từ đĩa CD…"
 
-#~ msgid "Searching for CD metadata..."
-#~ msgstr "Đang tìm kiếm siêu dữ liệu về đĩa CD..."
+#~ msgid "Searching for CD metadata…"
+#~ msgstr "Đang tìm kiếm siêu dữ liệu về đĩa CD…"
 
-#~ msgid "Searching for CD cover art..."
-#~ msgstr "Đang tìm kiếm ảnh ở bìa trên đĩa CD..."
+#~ msgid "Searching for CD cover art…"
+#~ msgstr "Đang tìm kiếm ảnh ở bìa trên đĩa CD…"
 
 #~ msgid ""
 #~ "Cannot search for CD metadata: there is no available Internet connection"
@@ -8092,8 +8092,8 @@ msgstr "Podcast không rõ"
 #~ msgid "Copy CD"
 #~ msgstr "Chép đĩa CD"
 
-#~ msgid "Synchronizing your Device, Please Wait..."
-#~ msgstr "Đang đồng bộ hoá thiết bị của bạn. Hãy đời một chút..."
+#~ msgid "Synchronizing your Device, Please Wait…"
+#~ msgstr "Đang đồng bộ hoá thiết bị của bạn. Hãy đời một chút…"
 
 #~ msgid "Importing"
 #~ msgstr "Đang nhập khẩu"
@@ -8147,13 +8147,13 @@ msgstr "Podcast không rõ"
 #~ msgstr "Không thể đẩy ra iPod"
 
 #~ msgid "Synchronizing iPod"
-#~ msgstr "Đang đồng bộ hoá iPod..."
+#~ msgstr "Đang đồng bộ hoá iPod…"
 
 #~ msgid "Pre-processing tracks"
-#~ msgstr "Đang tiền xử lý rãnh ghi..."
+#~ msgstr "Đang tiền xử lý rãnh ghi…"
 
 #~ msgid "Flushing to Disk (may take time)"
-#~ msgstr "Đang chuyển hết ra đĩa (có thể kéo dài một lát)..."
+#~ msgstr "Đang chuyển hết ra đĩa (có thể kéo dài một lát)…"
 
 #~ msgid "Failed to synchronize iPod"
 #~ msgstr "Lỗi đồng bộ hóa iPod"
@@ -8183,13 +8183,13 @@ msgstr "Podcast không rõ"
 #~ msgstr ": Sẵn sàng sử dụng"
 
 #~ msgid "Synchronizing Device"
-#~ msgstr "Đang đồng bộ hóa thiết bị..."
+#~ msgstr "Đang đồng bộ hóa thiết bị…"
 
 #~ msgid "Cannot read device"
 #~ msgstr "Không thể đọc thiết bị"
 
 #~ msgid "Removing Songs"
-#~ msgstr "Đang gỡ bỏ bài hát..."
+#~ msgstr "Đang gỡ bỏ bài hát…"
 
 #~ msgid "Device Error"
 #~ msgstr "Lỗi thiết bị"
@@ -8236,8 +8236,8 @@ msgstr "Podcast không rõ"
 #~ msgid "Visit the Banshee last.fm group page"
 #~ msgstr "Thăm trang nhóm Last.fm của Banshee"
 
-#~ msgid "Configure..."
-#~ msgstr "Cấu hình..."
+#~ msgid "Configure…"
+#~ msgstr "Cấu hình…"
 
 #~ msgid ""
 #~ "Allow engine to submit song data to last.fm in the Audioscrobbler plugin"

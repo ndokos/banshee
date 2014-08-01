@@ -695,8 +695,8 @@ msgid "Could not construct pipeline"
 msgstr ""
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "CD వ్రాయి..."
+msgid "Write CD…"
+msgstr "CD వ్రాయి…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1420,13 +1420,13 @@ msgstr "మీడియా కోసం స్కానింగ్‌చేస�
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1419
-msgid "Scanning..."
-msgstr "స్కానింగ్‌చేస్తోంది..."
+msgid "Scanning…"
+msgstr "స్కానింగ్‌చేస్తోంది…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "స్కానింగ్ చేస్తోంది ({0} దస్త్రాలు)..."
+msgid "Scanning ({0} files)…"
+msgstr "స్కానింగ్ చేస్తోంది ({0} దస్త్రాలు)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2733,8 +2733,8 @@ msgid "External Document"
 msgstr "బాహ్య పత్రం"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "కొత్త ముఖచిత్రాన్ని ఎన్నుకొను..."
+msgid "Choose New Cover Art…"
+msgstr "కొత్త ముఖచిత్రాన్ని ఎన్నుకొను…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2781,13 +2781,13 @@ msgid "Hide context pane"
 msgstr "కాంటెక్స్ట్ పేన్‌ను దాయి"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "ప్లేబాక్ ప్రారంభించుటకు నిరీక్షిస్తోంది..."
+msgid "Waiting for playback to begin…"
+msgstr "ప్లేబాక్ ప్రారంభించుటకు నిరీక్షిస్తోంది…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:152
-msgid "Loading..."
-msgstr "నింపుతోంది..."
+msgid "Loading…"
+msgstr "నింపుతోంది…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -2935,8 +2935,8 @@ msgid "Open Location"
 msgstr "స్థానాన్ని తెరువు"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "విహరించు..."
+msgid "Browse…"
+msgstr "విహరించు…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -2951,16 +2951,16 @@ msgid "_Media"
 msgstr "మాధ్యమం (_M)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "మాధ్యమాన్ని దిగుమతిచేయి...(_M)"
+msgid "Import _Media…"
+msgstr "మాధ్యమాన్ని దిగుమతిచేయి…(_M)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "పాటలజాబితాను దిగుమతిచేయి...(_P)"
+msgid "Import _Playlist…"
+msgstr "పాటలజాబితాను దిగుమతిచేయి…(_P)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -2975,8 +2975,8 @@ msgid "Rescan the Music Library folder"
 msgstr "సంగీత లైబ్రరీ సంచయాన్ని మళ్ళీస్కాన్‌చేయండి"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "స్థానాన్ని తెరువండి...(_L)"
+msgid "Open _Location…"
+msgstr "స్థానాన్ని తెరువండి…(_L)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3078,8 +3078,8 @@ msgid "Play the previous item"
 msgstr "మునుపటి అంశమును ప్లేచేయి"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "ఇచటకు వెళ్లు...(_T)"
+msgid "Seek _To…"
+msgstr "ఇచటకు వెళ్లు…(_T)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3158,8 +3158,8 @@ msgid "Subtitle"
 msgstr "ఉపశీర్షిక"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "ఫైలు నింపు..."
+msgid "Load File…"
+msgstr "ఫైలు నింపు…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3200,8 +3200,8 @@ msgid "Create a new empty playlist"
 msgstr "ఒక కొత్త ఖాళీ పాటలజాబితాను సృష్టించు"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "కొత్త ఆకర్షనీయ పాటలజాబితా...(_S)"
+msgid "New _Smart Playlist…"
+msgstr "కొత్త ఆకర్షనీయ పాటలజాబితా…(_S)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3220,8 +3220,8 @@ msgid "Rename"
 msgstr "పేరుమార్చు"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "పాటలజాబితాను ఎగుమతిచేయి..."
+msgid "Export Playlist…"
+msgstr "పాటలజాబితాను ఎగుమతిచేయి…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3259,7 +3259,7 @@ msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:120
 msgid "New _Smart Playlist"
-msgstr "కొత్త ఆకర్షనీయ పాటలజాబితా...(_S)"
+msgstr "కొత్త ఆకర్షనీయ పాటలజాబితా…(_S)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:129
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:84
@@ -3892,8 +3892,8 @@ msgid "Continue {0}"
 msgstr "{0} కొనసాగించు"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "ఆపివేయబడుతున్నాయి..."
+msgid "Stopping…"
+msgstr "ఆపివేయబడుతున్నాయి…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3912,8 +3912,8 @@ msgid "Files"
 msgstr "దస్త్రాలు"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "దస్త్రాలను ఎన్నుకొను...(_h)"
+msgid "C_hoose Files…"
+msgstr "దస్త్రాలను ఎన్నుకొను…(_h)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -3928,8 +3928,8 @@ msgid "Folders"
 msgstr "సంచయాలు"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "సంచయాలను ఎన్నుకొను...(_h)"
+msgid "C_hoose Folders…"
+msgstr "సంచయాలను ఎన్నుకొను…(_h)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -3995,7 +3995,7 @@ msgid "Reset location to default ({0})"
 msgstr ""
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4119,8 +4119,8 @@ msgstr "{0} కు చెందిన భద్రతా ధృవీకరణ�
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "{0} నింపుతోంది..."
+msgid "Loading {0}…"
+msgstr "{0} నింపుతోంది…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4144,8 +4144,8 @@ msgstr "జడం"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "సంప్రదిస్తున్నది..."
+msgid "Contacting…"
+msgstr "సంప్రదిస్తున్నది…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:162
 msgid "Buffering"
@@ -4196,7 +4196,7 @@ msgid "Syncing iPod"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:572
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:575
@@ -4373,8 +4373,8 @@ msgstr "అననుసంధానించు"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "{0} అననుసంధానించబడుతోంది..."
+msgid "Disconnecting {0}…"
+msgstr "{0} అననుసంధానించబడుతోంది…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4522,8 +4522,8 @@ msgid "Open Book"
 msgstr "పుస్తకాన్ని తెరువు"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "డిస్కులను మిళితంచేయి..."
+msgid "Merge Discs…"
+msgstr "డిస్కులను మిళితంచేయి…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -4778,7 +4778,7 @@ msgstr ""
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -4800,7 +4800,7 @@ msgstr "డౌన్‌లోడ్‌లను రద్దుచేస్త�
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -4873,8 +4873,8 @@ msgid ""
 msgstr ""
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "సంగీతపు మెటాడేటాను ఫిక్స్ చేయి..."
+msgid "Fix Music Metadata…"
+msgstr "సంగీతపు మెటాడేటాను ఫిక్స్ చేయి…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5109,8 +5109,8 @@ msgstr "పాఠ్యం(_T)"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "శోధించండి..."
+msgid "Search…"
+msgstr "శోధించండి…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5570,12 +5570,12 @@ msgid "Scrobbling from device"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:403
-msgid "Scrobbling from device..."
+msgid "Scrobbling from device…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:414
 #, csharp-format
-msgid "Processing track {0} of {1} ..."
+msgid "Processing track {0} of {1} …"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
@@ -5762,8 +5762,8 @@ msgid "Unknown Similarity"
 msgstr ""
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "స్టేషన్‌ను జతచేయి...(_A)"
+msgid "_Add Station…"
+msgstr "స్టేషన్‌ను జతచేయి…(_A)"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6163,8 +6163,8 @@ msgid "Duplicate this audio CD"
 msgstr "ఈ ఆడియో CDని నకిళీచేయి"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "ట్రాక్ సమాచారం కోసం వెతుకుతోంది..."
+msgid "Searching for track information…"
+msgstr "ట్రాక్ సమాచారం కోసం వెతుకుతోంది…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6199,8 +6199,8 @@ msgstr ""
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "{0} నెట్టుతోంది..."
+msgid "Ejecting {0}…"
+msgstr "{0} నెట్టుతోంది…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6256,7 +6256,7 @@ msgstr "పాటలజాబితాను దిగుమతిచేయి"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6492,8 +6492,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "కొత్త భాగముల కోసం అన్ని పోడ్‌కాస్ట్‍లను పరిశీలించు"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "పోడ్‌కాస్ట్ జతచేయి..."
+msgid "Add Podcast…"
+msgstr "పోడ్‌కాస్ట్ జతచేయి…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6719,13 +6719,13 @@ msgstr "ఎక్కించినవారు"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "బన్‌షీలో ప్లేచేయండి..."
+msgid "Play in Banshee…"
+msgstr "బన్‌షీలో ప్లేచేయండి…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "జాల విహారిణిలో ప్రదర్శించు..."
+msgid "Play in Web Browser…"
+msgstr "జాల విహారిణిలో ప్రదర్శించు…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7072,11 +7072,11 @@ msgstr "తెలియని పోడ్‌కాస్ట్"
 #~ msgid "Rebuilding Database"
 #~ msgstr "డేటాబేసుని పునఃనిర్మిస్తున్నది"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "iPodను స్కానింగ్ చేస్తోంది..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "iPodను స్కానింగ్ చేస్తోంది…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "కొత్త డేటాబేసుని భద్రపరుస్తోంది..."
+#~ msgid "Saving new database…"
+#~ msgstr "కొత్త డేటాబేసుని భద్రపరుస్తోంది…"
 
 #~ msgid "Color"
 #~ msgstr "రంగు"
@@ -7090,8 +7090,8 @@ msgstr "తెలియని పోడ్‌కాస్ట్"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "దయచేసి మానవీయంగా కొన్ని పాటలను తొలగించండి"
 
-#~ msgid "Updating..."
-#~ msgstr "నవీకరిస్తోంది..."
+#~ msgid "Updating…"
+#~ msgstr "నవీకరిస్తోంది…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "మీ iPodను చదవలేకపోతోంది"
@@ -7099,8 +7099,8 @@ msgstr "తెలియని పోడ్‌కాస్ట్"
 #~ msgid "What is the reason for this?"
 #~ msgstr "దీనికి కారణం ఏమిటి?"
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "iPod డేటాబేసుని తిరిగినిర్మించు..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "iPod డేటాబేసుని తిరిగినిర్మించు…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "iPod డేటాబేసు పునఃనిర్మాణాన్ని నిర్ధారించు"
@@ -7108,11 +7108,11 @@ msgstr "తెలియని పోడ్‌కాస్ట్"
 #~ msgid "Rebuild Database"
 #~ msgstr "డేటాబేసుని తిరిగినిర్మించు"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "iPod డేటాబేసుని తిరిగినిర్మిస్తోంది..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "iPod డేటాబేసుని తిరిగినిర్మిస్తోంది…"
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "ఆడియో CD బయటకునెట్టుతోంది..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "ఆడియో CD బయటకునెట్టుతోంది…"
 
 #~ msgid ""
 #~ "Simplify the Now Playing interface by hiding the source list and more"

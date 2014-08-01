@@ -672,8 +672,8 @@ msgstr ""
 "Müzik;Radyo;"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "CD yaz..."
+msgid "Write CD…"
+msgstr "CD yaz…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1512,13 +1512,13 @@ msgstr "Ortam taranıyor"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
-msgstr "Taranıyor..."
+msgid "Scanning…"
+msgstr "Taranıyor…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Taranıyor ({0} dosya)..."
+msgid "Scanning ({0} files)…"
+msgstr "Taranıyor ({0} dosya)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2838,8 +2838,8 @@ msgid "External Document"
 msgstr "Harici Belge"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Yeni Kapak Resmi Seç..."
+msgid "Choose New Cover Art…"
+msgstr "Yeni Kapak Resmi Seç…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2886,13 +2886,13 @@ msgid "Hide context pane"
 msgstr "Bağlam panelini gizle"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
-msgstr "Çalmanın başlaması için bekleniyor..."
+msgid "Waiting for playback to begin…"
+msgstr "Çalmanın başlaması için bekleniyor…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
-msgstr "Yükleniyor..."
+msgid "Loading…"
+msgstr "Yükleniyor…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3041,8 +3041,8 @@ msgid "Open Location"
 msgstr "Konumu Aç"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Gözat..."
+msgid "Browse…"
+msgstr "Gözat…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3057,24 +3057,24 @@ msgid "_Media"
 msgstr "_Ortam"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "_Ortamı İçe Aktar..."
+msgid "Import _Media…"
+msgstr "_Ortamı İçe Aktar…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Türlü kaynaklardan ortamı içe aktar"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Çalma _Listesini Al..."
+msgid "Import _Playlist…"
+msgstr "Çalma _Listesini Al…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "Bir çalma listesi al"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "_Konum Aç..."
+msgid "Open _Location…"
+msgstr "_Konum Aç…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 msgid "Open a remote location for playback"
@@ -3192,8 +3192,8 @@ msgid "Play the previous item"
 msgstr "Önceki öğeyi çal"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "A_tla..."
+msgid "Seek _To…"
+msgstr "A_tla…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3272,8 +3272,8 @@ msgid "Subtitle"
 msgstr "Altyazı"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Dosya Yükle..."
+msgid "Load File…"
+msgstr "Dosya Yükle…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3314,8 +3314,8 @@ msgid "Create a new empty playlist"
 msgstr "Yeni bir boş çalma listesi oluştur"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:71
-msgid "New _Smart Playlist..."
-msgstr "Yeni _Akıllı Çalma Listesi..."
+msgid "New _Smart Playlist…"
+msgstr "Yeni _Akıllı Çalma Listesi…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:72
 msgid "Create a new smart playlist"
@@ -3334,8 +3334,8 @@ msgid "Rename"
 msgstr "Yeniden adlandır"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:89
-msgid "Export Playlist..."
-msgstr "Çalma Listesini Aktar..."
+msgid "Export Playlist…"
+msgstr "Çalma Listesini Aktar…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:90
 msgid "Export a playlist"
@@ -3582,7 +3582,7 @@ msgstr "Eşleşen _Sanatçıya Göre"
 msgid "Search all songs of this artist"
 msgstr "Bu sanatçının tüm şarkılarını ara"
 
-#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track..."
+#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track…"
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:305
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:306
 #, fuzzy
@@ -4111,8 +4111,8 @@ msgid "Continue {0}"
 msgstr "Devam et {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
-msgstr "Durduruluyor..."
+msgid "Stopping…"
+msgstr "Durduruluyor…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4131,8 +4131,8 @@ msgid "Files"
 msgstr "Dosyalar"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "Dosyaları _Seç..."
+msgid "C_hoose Files…"
+msgstr "Dosyaları _Seç…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4147,8 +4147,8 @@ msgid "Folders"
 msgstr "Klasörler"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Klasörleri _Seç..."
+msgid "C_hoose Folders…"
+msgstr "Klasörleri _Seç…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4214,7 +4214,7 @@ msgid "Reset location to default ({0})"
 msgstr "Konumu öntanımlıya sıfırla ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4339,8 +4339,8 @@ msgstr "{0} sayfasının güvenlik sertifikası geçersiz."
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "{0} Yükleniyor..."
+msgid "Loading {0}…"
+msgstr "{0} Yükleniyor…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
 msgid ""
@@ -4360,8 +4360,8 @@ msgstr "Boşta"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Bağlanılıyor..."
+msgid "Contacting…"
+msgstr "Bağlanılıyor…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
 msgid "Buffering"
@@ -4412,8 +4412,8 @@ msgid "Syncing iPod"
 msgstr "iPod Eşleniyor"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
-msgstr "Eşlemeye hazırlanılıyor..."
+msgid "Preparing to synchronize…"
+msgstr "Eşlemeye hazırlanılıyor…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
 #, csharp-format
@@ -4592,8 +4592,8 @@ msgstr "Bağlantıyı Kes"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Bağlantı Kesilen {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Bağlantı Kesilen {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
 #, csharp-format
@@ -4740,8 +4740,8 @@ msgid "Open Book"
 msgstr "Kitap Aç"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Diskleri Birleştir..."
+msgid "Merge Discs…"
+msgstr "Diskleri Birleştir…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -5005,8 +5005,8 @@ msgstr "eMusic Parçaları İndiriliyor"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Başlatılıyor..."
+msgid "Initializing…"
+msgstr "Başlatılıyor…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -5026,8 +5026,8 @@ msgstr "İndirmelerden Vazgeçiliyor"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "İndirmeler sonlandırmak için bekliyor..."
+msgid "Waiting for downloads to terminate…"
+msgstr "İndirmeler sonlandırmak için bekliyor…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5105,8 +5105,8 @@ msgstr ""
 "yapılmaması için işaretini kaldırın."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Müzik Meta Verilerini Düzelt..."
+msgid "Fix Music Metadata…"
+msgstr "Müzik Meta Verilerini Düzelt…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5353,8 +5353,8 @@ msgstr "_Metin"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Arama..."
+msgid "Search…"
+msgstr "Arama…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5831,9 +5831,9 @@ msgstr "Last.fm'de oturum aç"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
 #, fuzzy
-#| msgid "Scrobbling from device..."
-msgid "Scrobbling to Last.FM..."
-msgstr "Aygıttan veri toplanıyor..."
+#| msgid "Scrobbling from device…"
+msgid "Scrobbling to Last.FM…"
+msgstr "Aygıttan veri toplanıyor…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -6021,8 +6021,8 @@ msgid "Unknown Similarity"
 msgstr "Benzerlik Bilinmiyor"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "İstasyon _Ekle..."
+msgid "_Add Station…"
+msgstr "İstasyon _Ekle…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6428,8 +6428,8 @@ msgid "Duplicate this audio CD"
 msgstr "Bu ses CD'sini çoğalt"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "Parça bilgisi aranıyor..."
+msgid "Searching for track information…"
+msgstr "Parça bilgisi aranıyor…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6466,8 +6466,8 @@ msgstr "İçe Aktar ‟{0}”"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "{0} çıkartılıyor..."
+msgid "Ejecting {0}…"
+msgstr "{0} çıkartılıyor…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6523,8 +6523,8 @@ msgstr "Çalma listesi içe aktarma"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "\"{0}\" dosyanızı konumlandırın..."
+msgid "Locate your \"{0}\" file…"
+msgstr "\"{0}\" dosyanızı konumlandırın…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6767,8 +6767,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Tüm podcastleri yeni bölümler için denetle"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Podcast Ekle..."
+msgid "Add Podcast…"
+msgstr "Podcast Ekle…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6995,13 +6995,13 @@ msgstr "Yükleyen"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Banshee içinde Çal..."
+msgid "Play in Banshee…"
+msgstr "Banshee içinde Çal…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Web Tarayıcıda Oynat..."
+msgid "Play in Web Browser…"
+msgstr "Web Tarayıcıda Oynat…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7561,14 +7561,14 @@ msgstr "Bilinmeyen Podcast"
 #~ msgid "Rebuilding Database"
 #~ msgstr "Veritabanı Yeniden Yapılıyor"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "iPod Taranıyor..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "iPod Taranıyor…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "Parçalar İşleniyor..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "Parçalar İşleniyor…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "Parçalar Düzenleniyor..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "Parçalar Düzenleniyor…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "iPod veritabanı yeniden yapılırken hata"
@@ -7591,11 +7591,11 @@ msgstr "Bilinmeyen Podcast"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Bazı şarkıları lütfen elle kaldırın"
 
-#~ msgid "Updating..."
-#~ msgstr "Güncelleniyor..."
+#~ msgid "Updating…"
+#~ msgstr "Güncelleniyor…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "Diske boşaltılıyor..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "Diske boşaltılıyor…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "iPod okunamadı"
@@ -7634,8 +7634,8 @@ msgstr "Bilinmeyen Podcast"
 #~ msgstr ""
 #~ "iPod salt okunur olarak bağlanmış. Banshee iPod'unuzu geri yükleyemez."
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "iPod Veritabanını Yeniden Yap..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "iPod Veritabanını Yeniden Yap…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "iPod Veritabanını Yeniden Yapmayı Doğrula"
@@ -7654,8 +7654,8 @@ msgstr "Bilinmeyen Podcast"
 #~ msgid "Rebuild Database"
 #~ msgstr "Veritabanını Yeniden Yap"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "iPod Veritabanı Yeniden Yapılıyor..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "iPod Veritabanı Yeniden Yapılıyor…"
 
 #~ msgid "MTP Support Ignoring Device"
 #~ msgstr "MTP Desteği Aygıtı Yoksayıyor"
@@ -7685,8 +7685,8 @@ msgstr "Bilinmeyen Podcast"
 #~ msgid "Audiobooks, etc"
 #~ msgstr "Sesli Kitaplar, vs."
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "Ses CD'si çıkartılıyor..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "Ses CD'si çıkartılıyor…"
 
 #~ msgid "Could not eject audio CD: {0}"
 #~ msgstr "Ses CD'si çıkartılamadı: {0}"
@@ -7709,8 +7709,8 @@ msgstr "Bilinmeyen Podcast"
 #~ msgid "Old Items"
 #~ msgstr "Eski Öğeler"
 
-#~ msgid "Subscribe to Podcast..."
-#~ msgstr "Podcast'e Kaydol..."
+#~ msgid "Subscribe to Podcast…"
+#~ msgstr "Podcast'e Kaydol…"
 
 #~ msgid "Mark as Old"
 #~ msgstr "Eski olarak İşaretle"

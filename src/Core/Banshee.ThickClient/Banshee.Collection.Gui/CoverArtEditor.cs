@@ -77,7 +77,7 @@ namespace Banshee.Collection.Gui
                     if (a.Event.Button == 3 && IsBoxSensitive ((int)a.Event.X, (int)a.Event.Y)) {
                         var menu = new Menu ();
 
-                        var choose = new MenuItem (Catalog.GetString ("Choose New Cover Art..."));
+                        var choose = new MenuItem (Catalog.GetString ("Choose New Cover Art…"));
                         choose.Activated += delegate {
                             try {
                                 var track = GetTrack ();

@@ -366,8 +366,8 @@ msgid "Scanning for songs"
 msgstr "Pošuk pieśniaŭ"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:115
-msgid "Scanning..."
-msgstr "Skanavańnie..."
+msgid "Scanning…"
+msgstr "Skanavańnie…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:276
 #: ../src/Core/Banshee.Services/Banshee.Library/ThreadPoolImportSource.cs:54
@@ -1351,8 +1351,8 @@ msgid "PNG image files"
 msgstr "Fajły vyjavaŭ PNG"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Ahladaj..."
+msgid "Browse…"
+msgstr "Ahladaj…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/TrackEditor.cs:228
 msgid "Automatically set all track numbers in increasing order"
@@ -1414,24 +1414,24 @@ msgid "_Music"
 msgstr "_Muzyka"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Music..."
-msgstr "Impartuj _muzyku..."
+msgid "Import _Music…"
+msgstr "Impartuj _muzyku…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import music from a variety of sources"
 msgstr "Impartuj muzyku z raznastajnych krynicaŭ"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import Playlist..."
-msgstr "Impartuj śpis..."
+msgid "Import Playlist…"
+msgstr "Impartuj śpis…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "Impartuj śpis"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "Adčyni _pałažeńnie..."
+msgid "Open _Location…"
+msgstr "Adčyni _pałažeńnie…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 msgid "Open a remote location for playback"
@@ -1502,8 +1502,8 @@ msgid "Become a contributor to Banshee"
 msgstr "Stań udzielnikam prajektu Banshee"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:110
-msgid "_Version Information..."
-msgstr "Źviestki ab _versii..."
+msgid "_Version Information…"
+msgstr "Źviestki ab _versii…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:111
 msgid "View detailed version and configuration information"
@@ -1569,8 +1569,8 @@ msgid "Play the previous song"
 msgstr "Hraj papiaredniuju pieśniu"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:70
-msgid "Seek _to..."
-msgstr "Prakruci _da..."
+msgid "Seek _to…"
+msgstr "Prakruci _da…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:71
 msgid "Seek to a specific location in current song"
@@ -1633,8 +1633,8 @@ msgid "Import source to library"
 msgstr "Impartuj krynicu ŭ biblijateku"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:93
-msgid "Export Playlist..."
-msgstr "Ekspartuj śpis..."
+msgid "Export Playlist…"
+msgstr "Ekspartuj śpis…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:94
 msgid "Export a playlist"
@@ -2091,8 +2091,8 @@ msgid "Rating:"
 msgstr "Rating:"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:84
-msgid "Contacting..."
-msgstr "Spałučeńnie..."
+msgid "Contacting…"
+msgstr "Spałučeńnie…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:86
 msgid "Idle"
@@ -2166,8 +2166,8 @@ msgid "Visit your Audioscrobbler profile page"
 msgstr "Naviedaj svaju staronku z profilem Audioscrobbler"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:116
-msgid "_Configure..."
-msgstr "_Skanfihuruj..."
+msgid "_Configure…"
+msgstr "_Skanfihuruj…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:122
 msgid "_Enable song reporting"
@@ -2888,17 +2888,17 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "No Codec"
 #~ msgstr "Niama kodeka"
 
-#~ msgid "Columns..."
-#~ msgstr "Kalony..."
+#~ msgid "Columns…"
+#~ msgstr "Kalony…"
 
-#~ msgid "Import _Folder..."
-#~ msgstr "Impartuj _kataloh..."
+#~ msgid "Import _Folder…"
+#~ msgstr "Impartuj _kataloh…"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "Impartuj usio źmieściva katalohu"
 
-#~ msgid "Import Files..."
-#~ msgstr "Impartuj fajły..."
+#~ msgid "Import Files…"
+#~ msgstr "Impartuj fajły…"
 
 #~ msgid "Import files inside a folder"
 #~ msgstr "Impartuj fajły z katalohu"
@@ -2930,14 +2930,14 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Configure Banshee plugins"
 #~ msgstr "Skanfihuruj pluginy Banshee"
 
-#~ msgid "_Columns..."
-#~ msgstr "_Kalony..."
+#~ msgid "_Columns…"
+#~ msgstr "_Kalony…"
 
 #~ msgid "Select which columns to display in the song list"
 #~ msgstr "Abiary, jakija kalony pakazvać u śpisie pieśniaŭ"
 
-#~ msgid "_Logged Events Viewer..."
-#~ msgstr "Prahladalnik _zapisanych padziej..."
+#~ msgid "_Logged Events Viewer…"
+#~ msgstr "Prahladalnik _zapisanych padziej…"
 
 #~ msgid "View a detailed log of events"
 #~ msgstr "Pakažy detalovyja zapisy padziej"
@@ -3314,14 +3314,14 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "between"
 #~ msgstr "pamiž"
 
-#~ msgid "New _Smart Playlist..."
-#~ msgstr "Novy _razumny śpis..."
+#~ msgid "New _Smart Playlist…"
+#~ msgstr "Novy _razumny śpis…"
 
-#~ msgid "New Smart Playlist _from Search..."
-#~ msgstr "Novy razumny śpis _z pošuku..."
+#~ msgid "New Smart Playlist _from Search…"
+#~ msgstr "Novy razumny śpis _z pošuku…"
 
-#~ msgid "Edit Smart Playlist..."
-#~ msgstr "Redahuj razumny śpis..."
+#~ msgid "Edit Smart Playlist…"
+#~ msgstr "Redahuj razumny śpis…"
 
 #~ msgid "Smart Playlist has Dependencies"
 #~ msgstr "Razumny śpis maje zaležnaści"
@@ -3343,8 +3343,8 @@ msgstr "Spałučany z Last.fm."
 #~ "Ciapier adbyvajecca kanvertavańnie ŭ inšy farmat huku. Chočaš spynić hety "
 #~ "praces?"
 
-#~ msgid "Initializing Transcoder..."
-#~ msgstr "Inicyjalizacyja transkodera..."
+#~ msgid "Initializing Transcoder…"
+#~ msgstr "Inicyjalizacyja transkodera…"
 
 #~ msgid "Could not initialize component"
 #~ msgstr "Niemahčyma inicyjalizavać kampanent"
@@ -3358,11 +3358,11 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Synchronizing {0}"
 #~ msgstr "Synchranizavańnie {0}"
 
-#~ msgid "Waiting for transcoder..."
-#~ msgstr "Čakańnie transkodera..."
+#~ msgid "Waiting for transcoder…"
+#~ msgstr "Čakańnie transkodera…"
 
-#~ msgid "Processing..."
-#~ msgstr "Praca..."
+#~ msgid "Processing…"
+#~ msgstr "Praca…"
 
 #~ msgid "Could not encode some files"
 #~ msgstr "Niemahčyma zakadavać niekatoryja fajły"
@@ -3515,8 +3515,8 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Playing Music"
 #~ msgstr "Vykanańnie muzyki"
 
-#~ msgid "Source Properties..."
-#~ msgstr "Ułaścivaści krynicy..."
+#~ msgid "Source Properties…"
+#~ msgstr "Ułaścivaści krynicy…"
 
 #~ msgid "Delete {0}"
 #~ msgstr "Vydal {0}"
@@ -3527,14 +3527,14 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Eject CD"
 #~ msgstr "Vysuń CD"
 
-#~ msgid "Reading table of contents from CD..."
-#~ msgstr "Čytańnie tablicy źmiestu z CD..."
+#~ msgid "Reading table of contents from CD…"
+#~ msgstr "Čytańnie tablicy źmiestu z CD…"
 
-#~ msgid "Searching for CD metadata..."
-#~ msgstr "Pošuk metaźviestak CD..."
+#~ msgid "Searching for CD metadata…"
+#~ msgstr "Pošuk metaźviestak CD…"
 
-#~ msgid "Searching for CD cover art..."
-#~ msgstr "Pošuk vokładki CD..."
+#~ msgid "Searching for CD cover art…"
+#~ msgstr "Pošuk vokładki CD…"
 
 #~ msgid ""
 #~ "Cannot search for CD metadata: there is no available Internet connection"
@@ -3552,8 +3552,8 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "You must select at least one track to import."
 #~ msgstr "Kab zimpartavać, treba papiarednie zaznačyć jak mienš adnu pieśniu."
 
-#~ msgid "Synchronizing your Device, Please Wait..."
-#~ msgstr "Synchranizacyja pryłady, pačakaj..."
+#~ msgid "Synchronizing your Device, Please Wait…"
+#~ msgstr "Synchranizacyja pryłady, pačakaj…"
 
 #~ msgid "You are currently importing from {0}. Would you like to stop it?"
 #~ msgstr "Ciapier adbyvajecca impartavańnie z {0}. Chočaš spynić hety praces?"
@@ -3701,14 +3701,14 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Rebuilding Database"
 #~ msgstr "Pierabudoŭvańnie bazy źviestak"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "Skanavańnie iPodu..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "Skanavańnie iPodu…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "Apracoŭka pieśniaŭ..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "Apracoŭka pieśniaŭ…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "Zapis novaj bazy źviestak..."
+#~ msgid "Saving new database…"
+#~ msgstr "Zapis novaj bazy źviestak…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "Pamyłka, pierabudoŭvajučy bazy źviestak z iPodu"
@@ -3780,8 +3780,8 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "What is the reason for this?"
 #~ msgstr "Z-za čaho heta zdaryłasia?"
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "Pierabuduj bazu źviestak z iPodu..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "Pierabuduj bazu źviestak z iPodu…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "Paćvierdź pierabudovu bazy źviestak z iPodu"
@@ -3800,8 +3800,8 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Rebuild Database"
 #~ msgstr "Pierabuduj bazu źviestak"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "Pierabudoŭvańnie bazy źviestak z iPodu..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "Pierabudoŭvańnie bazy źviestak z iPodu…"
 
 #~ msgid "Synchronizing Device"
 #~ msgstr "Synchranizacyja pryłady"
@@ -4246,8 +4246,8 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "Dif is not in 'running' state"
 #~ msgstr "Dif nia ŭ \"Dziejnym\" stanie"
 
-#~ msgid "Contacting {0}..."
-#~ msgstr "Suviaź z {0}..."
+#~ msgid "Contacting {0}…"
+#~ msgstr "Suviaź z {0}…"
 
 #~ msgid "HTTP error"
 #~ msgstr "Pamyłka HTTP"
@@ -4583,8 +4583,8 @@ msgstr "Spałučany z Last.fm."
 #~ msgid "_Track Properties"
 #~ msgstr "Ułaścivaści _pieśni"
 
-#~ msgid "<b>Loading...</b>"
-#~ msgstr "<b>Zahruzka...</b>"
+#~ msgid "<b>Loading…</b>"
+#~ msgstr "<b>Zahruzka…</b>"
 
 #~ msgid "Disk Usage:"
 #~ msgstr "Zaniata dysku:"

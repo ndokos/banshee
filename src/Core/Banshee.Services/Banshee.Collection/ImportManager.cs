@@ -185,7 +185,7 @@ namespace Banshee.Collection
                             import_element.TotalCount);
 
                         user_job.Title = disp_progress;
-                        user_job.Status = String.IsNullOrEmpty (message) ? Catalog.GetString ("Scanning...") : message;
+                        user_job.Status = String.IsNullOrEmpty (message) ? Catalog.GetString ("Scanning…") : message;
                         user_job.Progress = new_progress;
                     }
                 }
@@ -201,7 +201,7 @@ namespace Banshee.Collection
                 if (DateTime.Now - last_enqueue_display > TimeSpan.FromMilliseconds (400)) {
                     lock (number_format) {
                         number_format.NumberDecimalDigits = 0;
-                        user_job.Status = String.Format (Catalog.GetString ("Scanning ({0} files)..."),
+                        user_job.Status = String.Format (Catalog.GetString ("Scanning ({0} files)…"),
                             import_element.TotalCount.ToString ("N", number_format));
                         last_enqueue_display = DateTime.Now;
                     }

@@ -637,7 +637,7 @@ msgid ""
 msgstr "Video;Movie;Film;Clip;Flick;Series;Media;Player;DVD;Disc;Mp3;Audio;CD;MTP;Podcast;DAAP;Playlist;Ipod;Multimedia;Collection;Music;Radio;視像;影片;電影;剪輯;影集;媒體;光碟;唱片;音訊;音樂;播放清單;多媒體;廣播;電台;電臺;"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "寫入 CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1444,12 +1444,12 @@ msgstr "掃描媒體"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
+msgid "Scanning…"
 msgstr "掃描中…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "正在掃描 ({0} 個檔案)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2759,7 +2759,7 @@ msgid "External Document"
 msgstr "外部文件"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "選擇新的封面藝術…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2807,12 +2807,12 @@ msgid "Hide context pane"
 msgstr "隱藏情境窗格"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr "正在等候播放控制開始…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
+msgid "Loading…"
 msgstr "載入中…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -2957,7 +2957,7 @@ msgid "Open Location"
 msgstr "開啟位置"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "瀏覽…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -2973,7 +2973,7 @@ msgid "_Media"
 msgstr "媒體(_M)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "匯入媒體(_M)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -2981,7 +2981,7 @@ msgid "Import media from a variety of sources"
 msgstr "從各種來源匯入媒體"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
+msgid "Import _Playlist…"
 msgstr "匯入播放清單(_P)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
@@ -2989,7 +2989,7 @@ msgid "Import a playlist"
 msgstr "匯入播放清單"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "開啟位置(_L)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
@@ -3109,7 +3109,7 @@ msgid "Play the previous item"
 msgstr "播放上一個項目"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
+msgid "Seek _To…"
 msgstr "搜索至(_T)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
@@ -3189,7 +3189,7 @@ msgid "Subtitle"
 msgstr "字幕"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
+msgid "Load File…"
 msgstr "載入檔案…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
@@ -3231,7 +3231,7 @@ msgid "Create a new empty playlist"
 msgstr "建立新的空白清單"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "新增智慧型播放清單(_S)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
@@ -3251,7 +3251,7 @@ msgid "Rename"
 msgstr "重新命名"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "匯出播放清單…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
@@ -3930,7 +3930,7 @@ msgid "Continue {0}"
 msgstr "繼續 {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
+msgid "Stopping…"
 msgstr "正在停止…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
@@ -3950,8 +3950,8 @@ msgid "Files"
 msgstr "檔案"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "選擇檔案(_H)..."
+msgid "C_hoose Files…"
+msgstr "選擇檔案(_H)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -3966,8 +3966,8 @@ msgid "Folders"
 msgstr "資料夾"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "選擇資料夾(_H)..."
+msgid "C_hoose Folders…"
+msgstr "選擇資料夾(_H)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4031,7 +4031,7 @@ msgid "Reset location to default ({0})"
 msgstr "重設位置至預設值 ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4155,7 +4155,7 @@ msgstr "指定的 {0}安全證書無效。"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
+msgid "Loading {0}…"
 msgstr "正在載入 {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
@@ -4176,7 +4176,7 @@ msgstr "閒置"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr "連接中…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
@@ -4228,7 +4228,7 @@ msgid "Syncing iPod"
 msgstr "正在同步 iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "正在準備同步化…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
@@ -4407,7 +4407,7 @@ msgstr "斷線"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr "正在與 {0} 中斷連接…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
@@ -4557,7 +4557,7 @@ msgid "Open Book"
 msgstr "開啟書本"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "合併碟片…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
@@ -4816,7 +4816,7 @@ msgstr "正在下載 eMusic 曲目"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "正在初始化…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -4838,7 +4838,7 @@ msgstr "正在取消下載"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "等待下載中止…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -4911,7 +4911,7 @@ msgid ""
 msgstr "所顯示的是很可能應該要合併的演出者。對每一列，點擊想要的名稱以將它變成粗體，或是取消勾選以不執行動作。"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr "修正音樂中介資料…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5157,7 +5157,7 @@ msgstr "文字(_T)"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
+msgid "Search…"
 msgstr "搜尋…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
@@ -5581,7 +5581,7 @@ msgstr "評等："
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:84
 #, csharp-format
 msgid "Processed {0} of {1} tracks"
-msgstr "已處理曲目 {0} / {1}..."
+msgstr "已處理曲目 {0} / {1}…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:146
 msgid "_Last.fm"
@@ -5623,8 +5623,8 @@ msgid "Scrobbling to Last.FM"
 msgstr "從 Last.FM 取得歌曲紀錄"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-msgid "Scrobbling to Last.FM..."
-msgstr "從 Last.FM 取得歌曲紀錄..."
+msgid "Scrobbling to Last.FM…"
+msgstr "從 Last.FM 取得歌曲紀錄…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -5810,7 +5810,7 @@ msgid "Unknown Similarity"
 msgstr "未知的類似度"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "加入電臺(_A)…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6208,7 +6208,7 @@ msgid "Duplicate this audio CD"
 msgstr "複製這張音樂 CD"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
+msgid "Searching for track information…"
 msgstr "正在搜尋曲目圖片…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
@@ -6244,8 +6244,8 @@ msgstr "匯入 ‟{0}”"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "正在退出 {0}..."
+msgid "Ejecting {0}…"
+msgstr "正在退出 {0}…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6301,7 +6301,7 @@ msgstr "匯入播放清單"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr "定位你的「{0}」檔案…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6537,7 +6537,7 @@ msgid "Check all podcasts for new episodes"
 msgstr "檢查所有的 podcast 是否有新節目"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
+msgid "Add Podcast…"
 msgstr "加入 Podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
@@ -6764,12 +6764,12 @@ msgstr "上傳來自"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
+msgid "Play in Banshee…"
 msgstr "於 Banshee 播放…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
+msgid "Play in Web Browser…"
 msgstr "在網頁瀏覽器中播放…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
@@ -7183,7 +7183,7 @@ msgstr "不明的 Podcast"
 #~ msgid "{0} to add, {1} to remove, {2} to update"
 #~ msgstr "加入 {0} 個，移除 {1} 個，更新 {2} 個"
 
-#~ msgid "Ejecting audio CD..."
+#~ msgid "Ejecting audio CD…"
 #~ msgstr "退出音樂 CD…"
 
 #~ msgid "Could not eject audio CD: {0}"
@@ -7212,16 +7212,16 @@ msgstr "不明的 Podcast"
 #~ msgid "Rebuilding Database"
 #~ msgstr "正在重建資料庫"
 
-#~ msgid "Scanning iPod..."
+#~ msgid "Scanning iPod…"
 #~ msgstr "正在掃描 iPod…"
 
-#~ msgid "Processing Tracks..."
+#~ msgid "Processing Tracks…"
 #~ msgstr "正在處理曲目…"
 
-#~ msgid "Ordering Tracks..."
+#~ msgid "Ordering Tracks…"
 #~ msgstr "正在排序曲目…"
 
-#~ msgid "Saving new database..."
+#~ msgid "Saving new database…"
 #~ msgstr "正在儲存新的資料庫…"
 
 #~ msgid "Error rebuilding iPod database"
@@ -7245,10 +7245,10 @@ msgstr "不明的 Podcast"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "請手動移除某些歌曲"
 
-#~ msgid "Updating..."
+#~ msgid "Updating…"
 #~ msgstr "正在更新…"
 
-#~ msgid "Flushing to disk..."
+#~ msgid "Flushing to disk…"
 #~ msgstr "正在沖洗寫入磁碟…"
 
 #~ msgid "Unable to read your iPod"
@@ -7288,7 +7288,7 @@ msgstr "不明的 Podcast"
 #~ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 #~ msgstr "您的 iPod 以唯讀狀態掛載。Banshee 不能儲存您的 iPod。"
 
-#~ msgid "Rebuild iPod Database..."
+#~ msgid "Rebuild iPod Database…"
 #~ msgstr "重建 iPod 資料庫…"
 
 #~ msgid "Confirm Rebuild iPod Database"
@@ -7308,7 +7308,7 @@ msgstr "不明的 Podcast"
 #~ msgid "Rebuild Database"
 #~ msgstr "重建資料庫"
 
-#~ msgid "Rebuilding iPod Database..."
+#~ msgid "Rebuilding iPod Database…"
 #~ msgstr "正在重建 iPod 資料庫…"
 
 #~ msgid "GIO IO and Hardware backends"
@@ -7435,7 +7435,7 @@ msgstr "不明的 Podcast"
 #~ msgid "Audiobooks, etc"
 #~ msgstr "有聲書…等"
 
-#~ msgid "Searching for CD metadata..."
+#~ msgid "Searching for CD metadata…"
 #~ msgstr "正在搜尋 CD 中介資料…"
 
 #~ msgid "By User:"
@@ -7505,7 +7505,7 @@ msgstr "不明的 Podcast"
 #~ msgid "Refresh All Podcasts"
 #~ msgstr "重新整理所有的 Podcast"
 
-#~ msgid "Subscribe to Podcast..."
+#~ msgid "Subscribe to Podcast…"
 #~ msgstr "訂閱 Podcast…"
 
 #~ msgid "Subscribe to Podcast"
@@ -7593,10 +7593,10 @@ msgstr "不明的 Podcast"
 #~ msgid "Delete From {0}"
 #~ msgstr "從 {0} 刪除"
 
-#~ msgid "Preparing..."
+#~ msgid "Preparing…"
 #~ msgstr "正在準備…"
 
-#~ msgid "_Configure..."
+#~ msgid "_Configure…"
 #~ msgstr "設定(_C)…"
 
 #~ msgid "Configure the Last.fm Extension"
@@ -7665,7 +7665,7 @@ msgstr "不明的 Podcast"
 
 #~ msgid ""
 #~ "Format for creating filenames/directories for ripped tracks, imported "
-#~ "music, etc. Format is relative to the Banshee music directory... do not "
+#~ "music, etc. Format is relative to the Banshee music directory… do not "
 #~ "form an absolute path! Tokens: %artist%, %album%, %title%, %track_number"
 #~ "%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% "
 #~ "(No prefixed zero)."
@@ -7881,13 +7881,13 @@ msgstr "不明的 Podcast"
 #~ msgid "Could not get device list from HAL"
 #~ msgstr "無法從 HAL 取得裝置清單"
 
-#~ msgid "Import _Folder..."
+#~ msgid "Import _Folder…"
 #~ msgstr "匯入資料夾…(_F)"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "匯入一整個資料夾的內容"
 
-#~ msgid "Import Files..."
+#~ msgid "Import Files…"
 #~ msgstr "匯入檔案…"
 
 #~ msgid "Import files inside a folder"
@@ -7902,7 +7902,7 @@ msgstr "不明的 Podcast"
 #~ msgid "Unselect all songs in song list"
 #~ msgstr "反向選取清單中的所有曲目"
 
-#~ msgid "Plugins..."
+#~ msgid "Plugins…"
 #~ msgstr "插件…"
 
 #~ msgid "Configure Banshee plugins"
@@ -7911,7 +7911,7 @@ msgstr "不明的 Podcast"
 #~ msgid "Select which columns to display in the song list"
 #~ msgstr "選擇顯示曲目清單的欄位"
 
-#~ msgid "Logged Events Viewer..."
+#~ msgid "Logged Events Viewer…"
 #~ msgstr "紀錄事件檢視器…"
 
 #~ msgid "View a detailed log of events"
@@ -8145,7 +8145,7 @@ msgstr "不明的 Podcast"
 #~ msgid "This plugin could not be initialized."
 #~ msgstr "插件無法初始化。"
 
-#~ msgid "Reading table of contents from CD..."
+#~ msgid "Reading table of contents from CD…"
 #~ msgstr "正在從 CD 讀取目錄…"
 
 #~ msgid ""
@@ -8158,7 +8158,7 @@ msgstr "不明的 Podcast"
 #~ msgid "You must select at least one track to import."
 #~ msgstr "您必須至少選擇一段音軌來匯入。"
 
-#~ msgid "Synchronizing your Device, Please Wait..."
+#~ msgid "Synchronizing your Device, Please Wait…"
 #~ msgstr "正在同步您的裝置，請稍等…"
 
 #~ msgid "You are currently importing from {0}. Would you like to stop it?"

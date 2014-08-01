@@ -681,7 +681,7 @@ msgstr ""
 "přehrání;ipod;multimédia;kolekce;sbírka;hudba;rádio;stanice;"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "Vypálit na CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1521,12 +1521,12 @@ msgstr "Vyhledávají se média"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
+msgid "Scanning…"
 msgstr "Prohledává se…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "Prohledává se ({0} souborů)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2866,7 +2866,7 @@ msgid "External Document"
 msgstr "Externí dokument"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "Vybrat nový přebal…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2914,12 +2914,12 @@ msgid "Hide context pane"
 msgstr "Skrýt kontextový panel"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr "Čeká se, až začne přehrávání…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
+msgid "Loading…"
 msgstr "Načítá se…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -3072,7 +3072,7 @@ msgid "Open Location"
 msgstr "Otevření umístění"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "Procházet…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -3088,7 +3088,7 @@ msgid "_Media"
 msgstr "_Média"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "Importovat _média…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -3096,7 +3096,7 @@ msgid "Import media from a variety of sources"
 msgstr "Importovat média z různých zdrojů"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
+msgid "Import _Playlist…"
 msgstr "Importovat _seznam k přehrání…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
@@ -3104,7 +3104,7 @@ msgid "Import a playlist"
 msgstr "Importovat seznam k přehrání"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "Otevřít _umístění…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
@@ -3228,7 +3228,7 @@ msgid "Play the previous item"
 msgstr "Přehrát předchozí položku"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
+msgid "Seek _To…"
 msgstr "Přejít _na…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
@@ -3308,7 +3308,7 @@ msgid "Subtitle"
 msgstr "Titulky"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
+msgid "Load File…"
 msgstr "Načíst soubor…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
@@ -3350,7 +3350,7 @@ msgid "Create a new empty playlist"
 msgstr "Vytvořit nový prázdný seznam k přehrání"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:71
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Nový chytrý _seznam k přehrání…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:72
@@ -3370,7 +3370,7 @@ msgid "Rename"
 msgstr "Přejmenovat"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:89
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "Exportovat seznam k přehrání…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:90
@@ -3599,7 +3599,7 @@ msgstr "Podle odpovídajícího _umělce"
 msgid "Search all songs of this artist"
 msgstr "Vyhledat všechny skladby tohoto umělce"
 
-#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track..."
+#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track…"
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:305
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:306
 msgid "Track _Information"
@@ -4124,7 +4124,7 @@ msgid "Continue {0}"
 msgstr "Pokračovat {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
+msgid "Stopping…"
 msgstr "Probíhá zastavení…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
@@ -4144,7 +4144,7 @@ msgid "Files"
 msgstr "Soubory"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
+msgid "C_hoose Files…"
 msgstr "Z_volit soubory…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
@@ -4160,7 +4160,7 @@ msgid "Folders"
 msgstr "Složky"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
+msgid "C_hoose Folders…"
 msgstr "Z_volit složky…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
@@ -4227,7 +4227,7 @@ msgid "Reset location to default ({0})"
 msgstr "Vrátit umístění na výchozí ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4353,7 +4353,7 @@ msgstr "Bezpečnostní certifikát pro {0} není platný."
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
+msgid "Loading {0}…"
 msgstr "Načítá se {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
@@ -4374,7 +4374,7 @@ msgstr "Nečinný"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr "Připojuje se…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
@@ -4426,7 +4426,7 @@ msgid "Syncing iPod"
 msgstr "Synchronizace s iPodem"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "Připravuje se synchronizace…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
@@ -4610,7 +4610,7 @@ msgstr "Odpojit"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr "Odpojuje se {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
@@ -4766,7 +4766,7 @@ msgid "Open Book"
 msgstr "Otevřít knihu"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "Sloučit disky…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
@@ -5038,7 +5038,7 @@ msgstr "Stahuje se stopa či stopy z eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Inicializuje se…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -5061,7 +5061,7 @@ msgstr "Ruší se stahování"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Čeká se na ukončení stahování…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5140,7 +5140,7 @@ msgstr ""
 "neprovedla žádná akce."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr "Opravit metadata hudby…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5396,7 +5396,7 @@ msgstr "_Text"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
+msgid "Search…"
 msgstr "Hledat…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
@@ -5874,7 +5874,7 @@ msgid "Scrobbling to Last.FM"
 msgstr "Scrobbling do Last.fm"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-msgid "Scrobbling to Last.FM..."
+msgid "Scrobbling to Last.FM…"
 msgstr "Provádí se scrobbling do Last.fm…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
@@ -6063,7 +6063,7 @@ msgid "Unknown Similarity"
 msgstr "Neznámá podobnost"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "_Přidat stanici…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6469,7 +6469,7 @@ msgid "Duplicate this audio CD"
 msgstr "Duplikovat toto hudební CD"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
+msgid "Searching for track information…"
 msgstr "Hledají se informace o stopě…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
@@ -6505,7 +6505,7 @@ msgstr "Importovat „{0}“"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
+msgid "Ejecting {0}…"
 msgstr "Vysouvá se {0}…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
@@ -6562,7 +6562,7 @@ msgstr "Importovat seznamy k přehrání"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr "Najít svůj soubor „{0}“…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6806,7 +6806,7 @@ msgid "Check all podcasts for new episodes"
 msgstr "Zkontrolovat nové díly ve všech podcastech"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
+msgid "Add Podcast…"
 msgstr "Přidat podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
@@ -7036,12 +7036,12 @@ msgstr "Nahrál"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
+msgid "Play in Banshee…"
 msgstr "Přehrát v Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
+msgid "Play in Web Browser…"
 msgstr "Přehrát ve webovém prohlížeči…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61

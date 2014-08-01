@@ -56,7 +56,7 @@ namespace Banshee.LastfmStreaming.Radio
             AddImportant (
                 new ActionEntry (
                     "LastfmAddAction", Stock.Add,
-                     Catalog.GetString ("_Add Station..."),
+                     Catalog.GetString ("_Add Station…"),
                      null, Catalog.GetString ("Add a new Last.fm radio station"), OnAddStation
                 )
             );

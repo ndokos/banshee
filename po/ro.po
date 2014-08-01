@@ -716,8 +716,8 @@ msgid "Could not construct pipeline"
 msgstr "Nu s-a putut construi linia de asamblare"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Scrie CD..."
+msgid "Write CD…"
+msgstr "Scrie CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1368,13 +1368,13 @@ msgstr "Se scanează după media"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
-msgstr "Se scanează..."
+msgid "Scanning…"
+msgstr "Se scanează…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Se scanează ({0} fișiere)..."
+msgid "Scanning ({0} files)…"
+msgstr "Se scanează ({0} fișiere)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2711,8 +2711,8 @@ msgid "External Document"
 msgstr "Document extern"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Alege noua copertă..."
+msgid "Choose New Cover Art…"
+msgstr "Alege noua copertă…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2759,12 +2759,12 @@ msgid "Hide context pane"
 msgstr "Ascunde panoul de contextual"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "Se așteaptă începerea redării..."
+msgid "Waiting for playback to begin…"
+msgstr "Se așteaptă începerea redării…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "se încarcă..."
+msgid "Loading…"
+msgstr "se încarcă…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -2912,8 +2912,8 @@ msgid "Open Location"
 msgstr "Deschidere locație"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Răsfoiește..."
+msgid "Browse…"
+msgstr "Răsfoiește…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -2928,16 +2928,16 @@ msgid "_Media"
 msgstr "_Media"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Imporatare _media..."
+msgid "Import _Media…"
+msgstr "Imporatare _media…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Importă media dintr-o varietate de surse"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Im_portă lista de redare..."
+msgid "Import _Playlist…"
+msgstr "Im_portă lista de redare…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -2952,8 +2952,8 @@ msgid "Rescan the Music Library folder"
 msgstr "Rescanează dosarul bibliotecii de muzică"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Deschide _locație..."
+msgid "Open _Location…"
+msgstr "Deschide _locație…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3055,8 +3055,8 @@ msgid "Play the previous item"
 msgstr "Redă elementul precedent"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Derulează _la..."
+msgid "Seek _To…"
+msgstr "Derulează _la…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3136,8 +3136,8 @@ msgid "Subtitle"
 msgstr "Subtitrare"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Încarcă fișier..."
+msgid "Load File…"
+msgstr "Încarcă fișier…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3178,8 +3178,8 @@ msgid "Create a new empty playlist"
 msgstr "Creează o nouă listă de redare goală"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "O nouă li_stă de redare inteligentă..."
+msgid "New _Smart Playlist…"
+msgstr "O nouă li_stă de redare inteligentă…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3198,8 +3198,8 @@ msgid "Rename"
 msgstr "Redenumește"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Exportă lista de redare..."
+msgid "Export Playlist…"
+msgstr "Exportă lista de redare…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3890,8 +3890,8 @@ msgid "Continue {0}"
 msgstr "Continuă {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "Se oprește..."
+msgid "Stopping…"
+msgstr "Se oprește…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3910,8 +3910,8 @@ msgid "Files"
 msgstr "Fișiere"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "A_lege fișiere..."
+msgid "C_hoose Files…"
+msgstr "A_lege fișiere…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -3938,8 +3938,8 @@ msgid "Folders"
 msgstr "Dosare"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "A_legeți dosare..."
+msgid "C_hoose Folders…"
+msgstr "A_legeți dosare…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -4014,7 +4014,7 @@ msgid "Reset location to default ({0})"
 msgstr "Resetați locația la valoarea implicite ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4074,8 +4074,8 @@ msgstr "Arată sau ascunde navigatorul artist/album"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "se încarcă {0}..."
+msgid "Loading {0}…"
+msgstr "se încarcă {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4099,8 +4099,8 @@ msgstr "Inactiv"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Se contactează..."
+msgid "Contacting…"
+msgstr "Se contactează…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
 msgid "Buffering"
@@ -4172,8 +4172,8 @@ msgstr "Sincronizare iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:550
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:695
-msgid "Preparing to synchronize..."
-msgstr "Se pregătește sincronizarea..."
+msgid "Preparing to synchronize…"
+msgstr "Se pregătește sincronizarea…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:553
 #, csharp-format
@@ -4363,8 +4363,8 @@ msgstr "Deconectare"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Se deconectează {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Se deconectează {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4377,20 +4377,20 @@ msgid "Rebuilding Database"
 msgstr "Se reconstruiește baza de date"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
-msgstr "Se scanează iPod-ul..."
+msgid "Scanning iPod…"
+msgstr "Se scanează iPod-ul…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
-msgstr "Se procesează piesele..."
+msgid "Processing Tracks…"
+msgstr "Se procesează piesele…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
-msgstr "Se ordonează piesele..."
+msgid "Ordering Tracks…"
+msgstr "Se ordonează piesele…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
-msgstr "Salvează baza de date nouă..."
+msgid "Saving new database…"
+msgstr "Salvează baza de date nouă…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
 msgid "Error rebuilding iPod database"
@@ -4421,12 +4421,12 @@ msgid "Please manually remove some songs"
 msgstr "Eliminați manual unele piese"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:724
-msgid "Updating..."
-msgstr "Se actualizează..."
+msgid "Updating…"
+msgstr "Se actualizează…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:728
-msgid "Flushing to disk..."
-msgstr "Se scriu datele pe disc..."
+msgid "Flushing to disk…"
+msgstr "Se scriu datele pe disc…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:61
 msgid "Unable to read your iPod"
@@ -4474,8 +4474,8 @@ msgstr ""
 "IPod-ul este montat doar pentru citire. Banshee nu poate restaura iPod-ul."
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:125
-msgid "Rebuild iPod Database..."
-msgstr "Se reconstruiește baza de date iPod..."
+msgid "Rebuild iPod Database…"
+msgstr "Se reconstruiește baza de date iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:133
 msgid "Confirm Rebuild iPod Database"
@@ -4498,8 +4498,8 @@ msgid "Rebuild Database"
 msgstr "Reconstruiește baza de date"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:157
-msgid "Rebuilding iPod Database..."
-msgstr "Reconstruire bază de date iPod..."
+msgid "Rebuilding iPod Database…"
+msgstr "Reconstruire bază de date iPod…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
 msgid "Purchased Music"
@@ -4648,8 +4648,8 @@ msgid "Open Book"
 msgstr "Deschide cartea"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Combinare discuri..."
+msgid "Merge Discs…"
+msgstr "Combinare discuri…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:65
@@ -4823,8 +4823,8 @@ msgid "Duplicate this audio CD"
 msgstr "Duplică acest CD audio"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-msgid "Searching for track information..."
-msgstr "Se caută după informații despre piesă..."
+msgid "Searching for track information…"
+msgstr "Se caută după informații despre piesă…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
 msgid "Could not fetch track information"
@@ -4845,8 +4845,8 @@ msgid "Could not duplicate audio CD"
 msgstr "Nu s-a putut duplica discul audio"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
-msgstr "Se scoate CD-ul audio..."
+msgid "Ejecting audio CD…"
+msgstr "Se scoate CD-ul audio…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
 #, csharp-format
@@ -5052,8 +5052,8 @@ msgstr "Se descarcă piese eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Se inițializează..."
+msgid "Initializing…"
+msgstr "Se inițializează…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -5075,8 +5075,8 @@ msgstr "Se anulează descărcările"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "Se așteaptă să se termine descărcările..."
+msgid "Waiting for downloads to terminate…"
+msgstr "Se așteaptă să se termine descărcările…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5140,8 +5140,8 @@ msgstr ""
 "pentru a nu lua nicio acțiune."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Reparație metadate muzică..."
+msgid "Fix Music Metadata…"
+msgstr "Reparație metadate muzică…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5382,8 +5382,8 @@ msgstr "_Text"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Caută..."
+msgid "Search…"
+msgstr "Caută…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -6023,8 +6023,8 @@ msgid "Unknown Similarity"
 msgstr "Similitudine necunoscută"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Adaugă post radio..."
+msgid "_Add Station…"
+msgstr "_Adaugă post radio…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6367,8 +6367,8 @@ msgstr "Importă listele de redare"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Localizați fișierul „{0}”..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Localizați fișierul „{0}”…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
@@ -6620,8 +6620,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Verifică toate podcasturile pentru episoade noi"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Adaugă podcast..."
+msgid "Add Podcast…"
+msgstr "Adaugă podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6842,13 +6842,13 @@ msgstr "Încărcat de"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Redă în Banshee..."
+msgid "Play in Banshee…"
+msgstr "Redă în Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Redă în navigatorul de internet..."
+msgid "Play in Web Browser…"
+msgstr "Redă în navigatorul de internet…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"

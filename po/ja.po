@@ -677,8 +677,8 @@ msgid "Could not construct pipeline"
 msgstr "パイプラインを構築できませんでした"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "CDを作成..."
+msgid "Write CD…"
+msgstr "CDを作成…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1382,13 +1382,13 @@ msgstr "メディアをスキャンしています"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
-msgstr "スキャン中..."
+msgid "Scanning…"
+msgstr "スキャン中…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "スキャン中 ({0} ファイル)..."
+msgid "Scanning ({0} files)…"
+msgstr "スキャン中 ({0} ファイル)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2676,8 +2676,8 @@ msgid "External Document"
 msgstr "外部ドキュメント"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "新しいカバーアートを選択..."
+msgid "Choose New Cover Art…"
+msgstr "新しいカバーアートを選択…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2724,13 +2724,13 @@ msgid "Hide context pane"
 msgstr "コンテキストパネルを隠す"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "再生開始を待っています..."
+msgid "Waiting for playback to begin…"
+msgstr "再生開始を待っています…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:152
-msgid "Loading..."
-msgstr "ロード中..."
+msgid "Loading…"
+msgstr "ロード中…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -2870,8 +2870,8 @@ msgid "Open Location"
 msgstr "ファイルを開く"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "参照..."
+msgid "Browse…"
+msgstr "参照…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -2886,24 +2886,24 @@ msgid "_Media"
 msgstr "メディア(_M)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "メディアのインポート(_M)..."
+msgid "Import _Media…"
+msgstr "メディアのインポート(_M)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "さまざまなソースからメディアをインポート"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "プレイリストのインポート(_P)..."
+msgid "Import _Playlist…"
+msgstr "プレイリストのインポート(_P)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "プレイリストのインポート"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "ファイルを開く(_L)..."
+msgid "Open _Location…"
+msgstr "ファイルを開く(_L)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 msgid "Open a remote location for playback"
@@ -3020,8 +3020,8 @@ msgid "Play the previous item"
 msgstr "前のアイテムを再生します"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "シーク(_T)..."
+msgid "Seek _To…"
+msgstr "シーク(_T)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3100,8 +3100,8 @@ msgid "Subtitle"
 msgstr "サブタイトル"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "ファイルをロードしています..."
+msgid "Load File…"
+msgstr "ファイルをロードしています…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3142,8 +3142,8 @@ msgid "Create a new empty playlist"
 msgstr "新しい空のプレイリストを生成します"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "新しいスマートプレイリスト(_S)..."
+msgid "New _Smart Playlist…"
+msgstr "新しいスマートプレイリスト(_S)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3162,8 +3162,8 @@ msgid "Rename"
 msgstr "名前の変更"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "プレイリストのエクスポート..."
+msgid "Export Playlist…"
+msgstr "プレイリストのエクスポート…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3829,8 +3829,8 @@ msgid "Continue {0}"
 msgstr "{0}を継続する"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "停止しています..."
+msgid "Stopping…"
+msgstr "停止しています…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3849,8 +3849,8 @@ msgid "Files"
 msgstr "ファイル"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "ファイルを選択...(_H)"
+msgid "C_hoose Files…"
+msgstr "ファイルを選択…(_H)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -3865,8 +3865,8 @@ msgid "Folders"
 msgstr "フォルダー"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "フォルダーを選択...(_H)"
+msgid "C_hoose Folders…"
+msgstr "フォルダーを選択…(_H)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -3928,7 +3928,7 @@ msgid "Reset location to default ({0})"
 msgstr "デフォルトの場所にリセットする ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4051,8 +4051,8 @@ msgstr "{0}のセキュリティ証明書が無効です。"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "ロード中 {0}..."
+msgid "Loading {0}…"
+msgstr "ロード中 {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4076,8 +4076,8 @@ msgstr "待機中"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "接続中です..."
+msgid "Contacting…"
+msgstr "接続中です…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:162
 msgid "Buffering"
@@ -4128,8 +4128,8 @@ msgid "Syncing iPod"
 msgstr "iPodとの同期"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
-msgstr "同期の準備中..."
+msgid "Preparing to synchronize…"
+msgstr "同期の準備中…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
 #, csharp-format
@@ -4302,8 +4302,8 @@ msgstr "切断"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "{0} を切断中..."
+msgid "Disconnecting {0}…"
+msgstr "{0} を切断中…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
 #, csharp-format
@@ -4449,8 +4449,8 @@ msgid "Open Book"
 msgstr "Bookを開く"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "ディスクをマージ..."
+msgid "Merge Discs…"
+msgstr "ディスクをマージ…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -4698,8 +4698,8 @@ msgstr "eMusicトラックをダウンロード中"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "初期化しています..."
+msgid "Initializing…"
+msgstr "初期化しています…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -4719,8 +4719,8 @@ msgstr "ダウンロードをキャンセル中"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "ダウンロードの終了を待っています..."
+msgid "Waiting for downloads to terminate…"
+msgstr "ダウンロードの終了を待っています…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -4788,8 +4788,8 @@ msgid "Displayed are artists that should likely be merged.  For each row, click 
 msgstr "おそらくマージすべきであろうアーティストが表示されています。 列ごとに、希望する名前をクリックして太字にするか、何も実施しないようにチェックを外します。"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "音楽のメタデータを修復..."
+msgid "Fix Music Metadata…"
+msgstr "音楽のメタデータを修復…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5021,8 +5021,8 @@ msgstr "テキスト(_T)"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "検索..."
+msgid "Search…"
+msgstr "検索…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5479,8 +5479,8 @@ msgid "Scrobbling to Last.FM"
 msgstr "Last.FMへScrobblingしています"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-msgid "Scrobbling to Last.FM..."
-msgstr "Last.FMへScrobblingしています..."
+msgid "Scrobbling to Last.FM…"
+msgstr "Last.FMへScrobblingしています…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -5664,8 +5664,8 @@ msgid "Unknown Similarity"
 msgstr "不明な類似性"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "ステーションを追加(_A)..."
+msgid "_Add Station…"
+msgstr "ステーションを追加(_A)…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6054,8 +6054,8 @@ msgid "Duplicate this audio CD"
 msgstr "このオーディオCDを複製"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "トラック情報を検索しています..."
+msgid "Searching for track information…"
+msgstr "トラック情報を検索しています…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6090,8 +6090,8 @@ msgstr "‟{0}” のインポート"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "{0} を取り出しています..."
+msgid "Ejecting {0}…"
+msgstr "{0} を取り出しています…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6147,8 +6147,8 @@ msgstr "プレイリストのインポート"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr " \"{0}\" ファイルを指定します..."
+msgid "Locate your \"{0}\" file…"
+msgstr " \"{0}\" ファイルを指定します…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6377,8 +6377,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "すべてのポッドキャストで新しいエピソードを確認"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "ポッドキャストの追加..."
+msgid "Add Podcast…"
+msgstr "ポッドキャストの追加…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6600,13 +6600,13 @@ msgstr "アップロード"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Bansheeで再生..."
+msgid "Play in Banshee…"
+msgstr "Bansheeで再生…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "ウェブブラウザーで再生..."
+msgid "Play in Web Browser…"
+msgstr "ウェブブラウザーで再生…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -6993,8 +6993,8 @@ msgstr "不明なポッドキャスト"
 #~ msgid "Eliminate the small playback gap on track change.  Useful for concept albums and classical music."
 #~ msgstr "トラック変更時の無音部分を取り除きます。コンセプトアルバムやクラシック音楽などに役に立ちます"
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "オーディオCDを取り出しています..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "オーディオCDを取り出しています…"
 
 #~ msgid "Could not eject audio CD: {0}"
 #~ msgstr "オーディオCDを取り出せません: {0}"
@@ -7014,17 +7014,17 @@ msgstr "不明なポッドキャスト"
 #~ msgid "Rebuilding Database"
 #~ msgstr "データベース再構築中"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "iPodをスキャンしています..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "iPodをスキャンしています…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "処理中..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "処理中…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "トラックの並べ替え中..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "トラックの並べ替え中…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "新しいデータベースを保存しています..."
+#~ msgid "Saving new database…"
+#~ msgstr "新しいデータベースを保存しています…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "iPodデータベースの再構築でエラー"
@@ -7047,11 +7047,11 @@ msgstr "不明なポッドキャスト"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "いくつかの曲を手動で削除してください"
 
-#~ msgid "Updating..."
-#~ msgstr "アップデート中..."
+#~ msgid "Updating…"
+#~ msgstr "アップデート中…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "ディスクを消去中..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "ディスクを消去中…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "iPodを読み込めません"
@@ -7083,8 +7083,8 @@ msgstr "不明なポッドキャスト"
 #~ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 #~ msgstr "あなたのiPodは読み込み専用でマウントされました。BansheeはあなたのiPodをリストアできません。"
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "iPodのデータベースを再構築する..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "iPodのデータベースを再構築する…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "iPodのデータベースの再構築を確認"
@@ -7100,8 +7100,8 @@ msgstr "不明なポッドキャスト"
 #~ msgid "Rebuild Database"
 #~ msgstr "データベースを再構築"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "iPodのデータベースを再構築中..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "iPodのデータベースを再構築中…"
 
 #~ msgid "GIO IO and Hardware backends"
 #~ msgstr "GIO IOとハードウェアバックエンド"

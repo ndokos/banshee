@@ -48,7 +48,7 @@ namespace Banshee.Emusic
             CancelRequested += OnCancelRequested;
 
             Title = Catalog.GetString ("Downloading eMusic Track(s)");
-            Status = Catalog.GetString ("Initializing...");
+            Status = Catalog.GetString ("Initializing…");
             CancelMessage = Catalog.GetString ("Cancel all eMusic downloads?");
 
             this.IconNames = new string[1] {
@@ -132,7 +132,7 @@ namespace Banshee.Emusic
                     Progress = 0.0;
                     Title = Catalog.GetString ("Canceling Downloads");
                     Status = Catalog.GetString (
-                        "Waiting for downloads to terminate..."
+                        "Waiting for downloads to terminate…"
                     );
 
                     cancelRequested = false;

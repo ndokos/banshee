@@ -179,7 +179,7 @@ namespace Banshee.Gui.Widgets
             }
 
             if (job.IsCancelRequested) {
-                SetTitle (Catalog.GetString ("Stopping..."));
+                SetTitle (Catalog.GetString ("Stopping…"));
             } else if (title != job.Title) {
                 SetTitle (job.Title);
             }

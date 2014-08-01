@@ -568,7 +568,7 @@ namespace Banshee.Dap.AppleDevice
             Hyena.Log.Debug ("Starting AppleDevice sync thread cycle");
 
             var progressUpdater = new UserJob (Catalog.GetString ("Syncing iPod"),
-                                               Catalog.GetString ("Preparing to synchronize..."), GetIconNames ());
+                                               Catalog.GetString ("Preparing to synchronize…"), GetIconNames ());
             progressUpdater.Register ();
             MediaDatabase.StartSync ();
 

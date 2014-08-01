@@ -833,8 +833,8 @@ msgid "Could not construct pipeline"
 msgstr "Putkea ei voitu luoda"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Kirjoita CD-levy..."
+msgid "Write CD…"
+msgstr "Kirjoita CD-levy…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1486,13 +1486,13 @@ msgstr "Tutkitaan mediaa"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
-msgstr "Tutkitaan..."
+msgid "Scanning…"
+msgstr "Tutkitaan…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Tutkitaan ({0} tiedostoa)..."
+msgid "Scanning ({0} files)…"
+msgstr "Tutkitaan ({0} tiedostoa)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2822,8 +2822,8 @@ msgid "External Document"
 msgstr "Ulkoinen asiakirja"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Valitse uusi kansikuva..."
+msgid "Choose New Cover Art…"
+msgstr "Valitse uusi kansikuva…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2871,12 +2871,12 @@ msgid "Hide context pane"
 msgstr "Piilota kontekstipaneeli"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "Odotetaan soiton alkamista..."
+msgid "Waiting for playback to begin…"
+msgstr "Odotetaan soiton alkamista…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "Ladataan..."
+msgid "Loading…"
+msgstr "Ladataan…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3024,8 +3024,8 @@ msgid "Open Location"
 msgstr "Avaa sijainti"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Selaa..."
+msgid "Browse…"
+msgstr "Selaa…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3040,16 +3040,16 @@ msgid "_Media"
 msgstr "_Media"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Tuo _media..."
+msgid "Import _Media…"
+msgstr "Tuo _media…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Tuo mediatiedostoja eri lähteistä"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Tuo _soittolista..."
+msgid "Import _Playlist…"
+msgstr "Tuo _soittolista…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -3064,8 +3064,8 @@ msgid "Rescan the Music Library folder"
 msgstr "Etsi uudestaan musiikkikirjastosta"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Avaa _sijainti..."
+msgid "Open _Location…"
+msgstr "Avaa _sijainti…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3167,8 +3167,8 @@ msgid "Play the previous item"
 msgstr "Soita edellinen kohde"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Siirry _kohtaan..."
+msgid "Seek _To…"
+msgstr "Siirry _kohtaan…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3247,8 +3247,8 @@ msgid "Subtitle"
 msgstr "Tekstitys"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Lataa tiedosto..."
+msgid "Load File…"
+msgstr "Lataa tiedosto…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3289,8 +3289,8 @@ msgid "Create a new empty playlist"
 msgstr "Luo uusi tyhjä soittolista"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "Uusi _älysoittolista..."
+msgid "New _Smart Playlist…"
+msgstr "Uusi _älysoittolista…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3309,8 +3309,8 @@ msgid "Rename"
 msgstr "Nimeä uudestaan"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Vie soittolista..."
+msgid "Export Playlist…"
+msgstr "Vie soittolista…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -4004,8 +4004,8 @@ msgid "Continue {0}"
 msgstr "Jatka {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "Pysäytetään..."
+msgid "Stopping…"
+msgstr "Pysäytetään…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4024,8 +4024,8 @@ msgid "Files"
 msgstr "Tiedostot"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "_Valitse tiedostot..."
+msgid "C_hoose Files…"
+msgstr "_Valitse tiedostot…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -4052,8 +4052,8 @@ msgid "Folders"
 msgstr "Kansiot"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "_Valitse kansiot..."
+msgid "C_hoose Folders…"
+msgstr "_Valitse kansiot…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -4128,7 +4128,7 @@ msgid "Reset location to default ({0})"
 msgstr "Palauta sijainti oletusarvoon ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4188,8 +4188,8 @@ msgstr "Näytä tai piilota esittäjä- ja levyselain"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "Ladataan {0}..."
+msgid "Loading {0}…"
+msgstr "Ladataan {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4213,8 +4213,8 @@ msgstr "Jouten"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Yhdistetään..."
+msgid "Contacting…"
+msgstr "Yhdistetään…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
 msgid "Buffering"
@@ -4286,8 +4286,8 @@ msgstr "Synkronoidaan iPodia"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:550
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:695
-msgid "Preparing to synchronize..."
-msgstr "Valmistellaan synkronointia..."
+msgid "Preparing to synchronize…"
+msgstr "Valmistellaan synkronointia…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:553
 #, csharp-format
@@ -4474,8 +4474,8 @@ msgstr "Katkaise yhteys"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Katkaistaan yhteys {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Katkaistaan yhteys {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4488,20 +4488,20 @@ msgid "Rebuilding Database"
 msgstr "Rakennetaan tietokantaa uudestaan"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
-msgstr "Tutkitaan iPodia..."
+msgid "Scanning iPod…"
+msgstr "Tutkitaan iPodia…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
-msgstr "Käsitellään kappaleita..."
+msgid "Processing Tracks…"
+msgstr "Käsitellään kappaleita…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
-msgstr "Ostetaan kappaleita..."
+msgid "Ordering Tracks…"
+msgstr "Ostetaan kappaleita…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
-msgstr "Tallennetaan uusi tietokanta..."
+msgid "Saving new database…"
+msgstr "Tallennetaan uusi tietokanta…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
 msgid "Error rebuilding iPod database"
@@ -4532,12 +4532,12 @@ msgid "Please manually remove some songs"
 msgstr "Poista manuaalisesti joitakin kappaleita"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:724
-msgid "Updating..."
-msgstr "Päivitetään..."
+msgid "Updating…"
+msgstr "Päivitetään…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:728
-msgid "Flushing to disk..."
-msgstr "Kirjoitetaan levylle..."
+msgid "Flushing to disk…"
+msgstr "Kirjoitetaan levylle…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:61
 msgid "Unable to read your iPod"
@@ -4582,8 +4582,8 @@ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 msgstr "iPod on liitetty vain luettavaksi. Banshee ei voi palauttaa iPodiasi."
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:125
-msgid "Rebuild iPod Database..."
-msgstr "Luo iPodin tietokanta uudestaan..."
+msgid "Rebuild iPod Database…"
+msgstr "Luo iPodin tietokanta uudestaan…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:133
 msgid "Confirm Rebuild iPod Database"
@@ -4606,8 +4606,8 @@ msgid "Rebuild Database"
 msgstr "Luo tietokanta uudestaan"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:157
-msgid "Rebuilding iPod Database..."
-msgstr "Luodaan iPodin tietokantaa uudestaan..."
+msgid "Rebuilding iPod Database…"
+msgstr "Luodaan iPodin tietokantaa uudestaan…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
 msgid "Purchased Music"
@@ -4752,8 +4752,8 @@ msgid "Open Book"
 msgstr "Avaa kirja"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Yhdistä levyt..."
+msgid "Merge Discs…"
+msgstr "Yhdistä levyt…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:65
@@ -4925,8 +4925,8 @@ msgid "Duplicate this audio CD"
 msgstr "Kopioi tämä CD-levy"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-msgid "Searching for track information..."
-msgstr "Etsitään kappaletietoja..."
+msgid "Searching for track information…"
+msgstr "Etsitään kappaletietoja…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
 msgid "Could not fetch track information"
@@ -4945,8 +4945,8 @@ msgid "Could not duplicate audio CD"
 msgstr "CD-levyä ei voitu kopioida"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
-msgstr "Poistetaan CD-levyä asemasta..."
+msgid "Ejecting audio CD…"
+msgstr "Poistetaan CD-levyä asemasta…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
 #, csharp-format
@@ -5150,8 +5150,8 @@ msgstr "Ladataan eMusic-kappaleita"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Alustetaan..."
+msgid "Initializing…"
+msgstr "Alustetaan…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -5172,8 +5172,8 @@ msgstr "Perutaan noudot"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "Odotetaan noutojen keskeytystä..."
+msgid "Waiting for downloads to terminate…"
+msgstr "Odotetaan noutojen keskeytystä…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5237,8 +5237,8 @@ msgstr ""
 "tehdä mitään."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Korjaa musiikin metatietoja..."
+msgid "Fix Music Metadata…"
+msgstr "Korjaa musiikin metatietoja…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5476,8 +5476,8 @@ msgstr "_Teksti"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Etsi..."
+msgid "Search…"
+msgstr "Etsi…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -6115,8 +6115,8 @@ msgid "Unknown Similarity"
 msgstr "Samankaltaisuus ei ole selvillä"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Lisää asema..."
+msgid "_Add Station…"
+msgstr "_Lisää asema…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6454,8 +6454,8 @@ msgstr "Tuo soittolistat"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Etsi tiedosto ”{0}”..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Etsi tiedosto ”{0}”…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
@@ -6709,8 +6709,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Etsi uusia jaksoja kaikista podcasteista"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Lisää podcast..."
+msgid "Add Podcast…"
+msgstr "Lisää podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6926,13 +6926,13 @@ msgstr "Lähettäjä"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Soita Bansheessa..."
+msgid "Play in Banshee…"
+msgstr "Soita Bansheessa…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Soita Web-selaimessa..."
+msgid "Play in Web Browser…"
+msgstr "Soita Web-selaimessa…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7356,8 +7356,8 @@ msgstr "Tuntematon podcast"
 #~ msgid "Refresh All Podcasts"
 #~ msgstr "Päivitä kaikki podcastit"
 
-#~ msgid "Subscribe to Podcast..."
-#~ msgstr "Tilaa podcast..."
+#~ msgid "Subscribe to Podcast…"
+#~ msgstr "Tilaa podcast…"
 
 #~ msgid "Subscribe to Podcast"
 #~ msgstr "Tilaa podcast"
@@ -7386,8 +7386,8 @@ msgstr "Tuntematon podcast"
 #~ msgid "Authorized!"
 #~ msgstr "Käyttöoikeus on myönnetty!"
 
-#~ msgid "Authorize..."
-#~ msgstr "Myönnä käyttöoikeus..."
+#~ msgid "Authorize…"
+#~ msgstr "Myönnä käyttöoikeus…"
 
 #~ msgid "Check if Banshee has been authorized"
 #~ msgstr "Tarkista onko Bansheelle myönnetty käyttöoikeus"
@@ -7441,8 +7441,8 @@ msgstr "Tuntematon podcast"
 #~ msgid "Eject {0}"
 #~ msgstr "Irrota {0}"
 
-#~ msgid "_Configure..."
-#~ msgstr "_Asetukset..."
+#~ msgid "_Configure…"
+#~ msgstr "_Asetukset…"
 
 #~ msgid "Configure the Last.fm Extension"
 #~ msgstr "Last.fm-lisäosan asetukset"
@@ -7489,8 +7489,8 @@ msgstr "Tuntematon podcast"
 #~ msgid "Delete From {0}"
 #~ msgstr "Poista laitteelta {0}"
 
-#~ msgid "Preparing..."
-#~ msgstr "Valmistellaan..."
+#~ msgid "Preparing…"
+#~ msgstr "Valmistellaan…"
 
 #~ msgid "Station Name"
 #~ msgstr "Aseman nimi"

@@ -469,8 +469,8 @@ msgid "_Write"
 msgstr "འབྲི་(_W)"
 
 #: ../data/banshee.glade.h:1
-msgid "<b>Loading...</b>"
-msgstr "<b>མངོན་གསལ་འབད་དོ་...</b>"
+msgid "<b>Loading…</b>"
+msgstr "<b>མངོན་གསལ་འབད་དོ་…</b>"
 
 #: ../data/banshee.glade.h:3
 msgid "Disk Usage:"
@@ -795,8 +795,8 @@ msgid "Track"
 msgstr "གླུ་རིམ་"
 
 #: ../src/Core/Banshee/Banshee.TrackView.Columns/TrackViewColumn.cs:141
-msgid "Columns..."
-msgstr "ཀེར་ཐིག་ཚུ་..."
+msgid "Columns…"
+msgstr "ཀེར་ཐིག་ཚུ་…"
 
 #. Translators: {0} is the title of the column, e.g. 'Hide Artist'
 #: ../src/Core/Banshee/Banshee.TrackView.Columns/TrackViewColumn.cs:144
@@ -827,32 +827,32 @@ msgid "Create a new empty playlist"
 msgstr "གླུ་ཐོ་སྟོངམ་གསརཔ་ཅིག་གསར་བསྐྲུན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:72
-msgid "Import _Folder..."
-msgstr "སྣོད་འཛིན་ནང་འདྲེན་འབད་...(_F)"
+msgid "Import _Folder…"
+msgstr "སྣོད་འཛིན་ནང་འདྲེན་འབད་…(_F)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:73
 msgid "Import the contents of an entire folder"
 msgstr "སྣོད་འཛིན་ཧྲིལ་བུ་ཅིག་གི་ ནང་དོན་འདི་ཚུ་ནང་འདྲེན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:76
-msgid "Import Files..."
-msgstr "ཡིག་སྣོད་ཚུ་ནང་འདྲེན་འབད་..."
+msgid "Import Files…"
+msgstr "ཡིག་སྣོད་ཚུ་ནང་འདྲེན་འབད་…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:77
 msgid "Import files inside a folder"
 msgstr "སྣོད་འཛིན་ཅིག་ནང་ ཡིག་སྣོད་ཚུ་ནང་འདྲེན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:80
-msgid "Import _Music..."
-msgstr "སྙན་ཆ་ནང་འདྲེན་འབད་...(_M)"
+msgid "Import _Music…"
+msgstr "སྙན་ཆ་ནང་འདྲེན་འབད་…(_M)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:81
 msgid "Import music from a variety of sources"
 msgstr "འབྱུང་ཁུངས་ཚུ་གི་སྣ་ཁང་ཅིག་ལས་ སྙན་ཆ་ནང་འདྲེན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:84
-msgid "Open _Location..."
-msgstr "གནས་ཁོངས་ཁ་ཕྱེ་...(_L)"
+msgid "Open _Location…"
+msgstr "གནས་ཁོངས་ཁ་ཕྱེ་…(_L)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:85
 msgid "Open a remote location for playback"
@@ -915,8 +915,8 @@ msgid "_Jump to playing song"
 msgstr "ཞབས་ཁྲ་གཏང་ནི་ལུ་མཆོང་(_J)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:131
-msgid "Plu_gins..."
-msgstr "པ་ལག་ཨིནསི་...(_g)"
+msgid "Plu_gins…"
+msgstr "པ་ལག་ཨིནསི་…(_g)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:132
 msgid "Configure Banshee plugins"
@@ -931,16 +931,16 @@ msgid "_View"
 msgstr "མཐོང་སྣང་(_V)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:143
-msgid "_Columns..."
-msgstr "ཀེར་ཐིག་ཚུ་...(_C)"
+msgid "_Columns…"
+msgstr "ཀེར་ཐིག་ཚུ་…(_C)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:144
 msgid "Select which columns to display in the song list"
 msgstr "ཞབས་ཁྲའི་ཐོ་ཡིག་དེ་ནང་ ཀེར་ཐིག་ག་འདི་ཚུ་བཀྲམ་སྟོན་འབད་ནི་ཨིན་ན་ སེལ་འཐུ་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:147
-msgid "_Boo Buddy..."
-msgstr "བོ་བ་ཌི་...(_B)"
+msgid "_Boo Buddy…"
+msgstr "བོ་བ་ཌི་…(_B)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:148
 msgid "Open Boo Buddy"
@@ -951,8 +951,8 @@ msgid "Display the equalizer."
 msgstr "མཉམ་པ་བཟོ་མི་འདི་བཀྲམ་སྟོན་འབད།"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:158
-msgid "_Logged Events Viewer..."
-msgstr "ནང་བསྐྱོད་འབད་ཡོད་པའི་བྱུང་ལས་ཀྱི་མཐོང་བྱེད་...(_L)"
+msgid "_Logged Events Viewer…"
+msgstr "ནང་བསྐྱོད་འབད་ཡོད་པའི་བྱུང་ལས་ཀྱི་མཐོང་བྱེད་…(_L)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:159
 msgid "View a detailed log of events"
@@ -963,8 +963,8 @@ msgid "_Help"
 msgstr "གྲོགས་རམ་(_H)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:165
-msgid "_Version Information..."
-msgstr "ཐོན་རིམ་བརྡ་དོན་...(_V)"
+msgid "_Version Information…"
+msgstr "ཐོན་རིམ་བརྡ་དོན་…(_V)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:166
 msgid "View detailed version and configuration information"
@@ -1018,7 +1018,7 @@ msgid "_Debug"
 msgstr "རྐྱེན་སེལ་(_D)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:204
-msgid "Import Playlist..."
+msgid "Import Playlist…"
 msgstr "གླུ་ཐོ་ནང་འདྲེན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:205
@@ -1026,7 +1026,7 @@ msgid "Import a playlist"
 msgstr "གླུ་ཐོ་གཅིག་ནང་འདྲན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:208
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "གླུ་ཐོ་ཕྱིར་འདྲེན་འབད་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:209
@@ -1210,7 +1210,7 @@ msgid "Seek forward in current song"
 msgstr "ད་ལྟོའི་ཞབས་ཁྲ་ནང་ གདོང་བསྐྱོད་འཚོལ་"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:332
-msgid "Seek _to..."
+msgid "Seek _to…"
 msgstr "ལུ་འཚོལ་(_t)"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:333
@@ -2135,20 +2135,20 @@ msgid "Path"
 msgstr "འགྲུལ་ལམ་"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistCore.cs:156
-msgid "New _Smart Playlist..."
-msgstr "གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་གསརཔ་...(_S)"
+msgid "New _Smart Playlist…"
+msgstr "གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་གསརཔ་…(_S)"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistCore.cs:162
-msgid "New Smart Playlist _from Search..."
-msgstr "འཚོལ་ཞིབ་ལས་ གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་གསརཔ་...(_f)"
+msgid "New Smart Playlist _from Search…"
+msgstr "འཚོལ་ཞིབ་ལས་ གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་གསརཔ་…(_f)"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistSource.cs:117
 msgid "Delete Smart Playlist"
 msgstr "གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་བཏོན་གཏང་"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistSource.cs:122
-msgid "Edit Smart Playlist..."
-msgstr "གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་ཞུན་དག་འབད་..."
+msgid "Edit Smart Playlist…"
+msgstr "གླུ་ཐོ་སྤུར་བསྒྱིར་དྲགས་ཞུན་དག་འབད་…"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistSource.cs:443
 msgid "Smart Playlist has Dependencies"
@@ -2184,8 +2184,8 @@ msgid "Files are currently being converted to another audio format. Would you li
 msgstr "ཡིག་སྣོད་ཚུ་ད་ལྟོ་ གཞན་མི་རྣར་ཉན་རྩ་སྒྲིག་ལུ་གཞི་བསྒྱུར་འབད་ཡོད། ཁྱོད་ཀྱིས་འདི་བཀག་ནི་ཨིན་ན?"
 
 #: ../src/Core/Banshee.Base/BatchTranscoder.cs:141
-msgid "Initializing Transcoder..."
-msgstr "ཊཱནསི་ཀོ་ཌར་འགོ་འབྱེད་འབད་དོ་..."
+msgid "Initializing Transcoder…"
+msgstr "ཊཱནསི་ཀོ་ཌར་འགོ་འབྱེད་འབད་དོ་…"
 
 #: ../src/Core/Banshee.Base/ComponentInitializer.cs:94
 msgid "Could not initialize component"
@@ -2206,13 +2206,13 @@ msgid "Synchronizing {0}"
 msgstr "{0} མཉམ་འབྱུང་འབད་དོ་"
 
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:340
-msgid "Waiting for transcoder..."
-msgstr "ཊཱནསི་ཀོ་ཌར་གི་དོན་ལུ་བསྒུག་དོ་..."
+msgid "Waiting for transcoder…"
+msgstr "ཊཱནསི་ཀོ་ཌར་གི་དོན་ལུ་བསྒུག་དོ་…"
 
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:427
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:448
-msgid "Processing..."
-msgstr "བཟོ་སྦྱོར་གྱི་..."
+msgid "Processing…"
+msgstr "བཟོ་སྦྱོར་གྱི་…"
 
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:467
 msgid "Could not encode some files"
@@ -2471,8 +2471,8 @@ msgid "Entry Details:"
 msgstr "ཐོ་བཀོད་རྒྱས་བཤད་:"
 
 #: ../src/Core/Banshee.Base/Gui/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "བརྡ་འཚོལ་འབད་..."
+msgid "Browse…"
+msgstr "བརྡ་འཚོལ་འབད་…"
 
 #: ../src/Core/Banshee.Base/Gui/PreferencesDialog.cs:67
 msgid "Select library location"
@@ -2634,8 +2634,8 @@ msgid "Playing Music"
 msgstr "སྙན་ཆ་གཏང་དོ་"
 
 #: ../src/Core/Banshee.Base/Source.cs:388
-msgid "Source Properties..."
-msgstr "འབྱུང་ཁུངས་རྒྱུ་དངོས་ཚུ་..."
+msgid "Source Properties…"
+msgstr "འབྱུང་ཁུངས་རྒྱུ་དངོས་ཚུ་…"
 
 #: ../src/Core/Banshee.Base/Source.cs:396
 #, csharp-format
@@ -2666,16 +2666,16 @@ msgid "Eject CD"
 msgstr "སི་ཌི་ཕྱིར་བཏོན་འབད་"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:98
-msgid "Reading table of contents from CD..."
-msgstr "སི་ཌི་ལས་ནང་དོན་ཚུ་གི་ཐིག་ཁྲམ་ལྷག་དོ་..."
+msgid "Reading table of contents from CD…"
+msgstr "སི་ཌི་ལས་ནང་དོན་ཚུ་གི་ཐིག་ཁྲམ་ལྷག་དོ་…"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:103
-msgid "Searching for CD metadata..."
-msgstr "སི་ཌི་མེ་ཊ་གནད་སྡུད་ཀྱི་དོན་ལུ་འཚོལ་ཞིབ་འབད་དོ་..."
+msgid "Searching for CD metadata…"
+msgstr "སི་ཌི་མེ་ཊ་གནད་སྡུད་ཀྱི་དོན་ལུ་འཚོལ་ཞིབ་འབད་དོ་…"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:108
-msgid "Searching for CD cover art..."
-msgstr "སི་ཌི་ཁེབས་ཀྱི་རི་མོའི་དོན་ལུ་ འཚོལ་ཞིབ་འབད་དོ་..."
+msgid "Searching for CD cover art…"
+msgstr "སི་ཌི་ཁེབས་ཀྱི་རི་མོའི་དོན་ལུ་ འཚོལ་ཞིབ་འབད་དོ་…"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:113
 msgid "Cannot search for CD metadata: there is no available Internet connection"
@@ -2698,7 +2698,7 @@ msgid "You must select at least one track to import."
 msgstr "ཁྱོད་ཀྱིས་ནང་འདྲེན་འབད་ནིའི་དོན་ལས་ ཉུང་མཐའ་གླུ་རིམ་གཅིག་སེལ་འཐུ་འབད་དགོ"
 
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:107
-msgid "Synchronizing your Device, Please Wait..."
+msgid "Synchronizing your Device, Please Wait…"
 msgstr "ཁྱོད་རའི་ཐབས་འཕྲུལ་མཉམ་འབྱུང་འབད་དོ་ བསྒུག་གནང་"
 
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:191
@@ -2723,8 +2723,8 @@ msgstr "{0} ལས་འདྲ་བཤུས་རྐྱབས་"
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:196
 #: ../src/Dap/Banshee.Dap.Mtp/MtpDap.cs:315
 #: ../src/Plugins/Banshee.Plugins.Daap/DaapSource.cs:321
-msgid "Scanning..."
-msgstr "ཞིབ་ལྟ་འབད་དོ་..."
+msgid "Scanning…"
+msgstr "ཞིབ་ལྟ་འབད་དོ་…"
 
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:313
 #: ../src/Dap/Banshee.Dap.Mtp/MtpDap.cs:435
@@ -3079,8 +3079,8 @@ msgid "Buffering"
 msgstr "གནད་ཁོངས་ནང་གསོག་འཇོག་"
 
 #: ../src/Core/Banshee.Widgets/StreamPositionLabel.cs:84
-msgid "Contacting..."
-msgstr "འབྲེལ་བ་འཐབ་དོ་..."
+msgid "Contacting…"
+msgstr "འབྲེལ་བ་འཐབ་དོ་…"
 
 #: ../src/Core/Banshee.Widgets/StreamPositionLabel.cs:86
 msgid "Idle"
@@ -3100,16 +3100,16 @@ msgid "Rebuilding Database"
 msgstr "གནད་སྡུད་གཞི་རྟེན་སླར་བཟོ་རྩིག་འབད་དོ་"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:55
-msgid "Scanning iPod..."
-msgstr "ཨའི་པོཌི་ཞིབ་ལྟ་འབད་དོ་..."
+msgid "Scanning iPod…"
+msgstr "ཨའི་པོཌི་ཞིབ་ལྟ་འབད་དོ་…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:89
-msgid "Processing Tracks..."
-msgstr "གླུ་རིམ་ཚུ་བཟོ་སྦྱོར་འབད་དོ་..."
+msgid "Processing Tracks…"
+msgstr "གླུ་རིམ་ཚུ་བཟོ་སྦྱོར་འབད་དོ་…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:136
-msgid "Saving new database..."
-msgstr "གནད་སྡུད་གཞི་རྟེན་གསརཔ་སྲུང་བཞག་འབད་དོ་..."
+msgid "Saving new database…"
+msgstr "གནད་སྡུད་གཞི་རྟེན་གསརཔ་སྲུང་བཞག་འབད་དོ་…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:143
 msgid "Error rebuilding iPod database"
@@ -3191,8 +3191,8 @@ msgid "What is the reason for this?"
 msgstr "འ་ནི་གི་དོན་ལུ་ རྒྱུ་མཚན་ག་ཅི་སྨོ?"
 
 #: ../src/Dap/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:116
-msgid "Rebuild iPod Database..."
-msgstr "ཨའི་པོཌི་གནད་སྡུད་གཞི་རྟེན་སླར་བཟོ་རྩིག་འབད་..."
+msgid "Rebuild iPod Database…"
+msgstr "ཨའི་པོཌི་གནད་སྡུད་གཞི་རྟེན་སླར་བཟོ་རྩིག་འབད་…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:124
 msgid "Confirm Rebuild iPod Database"
@@ -3213,8 +3213,8 @@ msgid "Rebuild Database"
 msgstr "གནད་སྡུད་གཞི་རྟེན་སླར་བཟོ་རྩིག་འབད་"
 
 #: ../src/Dap/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:147
-msgid "Rebuilding iPod Database..."
-msgstr "ཨའི་པོཌི་གནད་སྡུད་གཞི་རྟེན་སླར་བཟོ་རྩིག་འབད་དོ་..."
+msgid "Rebuilding iPod Database…"
+msgstr "ཨའི་པོཌི་གནད་སྡུད་གཞི་རྟེན་སླར་བཟོ་རྩིག་འབད་དོ་…"
 
 #: ../src/Dap/Banshee.Dap.Karma/Karma.cs:144
 #: ../src/Dap/Banshee.Dap.Karma/Karma.cs:172
@@ -3418,8 +3418,8 @@ msgid "Visit the Banshee last.fm group page"
 msgstr "བཱན་ཤི་མཇུག་གི་.fm སྡེ་ཚན་གྱི་ཤོག་ལེབ་འདི་བལྟ་སྤྱོད་འབད་"
 
 #: ../src/Plugins/Banshee.Plugins.Audioscrobbler/AudioscrobblerPlugin.cs:108
-msgid "_Configure..."
-msgstr "རིམ་སྒྲིག་འབད་...(_C)"
+msgid "_Configure…"
+msgstr "རིམ་སྒྲིག་འབད་…(_C)"
 
 #: ../src/Plugins/Banshee.Plugins.Audioscrobbler/AudioscrobblerPlugin.cs:114
 msgid "_Enable song reporting"
@@ -3927,8 +3927,8 @@ msgstr "ཁྱད་པར་འདི་ 'གཡོག་བཀོལ་ནན�
 
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/HttpDownloadTask.cs:224
 #, csharp-format
-msgid "Contacting {0}..."
-msgstr "{0} འབྲེལ་བ་འཐབ་དོ་..."
+msgid "Contacting {0}…"
+msgstr "{0} འབྲེལ་བ་འཐབ་དོ་…"
 
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/HttpDownloadTask.cs:232
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/HttpDownloadTask.cs:240

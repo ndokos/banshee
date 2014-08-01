@@ -309,8 +309,8 @@ msgid "Could not construct pipeline"
 msgstr "પાઈપલાઈન રચી શક્યા નહિં"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:64
-msgid "Write CD..."
-msgstr "CD લખો..."
+msgid "Write CD…"
+msgstr "CD લખો…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
 msgid "Write selected tracks to an audio CD"
@@ -410,7 +410,7 @@ msgid "Show all option groups"
 msgstr "બધા વિકલ્પ જૂથોને બતાવો"
 
 #: ../src/Clients/Booter/Booter/Entry.cs:154
-#| msgid "_Version Information..."
+#| msgid "_Version Information…"
 msgid "Show version information"
 msgstr "આવૃત્તિ જાણકારી ને બતાવો"
 
@@ -838,13 +838,13 @@ msgstr "મીડિયા માટે સ્કેન કરી રહ્ય�
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:187
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1250
-msgid "Scanning..."
-msgstr "સ્કેન કરી રહ્યા છીએ..."
+msgid "Scanning…"
+msgstr "સ્કેન કરી રહ્યા છીએ…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:203
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "({0} ફાઇલો) ને સ્કેન કરી રહ્યા છે..."
+msgid "Scanning ({0} files)…"
+msgstr "({0} ફાઇલો) ને સ્કેન કરી રહ્યા છે…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:237
 msgid "Importing Media"
@@ -1913,14 +1913,14 @@ msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
 #, fuzzy
-#| msgid "Waiting for downloads to terminate..."
-msgid "Waiting for playback to begin..."
-msgstr "ડાઉનલોડને બંધ થવા માટે રાહ જોઈ રહ્યા છીએ..."
+#| msgid "Waiting for downloads to terminate…"
+msgid "Waiting for playback to begin…"
+msgstr "ડાઉનલોડને બંધ થવા માટે રાહ જોઈ રહ્યા છીએ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-#| msgid "Contacting..."
-msgid "Loading..."
-msgstr "લોડ કરી રહ્યા છે..."
+#| msgid "Contacting…"
+msgid "Loading…"
+msgstr "લોડ કરી રહ્યા છે…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerWindow.cs:52
 msgid "Equalizer"
@@ -2040,8 +2040,8 @@ msgid "PNG image files"
 msgstr "PNG ચિત્ર ફાઈલો"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "બ્રાઉઝ કરો..."
+msgid "Browse…"
+msgstr "બ્રાઉઝ કરો…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:98
 #: ../src/Core/Banshee.ThickClient/Resources/banshee-dialogs.glade.h:8
@@ -2053,8 +2053,8 @@ msgid "_Media"
 msgstr "મીડિયા (_M)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "મીડિયા ને આયાત કરો (_M)..."
+msgid "Import _Media…"
+msgstr "મીડિયા ને આયાત કરો (_M)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
@@ -2062,9 +2062,9 @@ msgstr "વિવિધ સ્રોતોમાંથી મીડિયા આ
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
 #, fuzzy
-#| msgid "Import Playlist..."
-msgid "Import _Playlist..."
-msgstr "પ્લેલીસ્ટ ને આયાત કરો..."
+#| msgid "Import Playlist…"
+msgid "Import _Playlist…"
+msgstr "પ્લેલીસ્ટ ને આયાત કરો…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -2080,8 +2080,8 @@ msgid "Rescan the Music Library folder"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "સ્થાન ખોલો (_L)..."
+msgid "Open _Location…"
+msgstr "સ્થાન ખોલો (_L)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -2160,7 +2160,7 @@ msgid "Become a contributor to Banshee"
 msgstr "Banshee ને ફાળો આપનાર બનો"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:122
-#| msgid "_Version Information..."
+#| msgid "_Version Information…"
 msgid "_Version Information"
 msgstr "આવૃત્તિ જાણકારી (_V)"
 
@@ -2199,8 +2199,8 @@ msgstr "પહેલાંનુ ગીત વગાડો"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:78
 #, fuzzy
-msgid "Seek _to..."
-msgstr "સુધી પહોંચો (_T)..."
+msgid "Seek _to…"
+msgstr "સુધી પહોંચો (_T)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:79
 #, fuzzy
@@ -2337,8 +2337,8 @@ msgstr "નવું ખાલી પ્લેલીસ્ટ બનાવો"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:77
 #| msgid "New _Smart Playlist"
-msgid "New _Smart Playlist..."
-msgstr "નવું સ્માર્ટ પ્લેલીસ્ટ (_S)..."
+msgid "New _Smart Playlist…"
+msgstr "નવું સ્માર્ટ પ્લેલીસ્ટ (_S)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:78
 msgid "Create a new smart playlist"
@@ -2357,8 +2357,8 @@ msgid "Rename"
 msgstr "નામ ને બદલો"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:95
-msgid "Export Playlist..."
-msgstr "પ્લેલીસ્ટની નિકાસ કરો..."
+msgid "Export Playlist…"
+msgstr "પ્લેલીસ્ટની નિકાસ કરો…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:96
 msgid "Export a playlist"
@@ -3080,8 +3080,8 @@ msgid "Continue {0}"
 msgstr "{0} ચાલુ રાખો"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "બંધ કરી રહ્યા છીએ..."
+msgid "Stopping…"
+msgstr "બંધ કરી રહ્યા છીએ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3287,8 +3287,8 @@ msgid "Idle"
 msgstr "આળસુ"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
-msgid "Contacting..."
-msgstr "સંપર્ક કરી રહ્યા છીએ..."
+msgid "Contacting…"
+msgstr "સંપર્ક કરી રહ્યા છીએ…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
 msgid "Buffering"
@@ -3459,8 +3459,8 @@ msgstr "{0} બહાર કાઢો"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "{0} બહાર કાઢી રહ્યા છે..."
+msgid "Ejecting {0}…"
+msgstr "{0} બહાર કાઢી રહ્યા છે…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -3473,20 +3473,20 @@ msgid "Rebuilding Database"
 msgstr "ડેટાબેઝ પુનઃબીલ્ડ કરી રહ્યા છીએ"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
-msgstr "iPod સ્કેન કરી રહ્યા છીએ..."
+msgid "Scanning iPod…"
+msgstr "iPod સ્કેન કરી રહ્યા છીએ…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
-msgstr "ટ્રેકો પર પ્રક્રિયા કરી રહ્યા છીએ..."
+msgid "Processing Tracks…"
+msgstr "ટ્રેકો પર પ્રક્રિયા કરી રહ્યા છીએ…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
-msgstr "ટ્રેકોને ક્રમમાં કરી રહ્યા છે..."
+msgid "Ordering Tracks…"
+msgstr "ટ્રેકોને ક્રમમાં કરી રહ્યા છે…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
-msgstr "નવો ડેટાબેઝ સંગ્રહી રહ્યા છીએ..."
+msgid "Saving new database…"
+msgstr "નવો ડેટાબેઝ સંગ્રહી રહ્યા છીએ…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
 msgid "Error rebuilding iPod database"
@@ -3546,15 +3546,15 @@ msgid "Syncing iPod"
 msgstr "iPod ને સુમેળ કરી રહ્યા છીએ"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:662
-msgid "Preparing to synchronize..."
-msgstr "સુમેળ કરવા માટે તૈયાર કરી રહ્યા છે..."
+msgid "Preparing to synchronize…"
+msgstr "સુમેળ કરવા માટે તૈયાર કરી રહ્યા છે…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:683
-msgid "Updating..."
-msgstr "સુધારી રહ્યા છીએ..."
+msgid "Updating…"
+msgstr "સુધારી રહ્યા છીએ…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:687
-msgid "Flushing to disk..."
+msgid "Flushing to disk…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:59
@@ -3601,8 +3601,8 @@ msgstr ""
 "સંગ્રહ કરી શકતુ નથી."
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:123
-msgid "Rebuild iPod Database..."
-msgstr "iPod ડેટાબેઝ પુનઃબીલ્ડ કરો..."
+msgid "Rebuild iPod Database…"
+msgstr "iPod ડેટાબેઝ પુનઃબીલ્ડ કરો…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:131
 msgid "Confirm Rebuild iPod Database"
@@ -3625,8 +3625,8 @@ msgid "Rebuild Database"
 msgstr "ડેટાબેઝ પુનઃબીલ્ડ કરો"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:155
-msgid "Rebuilding iPod Database..."
-msgstr "iPod ડેટાબેઝ પુનઃબીલ્ડ કરી રહ્યા છીએ..."
+msgid "Rebuilding iPod Database…"
+msgstr "iPod ડેટાબેઝ પુનઃબીલ્ડ કરી રહ્યા છીએ…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
 #| msgid "Shared Music"
@@ -3806,8 +3806,8 @@ msgid "Duplicate this audio CD"
 msgstr "આ ઓડિયો CD ની નકલ કરો"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:130
-msgid "Searching for CD metadata..."
-msgstr "CD મેટાડેટા માટે શોધી રહ્યા છીએ..."
+msgid "Searching for CD metadata…"
+msgstr "CD મેટાડેટા માટે શોધી રહ્યા છીએ…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:163
 msgid "Could not fetch metadata for CD."
@@ -3826,8 +3826,8 @@ msgid "Could not duplicate audio CD"
 msgstr "ઓડિયો CD ની નકલ કરી શક્યા નહિં"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:363
-msgid "Ejecting audio CD..."
-msgstr "ઓડિયો CD ને બહાર નીકાળી રહ્યા છે..."
+msgid "Ejecting audio CD…"
+msgstr "ઓડિયો CD ને બહાર નીકાળી રહ્યા છે…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:381
 #, csharp-format
@@ -4176,8 +4176,8 @@ msgid "Visit Your Last.fm Profile Page"
 msgstr "તમારા Last.fm રૂપરેખા પાનાંની મુલાકાત લો"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:134
-msgid "_Configure..."
-msgstr "રૂપરેખાંકિત કરો (_C)..."
+msgid "_Configure…"
+msgstr "રૂપરેખાંકિત કરો (_C)…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:135
 msgid "Configure the Last.fm Extension"
@@ -4194,7 +4194,7 @@ msgstr "ગીત અહેવાલીકરણ સક્રિય કરો"
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Radio/LastfmActions.cs:66
 #, fuzzy
 #| msgid "_Add Station"
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "સ્ટેશન ઉમેરો (_A)"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Radio/LastfmActions.cs:67
@@ -4653,8 +4653,8 @@ msgstr "પ્લેલીસ્ટો ને આયાત કરો (_p)"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "તમારી \"{0}\" ફાઇલને સ્થાપિત કરો..."
+msgid "Locate your \"{0}\" file…"
+msgstr "તમારી \"{0}\" ફાઇલને સ્થાપિત કરો…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:388
 #, fuzzy, csharp-format
@@ -4832,8 +4832,8 @@ msgid "Downloading Podcast(s)"
 msgstr "Podcast(s) ને ડાઉનલોડ કરી રહ્યા છીએ"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "આરંભ કરી રહ્યા છીએ..."
+msgid "Initializing…"
+msgstr "આરંભ કરી રહ્યા છીએ…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all podcast downloads?"
@@ -4855,8 +4855,8 @@ msgid "Canceling Downloads"
 msgstr "ડાઉનલોડ રદ કરી રહ્યા છીએ"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "ડાઉનલોડને બંધ થવા માટે રાહ જોઈ રહ્યા છીએ..."
+msgid "Waiting for downloads to terminate…"
+msgstr "ડાઉનલોડને બંધ થવા માટે રાહ જોઈ રહ્યા છીએ…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:66
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:90
@@ -4871,7 +4871,7 @@ msgstr "બધા પોડકાસ્ટ ને તાજુ કરો"
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:72
 #, fuzzy
 #| msgid "Subscribe to Podcast"
-msgid "Subscribe to Podcast..."
+msgid "Subscribe to Podcast…"
 msgstr "પોડકાસ્ટમાં ઉમેદવારી નોંધાવો"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:73

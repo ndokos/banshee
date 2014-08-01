@@ -48,7 +48,7 @@ namespace Banshee.Sample
         {
             this.source = source;
 
-            Button button = new Button ("Waiting...");
+            Button button = new Button ("Waiting…");
             button.Show ();
 
             PackStart (button, true, true, 0);

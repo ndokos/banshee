@@ -795,7 +795,7 @@ msgid "Could not construct pipeline"
 msgstr "Nun pudo crease'l pipeline"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "Grabar CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1410,12 +1410,12 @@ msgstr "Desaminando conteníu multimedia"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
+msgid "Scanning…"
 msgstr "Desaminando…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "Desaminando ({0} ficheros)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2727,7 +2727,7 @@ msgid "External Document"
 msgstr "Documentu esternu"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "Escoyer una portada nueva…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2775,11 +2775,11 @@ msgid "Hide context pane"
 msgstr "Anubrir el panel contestual"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr "Esperando a qu'anicie la reproducción…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
+msgid "Loading…"
 msgstr "Cargando…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -2925,7 +2925,7 @@ msgid "Open Location"
 msgstr "Abrir allugamientu"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "Desaminar…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -2941,7 +2941,7 @@ msgid "_Media"
 msgstr "_Multimedia"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "Importar conteníu _multimedia…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -2949,7 +2949,7 @@ msgid "Import media from a variety of sources"
 msgstr "Importar conteníu multimedia dende delles fontes"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
+msgid "Import _Playlist…"
 msgstr "Importar llista de _reproducción…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
@@ -2965,7 +2965,7 @@ msgid "Rescan the Music Library folder"
 msgstr "Reanalizar la carpeta de música"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "Abrir _allugamientu…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
@@ -3070,7 +3070,7 @@ msgid "Play the previous item"
 msgstr "Reproducir l'elementu anterior"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
+msgid "Seek _To…"
 msgstr "Dir fas_ta…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
@@ -3152,8 +3152,8 @@ msgid "Subtitle"
 msgstr "Subtítulu"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-#| msgid "Loading..."
-msgid "Load File..."
+#| msgid "Loading…"
+msgid "Load File…"
 msgstr "Cargar ficheru…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
@@ -3199,7 +3199,7 @@ msgid "Create a new empty playlist"
 msgstr "Cria una llista de reproducción nueva"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Llista nueva de reproducción _intelixente…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
@@ -3219,7 +3219,7 @@ msgid "Rename"
 msgstr "Renomar"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "Esportar la llista de reproducción…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
@@ -3888,7 +3888,7 @@ msgid "Continue {0}"
 msgstr "Siguir «{0}»"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
+msgid "Stopping…"
 msgstr "Parando…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
@@ -3909,8 +3909,8 @@ msgstr "Ficheros"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
 #| msgid "C_hoose Files"
-msgid "C_hoose Files..."
-msgstr "_Escoyer ficheros..."
+msgid "C_hoose Files…"
+msgstr "_Escoyer ficheros…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -3938,8 +3938,8 @@ msgstr "Carpetes"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
 #| msgid "C_hoose Folders"
-msgid "C_hoose Folders..."
-msgstr "_Escoyer carpetes..."
+msgid "C_hoose Folders…"
+msgstr "_Escoyer carpetes…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -4010,7 +4010,7 @@ msgid "Reset location to default ({0})"
 msgstr "Restablecer l'allugamientu al predetermináu ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4072,8 +4072,8 @@ msgstr "Amosar o anubrir el restolador d'artista/álbum"
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
 #| msgid "Loading {0}"
-msgid "Loading {0}..."
-msgstr "Cargando {0}..."
+msgid "Loading {0}…"
+msgstr "Cargando {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4098,7 +4098,7 @@ msgstr "En reposu"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr "Contautando…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
@@ -4171,7 +4171,7 @@ msgstr "Sincronizando iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:550
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:695
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "Tresnándose pa sincronizar…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:553
@@ -4187,7 +4187,7 @@ msgid "Removing track {0} of {1}"
 msgstr "Desaniciando pista {0} de {1}"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:642
-#| msgid "Saving new database..."
+#| msgid "Saving new database…"
 msgid "Writing media database"
 msgstr "Escribiendo la base de datos multimedia"
 
@@ -4355,7 +4355,7 @@ msgstr "Desconeutar"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr "Desconeutando {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
@@ -4369,19 +4369,19 @@ msgid "Rebuilding Database"
 msgstr "Reconstruyendo la base de datos"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
+msgid "Scanning iPod…"
 msgstr "Desaminando iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
+msgid "Processing Tracks…"
 msgstr "Procesando pistes…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
+msgid "Ordering Tracks…"
 msgstr "Axeitando pistes…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
+msgid "Saving new database…"
 msgstr "Guardando base de datos nueva…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
@@ -4413,11 +4413,11 @@ msgid "Please manually remove some songs"
 msgstr "Quita manualmente dalgunes canciones"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:724
-msgid "Updating..."
+msgid "Updating…"
 msgstr "Anovando…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:728
-msgid "Flushing to disk..."
+msgid "Flushing to disk…"
 msgstr "Descargando al discu…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:61
@@ -4464,7 +4464,7 @@ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 msgstr "El to iPod ta montáu en mou de namái llectura. Banshee nun puede restaurar l'iPod."
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:125
-msgid "Rebuild iPod Database..."
+msgid "Rebuild iPod Database…"
 msgstr "Reconstruyir base de datos del iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:133
@@ -4486,7 +4486,7 @@ msgid "Rebuild Database"
 msgstr "Reconstruyir base de datos"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:157
-msgid "Rebuilding iPod Database..."
+msgid "Rebuilding iPod Database…"
 msgstr "Reconstruyendo base de datos del iPod…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
@@ -4629,7 +4629,7 @@ msgid "Open Book"
 msgstr "Abrir llibru"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "Mecer discos…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
@@ -4789,8 +4789,8 @@ msgid "Duplicate this audio CD"
 msgstr "Copiar esti CD de soníu"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-#| msgid "Searching for CD metadata..."
-msgid "Searching for track information..."
+#| msgid "Searching for CD metadata…"
+msgid "Searching for track information…"
 msgstr "Guetando información de la pista…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
@@ -4811,7 +4811,7 @@ msgid "Could not duplicate audio CD"
 msgstr "Nun pudo copiase'l CD de soníu"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
+msgid "Ejecting audio CD…"
 msgstr "Espulsando CD de soníu…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
@@ -5005,7 +5005,7 @@ msgstr "Descargando pista(es) d'eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Anicializando…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -5027,7 +5027,7 @@ msgstr "Encaboxando descargues"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Esperando a que finen les descargues…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5084,7 +5084,7 @@ msgid "Displayed are artists that should likely be merged.  For each row, click 
 msgstr "Los que s'amuesen son artistes que podríen fusionase. Pa cada filera, calca nel nome deseáu pa que se ponga en negrina o desconséñalu pa nun facer denguna aición."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr "Reparar metadatos de música…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5324,7 +5324,7 @@ msgstr "_Testu"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
+msgid "Search…"
 msgstr "Guetar…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
@@ -5950,7 +5950,7 @@ msgid "Unknown Similarity"
 msgstr "Asemeyanza desconocía"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "_Amestar emisora…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6285,7 +6285,7 @@ msgstr "Importar llistes de reproducción"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr "Llocaliza'l to ficheru «{0}»…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6545,8 +6545,8 @@ msgstr "Comprobar en tolos podcasts si hai episodios nuevos"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
 #| msgid "Podcast"
-msgid "Add Podcast..."
-msgstr "Amestar Podcast..."
+msgid "Add Podcast…"
+msgstr "Amestar Podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6774,12 +6774,12 @@ msgstr "Xubíu por"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
+msgid "Play in Banshee…"
 msgstr "Reproducir en Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
+msgid "Play in Web Browser…"
 msgstr "Reproducir nel restolador web…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
@@ -7137,7 +7137,7 @@ msgstr "Podcast desconocíu"
 #~ msgstr "Non descargao"
 #~ msgid "Old Items"
 #~ msgstr "Elementos antiguos"
-#~ msgid "Subscribe to Podcast..."
+#~ msgid "Subscribe to Podcast…"
 #~ msgstr "Soscribise a un podcast…"
 #~ msgid "Mark as Old"
 #~ msgstr "Conseñar como antiguu"

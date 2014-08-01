@@ -50,15 +50,15 @@ namespace Banshee.Gui
                     Catalog.GetString ("_Media"), null, null, null),
 
                 new ActionEntry ("ImportAction", Stock.Open,
-                    Catalog.GetString ("Import _Media..."), "<control>I",
+                    Catalog.GetString ("Import _Media…"), "<control>I",
                     Catalog.GetString ("Import media from a variety of sources"), OnImport),
 
                 new ActionEntry ("ImportPlaylistAction", null,
-                    Catalog.GetString ("Import _Playlist..."), null,
+                    Catalog.GetString ("Import _Playlist…"), null,
                     Catalog.GetString ("Import a playlist"), OnImportPlaylist),
 
                 new ActionEntry ("OpenLocationAction", null,
-                    Catalog.GetString ("Open _Location..."), "<control>L",
+                    Catalog.GetString ("Open _Location…"), "<control>L",
                     Catalog.GetString ("Open a remote location for playback"), OnOpenLocation),
 
                 new ActionEntry ("QuitAction", Stock.Quit,

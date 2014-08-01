@@ -708,7 +708,7 @@ msgid "Could not construct pipeline"
 msgstr "Kunne ikkje laga kanal"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "Skriv CD …"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1432,12 +1432,12 @@ msgstr "Søkjer etter media"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1419
-msgid "Scanning..."
+msgid "Scanning…"
 msgstr "Søkjer …"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "Søker ({0} filer) …"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2762,7 +2762,7 @@ msgid "External Document"
 msgstr "Eksternt dokument"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "Vel nytt albumbilete …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2810,12 +2810,12 @@ msgid "Hide context pane"
 msgstr "Gøym sidepanel"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr "Ventar på at avspeling skal starta …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:152
-msgid "Loading..."
+msgid "Loading…"
 msgstr "Lastar …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -2964,7 +2964,7 @@ msgid "Open Location"
 msgstr "Opna plassering"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "Bla gjennom …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -2980,7 +2980,7 @@ msgid "_Media"
 msgstr "_Media"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "Importer _media …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -2988,7 +2988,7 @@ msgid "Import media from a variety of sources"
 msgstr "Importer media frå fleire forskjellige kjelder"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
+msgid "Import _Playlist…"
 msgstr "Importer _speleliste"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
@@ -3004,7 +3004,7 @@ msgid "Rescan the Music Library folder"
 msgstr "Søk gjennom musikkmappa på nytt"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "Opna plassering …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
@@ -3107,7 +3107,7 @@ msgid "Play the previous item"
 msgstr "Spel av førre element"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
+msgid "Seek _To…"
 msgstr "Gå _til …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
@@ -3187,7 +3187,7 @@ msgid "Subtitle"
 msgstr "Undertekst"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
+msgid "Load File…"
 msgstr "Opna fil …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
@@ -3229,7 +3229,7 @@ msgid "Create a new empty playlist"
 msgstr "Lag ei ny tom speleliste"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Ny _smart speleliste …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
@@ -3249,7 +3249,7 @@ msgid "Rename"
 msgstr "Gje nytt namn"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "Eksporter speleliste …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
@@ -3931,7 +3931,7 @@ msgid "Continue {0}"
 msgstr "Hald fram {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
+msgid "Stopping…"
 msgstr "Stoppar …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
@@ -3951,7 +3951,7 @@ msgid "Files"
 msgstr "Filer"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
+msgid "C_hoose Files…"
 msgstr "_Vel filer …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
@@ -3979,7 +3979,7 @@ msgid "Folders"
 msgstr "Mapper"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
+msgid "C_hoose Folders…"
 msgstr "_Vel mapper …"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
@@ -4055,7 +4055,7 @@ msgid "Reset location to default ({0})"
 msgstr "Tilbakestill plassering til standard ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4115,7 +4115,7 @@ msgstr "Vis eller gøym utforskarvindauget for artist/album"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
+msgid "Loading {0}…"
 msgstr "Lastar {0} …"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
@@ -4140,7 +4140,7 @@ msgstr "Inaktiv"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr "Kontaktar …"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:162
@@ -4204,7 +4204,7 @@ msgid "Syncing iPod"
 msgstr "Synkroniserer iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:557
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "Førebur synkronisering …"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:560
@@ -4390,7 +4390,7 @@ msgstr "Kopla frå"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr "Koplar frå {0} …"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
@@ -4539,7 +4539,7 @@ msgid "Open Book"
 msgstr "Opna bok"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "Flett saman diskar …"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
@@ -4710,7 +4710,7 @@ msgid "Duplicate this audio CD"
 msgstr "Kopier denne lyd-CD-en"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
+msgid "Searching for track information…"
 msgstr "Søkjer etter sporinformasjon"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
@@ -4732,7 +4732,7 @@ msgid "Could not duplicate audio CD"
 msgstr "Kunne ikkje kopiera lyd-CD"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
+msgid "Ejecting audio CD…"
 msgstr "Løyser ut lyd-CD …"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
@@ -4937,7 +4937,7 @@ msgstr "Lastar ned eMusic-spor"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Startar opp …"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -4959,7 +4959,7 @@ msgstr "Avbryt nedlastingar"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Ventar på at nedlastingar skal stoppa …"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5036,7 +5036,7 @@ msgstr ""
 "i kvar rad for å markera det, eller fjern merket for å ikkje gjera noko."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr "Reparer musikkmetadata …"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5275,7 +5275,7 @@ msgstr "_Tekst"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
+msgid "Search…"
 msgstr "Søk …"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
@@ -5913,7 +5913,7 @@ msgid "Unknown Similarity"
 msgstr "Ukjend likskap"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "_Legg til stasjon …"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6255,7 +6255,7 @@ msgstr "Importer spelelister"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr "Finn fila«{0}» …"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6506,7 +6506,7 @@ msgid "Check all podcasts for new episodes"
 msgstr "Kontroller alle podkastar for nye episodar"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
+msgid "Add Podcast…"
 msgstr "Legg til podkast …"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
@@ -6727,12 +6727,12 @@ msgstr "Lasta opp av"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
+msgid "Play in Banshee…"
 msgstr "Spel i Banshee …"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
+msgid "Play in Web Browser…"
 msgstr "Spel i nettlesar …"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
@@ -7042,16 +7042,16 @@ msgstr "Ukjend podkast"
 #~ msgid "Rebuilding Database"
 #~ msgstr "Byggjer database på nytt"
 
-#~ msgid "Scanning iPod..."
+#~ msgid "Scanning iPod…"
 #~ msgstr "Les iPod …"
 
-#~ msgid "Processing Tracks..."
+#~ msgid "Processing Tracks…"
 #~ msgstr "Handsamar spor …"
 
-#~ msgid "Ordering Tracks..."
+#~ msgid "Ordering Tracks…"
 #~ msgstr "Set opp spor …"
 
-#~ msgid "Saving new database..."
+#~ msgid "Saving new database…"
 #~ msgstr "Lagrar ny database …"
 
 #~ msgid "Error rebuilding iPod database"
@@ -7075,10 +7075,10 @@ msgstr "Ukjend podkast"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Fjern nokre songar manuelt"
 
-#~ msgid "Updating..."
+#~ msgid "Updating…"
 #~ msgstr "Oppdaterer …"
 
-#~ msgid "Flushing to disk..."
+#~ msgid "Flushing to disk…"
 #~ msgstr "Lagrar til disk …"
 
 #~ msgid "Unable to read your iPod"
@@ -7120,7 +7120,7 @@ msgstr "Ukjend podkast"
 #~ msgstr ""
 #~ "iPoden din er montert skriveverna. Banshee kan ikkje gjenoppretta den."
 
-#~ msgid "Rebuild iPod Database..."
+#~ msgid "Rebuild iPod Database…"
 #~ msgstr "Gjenopprett iPod-database …"
 
 #~ msgid "Confirm Rebuild iPod Database"
@@ -7140,7 +7140,7 @@ msgstr "Ukjend podkast"
 #~ msgid "Rebuild Database"
 #~ msgstr "Bygg database på nytt"
 
-#~ msgid "Rebuilding iPod Database..."
+#~ msgid "Rebuilding iPod Database…"
 #~ msgstr "Byggjer iPod-database på nytt …"
 
 #~ msgid ""

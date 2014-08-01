@@ -151,7 +151,7 @@ namespace Banshee.OpticalDisc
             eject_message.IsSpinning = true;
             eject_message.CanClose = false;
             // Translators: {0} is the type of disc, "Audio CD" or "DVD"
-            eject_message.Text = String.Format (Catalog.GetString ("Ejecting {0}..."), GenericName.ToLower ());
+            eject_message.Text = String.Format (Catalog.GetString ("Ejecting {0}…"), GenericName.ToLower ());
             eject_message.ThawNotify ();
             PushMessage (eject_message);
 

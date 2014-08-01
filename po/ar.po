@@ -265,7 +265,7 @@ msgstr "تعذّر إنشاء الخط"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:64
 #, fuzzy
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "اكتب لقرص مدمج"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
@@ -349,7 +349,7 @@ msgstr "مجموعة المحطة:"
 #: ../src/Clients/Nereid/Nereid/Client.cs:113
 #, fuzzy
 msgid "Show version information"
-msgstr "معلومات الإ_صدار..."
+msgstr "معلومات الإ_صدار…"
 
 #: ../src/Clients/Nereid/Nereid/Client.cs:116
 msgid "Playback Control Options"
@@ -557,7 +557,7 @@ msgstr "إ_بحث:"
 #: ../src/Clients/Nereid/Nereid/ViewContainer.cs:138
 #, fuzzy
 msgid "All Columns"
-msgstr "أعمدة..."
+msgstr "أعمدة…"
 
 #: ../src/Clients/Nereid/Nereid/ViewContainer.cs:142
 #: ../src/Core/Banshee.Core/Banshee.Base/FileNamePattern.cs:92
@@ -674,13 +674,13 @@ msgstr "في انتظار الوسائط"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:214
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:850
-msgid "Scanning..."
-msgstr "الفحص..."
+msgid "Scanning…"
+msgstr "الفحص…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:227
 #, fuzzy, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "فحص iPod..."
+msgid "Scanning ({0} files)…"
+msgstr "فحص iPod…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:262
 #, fuzzy
@@ -1588,8 +1588,8 @@ msgid "PNG image files"
 msgstr "ملفات صور PNG"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "تصفّح..."
+msgid "Browse…"
+msgstr "تصفّح…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:98
 #: ../src/Core/Banshee.ThickClient/Resources/banshee-dialogs.glade.h:48
@@ -1665,7 +1665,7 @@ msgstr "متوسط"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
 #, fuzzy
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "استورد _موسيقى"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -1674,16 +1674,16 @@ msgid "Import media from a variety of sources"
 msgstr "استيراد موسيقى من مصادر متنوعة"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import Playlist..."
-msgstr "استورد قائمة تشغيل..."
+msgid "Import Playlist…"
+msgstr "استورد قائمة تشغيل…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "استورد قائمة تشغيل"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "افتح _موقعاً..."
+msgid "Open _Location…"
+msgstr "افتح _موقعاً…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 #, fuzzy
@@ -1764,8 +1764,8 @@ msgid "Become a contributor to Banshee"
 msgstr "شارك في تطوير بانشي"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:116
-msgid "_Version Information..."
-msgstr "معلومات الإ_صدار..."
+msgid "_Version Information…"
+msgstr "معلومات الإ_صدار…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:117
 msgid "View detailed version and configuration information"
@@ -1830,8 +1830,8 @@ msgstr "شغّل الأغنية السابقة"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:76
 #, fuzzy
-msgid "Seek _to..."
-msgstr "إ_سعَ إلى..."
+msgid "Seek _to…"
+msgstr "إ_سعَ إلى…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:77
 #, fuzzy
@@ -2000,8 +2000,8 @@ msgid "Rename"
 msgstr "أعِد تسمية {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:93
-msgid "Export Playlist..."
-msgstr "صدّر قائمة تشغيل..."
+msgid "Export Playlist…"
+msgstr "صدّر قائمة تشغيل…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:94
 msgid "Export a playlist"
@@ -2014,7 +2014,7 @@ msgstr ""
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:100
 #, fuzzy
 msgid "Source Properties"
-msgstr "خصائص المصدر..."
+msgstr "خصائص المصدر…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:109
 #, fuzzy
@@ -2289,8 +2289,8 @@ msgstr "أكمل {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:179
 #, fuzzy
-msgid "Stopping..."
-msgstr "الفحص..."
+msgid "Stopping…"
+msgstr "الفحص…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:46
 msgid "Import Files to Library"
@@ -2630,8 +2630,8 @@ msgid "Idle"
 msgstr "عاطل"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:141
-msgid "Contacting..."
-msgstr "المراسلة..."
+msgid "Contacting…"
+msgstr "المراسلة…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 msgid "Buffering"
@@ -2740,7 +2740,7 @@ msgstr "اطرد {0}"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:104
 #, fuzzy, csharp-format
-msgid "Ejecting {0}..."
+msgid "Ejecting {0}…"
 msgstr "اطرد {0}"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
@@ -2758,21 +2758,21 @@ msgid "Rebuilding Database"
 msgstr "إعادة بناء قاعدة البيانات"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:93
-msgid "Scanning iPod..."
-msgstr "فحص iPod..."
+msgid "Scanning iPod…"
+msgstr "فحص iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:128
-msgid "Processing Tracks..."
-msgstr "معالجة المقطوعات..."
+msgid "Processing Tracks…"
+msgstr "معالجة المقطوعات…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:144
 #, fuzzy
-msgid "Ordering Tracks..."
-msgstr "معالجة المقطوعات..."
+msgid "Ordering Tracks…"
+msgstr "معالجة المقطوعات…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:215
-msgid "Saving new database..."
-msgstr "حفظ قاعدة البيانات الجديدة..."
+msgid "Saving new database…"
+msgstr "حفظ قاعدة البيانات الجديدة…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:227
 #, fuzzy
@@ -2786,16 +2786,16 @@ msgstr "مزامنة iPod"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:528
 #, fuzzy
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "تحضير للطباعة"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:549
 #, fuzzy
-msgid "Updating..."
+msgid "Updating…"
 msgstr "التحديث"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:553
-msgid "Flushing to disk..."
+msgid "Flushing to disk…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:59
@@ -2835,8 +2835,8 @@ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:123
-msgid "Rebuild iPod Database..."
-msgstr "أعِد بناء قاعدة بيانات iPod..."
+msgid "Rebuild iPod Database…"
+msgstr "أعِد بناء قاعدة بيانات iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:131
 msgid "Confirm Rebuild iPod Database"
@@ -2855,8 +2855,8 @@ msgid "Rebuild Database"
 msgstr "أعِد بناء قاعدة البيانات"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:155
-msgid "Rebuilding iPod Database..."
-msgstr "إعادة بناء قاعدة بيانات iPod..."
+msgid "Rebuilding iPod Database…"
+msgstr "إعادة بناء قاعدة بيانات iPod…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/MassStorageSource.cs:97
 #, csharp-format
@@ -2999,8 +2999,8 @@ msgid "Duplicate this audio CD"
 msgstr "اكتب المنتقى إلى قرص صوتي"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:123
-msgid "Searching for CD metadata..."
-msgstr "البحث عن بيانات القرص المدمج الفوقية..."
+msgid "Searching for CD metadata…"
+msgstr "البحث عن بيانات القرص المدمج الفوقية…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:156
 msgid "Could not fetch metadata for CD."
@@ -3022,7 +3022,7 @@ msgstr "لم يمكن اعراب بروفيل الصوت '%s'"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:336
 #, fuzzy
-msgid "Ejecting audio CD..."
+msgid "Ejecting audio CD…"
 msgstr "استيراد قرص صوتي"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:354
@@ -3069,8 +3069,8 @@ msgstr "تنزيل الغلاف"
 
 #: ../src/Extensions/Banshee.CoverArt/Banshee.CoverArt/CoverArtJob.cs:112
 #, fuzzy
-msgid "Preparing..."
-msgstr "المعالجة..."
+msgid "Preparing…"
+msgstr "المعالجة…"
 
 #: ../src/Extensions/Banshee.CoverArt/Banshee.CoverArt/CoverArtJob.cs:141
 #, fuzzy, csharp-format
@@ -3343,8 +3343,8 @@ msgid "Visit Your Last.fm Profile Page"
 msgstr "زُر صفحة _شاكلة المستخدم"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:132
-msgid "_Configure..."
-msgstr "ا_ضبط..."
+msgid "_Configure…"
+msgstr "ا_ضبط…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:133
 msgid "Configure the Last.fm Extension"
@@ -3901,7 +3901,7 @@ msgstr ""
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/ColumnCellUnheard.cs:58
 #, fuzzy
 msgid "All Items"
-msgstr "أعمدة..."
+msgstr "أعمدة…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/ColumnCellUnheard.cs:59
 msgid "Old Items"
@@ -3919,8 +3919,8 @@ msgstr "تنزيل الملفات"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
 #, fuzzy
-msgid "Initializing..."
-msgstr "بدء المرمز البيني..."
+msgid "Initializing…"
+msgstr "بدء المرمز البيني…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:52
 #, fuzzy
@@ -3942,7 +3942,7 @@ msgstr "إلغاء التنزيلات"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
 #, fuzzy
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "في انتظار انتهاء التنزيلات"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:68
@@ -4384,8 +4384,8 @@ msgstr "فنان مجهول"
 #~ msgid "O_utput format:"
 #~ msgstr "هيئة ال_خرْج:"
 
-#~ msgid "<b>Loading...</b>"
-#~ msgstr "<b>التحميل...</b>"
+#~ msgid "<b>Loading…</b>"
+#~ msgstr "<b>التحميل…</b>"
 
 #~ msgid "Disk Usage:"
 #~ msgstr "استخدام القرص"
@@ -4424,14 +4424,14 @@ msgstr "فنان مجهول"
 #~ msgid "Could not create 'gnomevfssink' plugin"
 #~ msgstr "لم يتمكن ملحق توتم من البدأ"
 
-#~ msgid "Import _Folder..."
+#~ msgid "Import _Folder…"
 #~ msgstr "استورد م_جلد"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "استورد محتويات مجلد بأكمله"
 
-#~ msgid "Import Files..."
-#~ msgstr "استورد ملفات..."
+#~ msgid "Import Files…"
+#~ msgstr "استورد ملفات…"
 
 #~ msgid "Import files inside a folder"
 #~ msgstr "استورد ملفات داخل مجلد"
@@ -4451,25 +4451,25 @@ msgstr "فنان مجهول"
 #~ msgid "Unselect all songs in song list"
 #~ msgstr "لا تنتقِ أي أغنية من قائمة الأغاني"
 
-#~ msgid "Plu_gins..."
-#~ msgstr "مل_حقات..."
+#~ msgid "Plu_gins…"
+#~ msgstr "مل_حقات…"
 
 #~ msgid "Configure Banshee plugins"
 #~ msgstr "اضبط ملحقات بانشي"
 
-#~ msgid "_Columns..."
-#~ msgstr "الأ_عمدة..."
+#~ msgid "_Columns…"
+#~ msgstr "الأ_عمدة…"
 
 #, fuzzy
-#~ msgid "_Boo Buddy..."
+#~ msgid "_Boo Buddy…"
 #~ msgstr "باك بدي"
 
 #, fuzzy
 #~ msgid "Open Boo Buddy"
-#~ msgstr "إضافة _علامة موقع..."
+#~ msgstr "إضافة _علامة موقع…"
 
 #, fuzzy
-#~ msgid "_Logged Events Viewer..."
+#~ msgid "_Logged Events Viewer…"
 #~ msgstr "معاين مستندات جنوم"
 
 #, fuzzy
@@ -4710,14 +4710,14 @@ msgstr "فنان مجهول"
 #~ msgid "Hours"
 #~ msgstr "ساعات"
 
-#~ msgid "New _Smart Playlist..."
-#~ msgstr "قائمة تشغيل _ذكية جديدة..."
+#~ msgid "New _Smart Playlist…"
+#~ msgstr "قائمة تشغيل _ذكية جديدة…"
 
-#~ msgid "New Smart Playlist _from Search..."
-#~ msgstr "قائمة تشغيل ذكية جديدة من بح_ث..."
+#~ msgid "New Smart Playlist _from Search…"
+#~ msgstr "قائمة تشغيل ذكية جديدة من بح_ث…"
 
-#~ msgid "Edit Smart Playlist..."
-#~ msgstr "حرر قائمة التشغيل الذكية..."
+#~ msgid "Edit Smart Playlist…"
+#~ msgstr "حرر قائمة التشغيل الذكية…"
 
 #, fuzzy
 #~ msgid "Smart Playlist has Dependencies"
@@ -4736,8 +4736,8 @@ msgstr "فنان مجهول"
 #~ msgid "Synchronizing {0}"
 #~ msgstr "مزامنة {0}"
 
-#~ msgid "Waiting for transcoder..."
-#~ msgstr "في انتظار المُرَمِّز البيني..."
+#~ msgid "Waiting for transcoder…"
+#~ msgstr "في انتظار المُرَمِّز البيني…"
 
 #, fuzzy
 #~ msgid "Could not encode some files"
@@ -4863,11 +4863,11 @@ msgstr "فنان مجهول"
 #~ msgid "Playing Music"
 #~ msgstr "تشغيل الموسيقى"
 
-#~ msgid "Reading table of contents from CD..."
-#~ msgstr "قراءة جدول المحتويات من القرص..."
+#~ msgid "Reading table of contents from CD…"
+#~ msgstr "قراءة جدول المحتويات من القرص…"
 
-#~ msgid "Searching for CD cover art..."
-#~ msgstr "البحث عن صورة غلاف القرص..."
+#~ msgid "Searching for CD cover art…"
+#~ msgstr "البحث عن صورة غلاف القرص…"
 
 #~ msgid ""
 #~ "Cannot search for CD metadata: there is no available Internet connection"
@@ -4884,8 +4884,8 @@ msgstr "فنان مجهول"
 #~ msgid "You must select at least one track to import."
 #~ msgstr "يجب أن تختار مقطوعة واحدة على الأقل لاستيرادها."
 
-#~ msgid "Synchronizing your Device, Please Wait..."
-#~ msgstr "تتم مزامنة جهازك، رجاء الانتظار..."
+#~ msgid "Synchronizing your Device, Please Wait…"
+#~ msgstr "تتم مزامنة جهازك، رجاء الانتظار…"
 
 #~ msgid "Copying from {0}"
 #~ msgstr "النسخ من {0}"
@@ -5014,8 +5014,8 @@ msgstr "فنان مجهول"
 #~ msgid "No Codec"
 #~ msgstr "لا يوجد مُرَمِّز"
 
-#~ msgid "Columns..."
-#~ msgstr "أعمدة..."
+#~ msgid "Columns…"
+#~ msgstr "أعمدة…"
 
 #~ msgid "Write selection to CD"
 #~ msgstr "اكتب المنتقى إلى قرص مدمج"
@@ -5495,8 +5495,8 @@ msgstr "فنان مجهول"
 #~ "\n"
 #~ "التفاصيل: %s"
 
-#~ msgid "Contacting {0}..."
-#~ msgstr "مراسلة {0}..."
+#~ msgid "Contacting {0}…"
+#~ msgstr "مراسلة {0}…"
 
 #~ msgid "HTTP error"
 #~ msgstr "خطأ HTTP"

@@ -113,7 +113,7 @@ namespace Banshee.WebSource
                 AttachOptions.Expand | AttachOptions.Fill,
                 0, 0);
 
-            UpdateTitle (String.Format (Catalog.GetString ("Loading {0}..."), name));
+            UpdateTitle (String.Format (Catalog.GetString ("Loading {0}…"), name));
 
             ShowAll ();
         }

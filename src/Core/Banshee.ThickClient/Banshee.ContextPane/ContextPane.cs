@@ -139,13 +139,13 @@ namespace Banshee.ContextPane
             // 'No active track' and 'Loading' widgets
             no_active = new RoundedFrame ();
             no_active.Add (new Label () {
-                Markup = String.Format ("<b>{0}</b>", Catalog.GetString ("Waiting for playback to begin..."))
+                Markup = String.Format ("<b>{0}</b>", Catalog.GetString ("Waiting for playback to begin…"))
             });
             no_active.ShowAll ();
             notebook.Add (no_active);
 
             loading = new RoundedFrame ();
-            loading.Add (new Label () { Markup = String.Format ("<b>{0}</b>", Catalog.GetString ("Loading...")) });
+            loading.Add (new Label () { Markup = String.Format ("<b>{0}</b>", Catalog.GetString ("Loading…")) });
             loading.ShowAll ();
             notebook.Add (loading);
 

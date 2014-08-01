@@ -1420,7 +1420,7 @@ namespace Banshee.Database
             UserJob job = new UserJob (Catalog.GetString ("Refreshing Metadata"));
             job.SetResources (Resource.Cpu, Resource.Disk, Resource.Database);
             job.PriorityHints = PriorityHints.SpeedSensitive;
-            job.Status = Catalog.GetString ("Scanning...");
+            job.Status = Catalog.GetString ("Scanning…");
             job.IconNames = new string [] { "system-search", "gtk-find" };
             job.Register ();
 

@@ -53,7 +53,7 @@ namespace Banshee.Audiobook
             Add (
                 new ActionEntry ("AudiobookBookPopup", null, null, null, null, (o, a) => ShowContextMenu ("/AudiobookBookPopup")),
                 new ActionEntry ("AudiobookOpen", null, Catalog.GetString ("Open Book"), null, null, OnOpen),
-                new ActionEntry ("AudiobookMerge", null, Catalog.GetString ("Merge Discs..."), null, null, OnMerge),
+                new ActionEntry ("AudiobookMerge", null, Catalog.GetString ("Merge Discs…"), null, null, OnMerge),
                 new ActionEntry ("AudiobookSwitchToGrid", null, Catalog.GetString ("Go to Audiobooks"), "Escape", null, (o, a) => library.SwitchToGridView ()),
                 new ActionEntry ("AudiobookEdit", Stock.Edit,
                     Catalog.GetString ("_Edit Track Information"), "E", null, OnEdit),

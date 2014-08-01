@@ -56,13 +56,13 @@ msgstr "File Name Pattern"
 #, no-c-format
 msgid ""
 "Format for creating filenames/directories for ripped tracks, imported music, "
-"etc. Format is relative to the Banshee music directory... do not form an "
+"etc. Format is relative to the Banshee music directory… do not form an "
 "absolute path! Tokens: %artist%, %album%, %title%, %track_number%, %"
 "track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No "
 "prefixed zero)."
 msgstr ""
 "Format for creating filenames/directories for ripped tracks, imported music, "
-"etc. Format is relative to the Banshee music directory... do not form an "
+"etc. Format is relative to the Banshee music directory… do not form an "
 "absolute path! Tokens: %artist%, %album%, %title%, %track_number%, %"
 "track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No "
 "prefixed zero)."
@@ -218,8 +218,8 @@ msgid "<b>CD Ripping</b>"
 msgstr "<b>CD Ripping</b>"
 
 #: ../data/banshee.glade.h:6
-msgid "<b>Loading...</b>"
-msgstr "<b>Loading...</b>"
+msgid "<b>Loading…</b>"
+msgstr "<b>Loading…</b>"
 
 #: ../data/banshee.glade.h:7
 msgid "<b>Playback Engines</b>"
@@ -615,16 +615,16 @@ msgid "Error Writing CD"
 msgstr "Error Writing CD"
 
 #: ../src/BurnCore.cs:301
-msgid "Preparing to write..."
-msgstr "Preparing to write..."
+msgid "Preparing to write…"
+msgstr "Preparing to write…"
 
 #: ../src/BurnCore.cs:305
-msgid "Writing disk..."
-msgstr "Writing disk..."
+msgid "Writing disk…"
+msgstr "Writing disk…"
 
 #: ../src/BurnCore.cs:309
-msgid "Fixating disk..."
-msgstr "Fixating disk..."
+msgid "Fixating disk…"
+msgstr "Fixating disk…"
 
 #: ../src/BurnCore.cs:326
 msgid "Waiting for Media"
@@ -713,8 +713,8 @@ msgstr ""
 "connect to your D-Bus Session Bus."
 
 #: ../src/PlayerInterface.cs:376
-msgid "Loading..."
-msgstr "Loading..."
+msgid "Loading…"
+msgstr "Loading…"
 
 #. Misc
 #: ../src/PlayerInterface.cs:427 ../src/PlayerInterface.cs:1966
@@ -864,16 +864,16 @@ msgid "Rename Playlist"
 msgstr "Rename Playlist"
 
 #: ../src/PlayerInterface.cs:1166
-msgid "Reading table of contents from CD..."
-msgstr "Reading table of contents from CD..."
+msgid "Reading table of contents from CD…"
+msgstr "Reading table of contents from CD…"
 
 #: ../src/PlayerInterface.cs:1171
-msgid "Searching for CD metadata..."
-msgstr "Searching for CD metadata..."
+msgid "Searching for CD metadata…"
+msgstr "Searching for CD metadata…"
 
 #: ../src/PlayerInterface.cs:1176
-msgid "Searching for CD cover art..."
-msgstr "Searching for CD cover art..."
+msgid "Searching for CD cover art…"
+msgstr "Searching for CD cover art…"
 
 #: ../src/PlayerInterface.cs:1181
 msgid ""
@@ -886,8 +886,8 @@ msgid "Could not fetch metadata for CD."
 msgstr "Could not fetch metadata for CD."
 
 #: ../src/PlayerInterface.cs:1401
-msgid "Synchronizing your Device, Please Wait..."
-msgstr "Synchronizing your Device. Please Wait..."
+msgid "Synchronizing your Device, Please Wait…"
+msgstr "Synchronizing your Device. Please Wait…"
 
 #: ../src/PlayerInterface.cs:1416
 #, csharp-format
@@ -1094,8 +1094,8 @@ msgid "Unavailable"
 msgstr "Unavailable"
 
 #: ../src/Preferences.cs:271
-msgid "Loading Drive List..."
-msgstr "Loading Drive List..."
+msgid "Loading Drive List…"
+msgstr "Loading Drive List…"
 
 #: ../src/Preferences.cs:294
 msgid "No CD Burners Detected"
@@ -1237,24 +1237,24 @@ msgid "Create a new empty playlist"
 msgstr "Create a new empty playlist"
 
 #: ../src/Banshee.Base/ActionManager.cs:68
-msgid "Import _Folder..."
-msgstr "Import _Folder..."
+msgid "Import _Folder…"
+msgstr "Import _Folder…"
 
 #: ../src/Banshee.Base/ActionManager.cs:69
 msgid "Import the contents of an entire folder"
 msgstr "Import the contents of an entire folder"
 
 #: ../src/Banshee.Base/ActionManager.cs:72
-msgid "Import Files..."
-msgstr "Import Files..."
+msgid "Import Files…"
+msgstr "Import Files…"
 
 #: ../src/Banshee.Base/ActionManager.cs:73
 msgid "Import files inside a folder"
 msgstr "Import files inside a folder"
 
 #: ../src/Banshee.Base/ActionManager.cs:76
-msgid "Source Properties..."
-msgstr "Source Properties..."
+msgid "Source Properties…"
+msgstr "Source Properties…"
 
 #: ../src/Banshee.Base/ActionManager.cs:77
 msgid "View source properties"
@@ -1297,8 +1297,8 @@ msgid "Unselect all songs in song list"
 msgstr "Unselect all songs in song list"
 
 #: ../src/Banshee.Base/ActionManager.cs:99
-msgid "Plugins..."
-msgstr "Plugins..."
+msgid "Plugins…"
+msgstr "Plugins…"
 
 #: ../src/Banshee.Base/ActionManager.cs:100
 msgid "Configure Banshee plugins"
@@ -1309,16 +1309,16 @@ msgid "_View"
 msgstr "_View"
 
 #: ../src/Banshee.Base/ActionManager.cs:108
-msgid "Columns..."
-msgstr "Columns..."
+msgid "Columns…"
+msgstr "Columns…"
 
 #: ../src/Banshee.Base/ActionManager.cs:109
 msgid "Select which columns to display in the song list"
 msgstr "Select which columns to display in the song list"
 
 #: ../src/Banshee.Base/ActionManager.cs:112
-msgid "Logged Events Viewer..."
-msgstr "Logged Events Viewer..."
+msgid "Logged Events Viewer…"
+msgstr "Logged Events Viewer…"
 
 #: ../src/Banshee.Base/ActionManager.cs:113
 msgid "View a detailed log of events"
@@ -1329,8 +1329,8 @@ msgid "_Help"
 msgstr "_Help"
 
 #: ../src/Banshee.Base/ActionManager.cs:119
-msgid "Version Information..."
-msgstr "Version Information..."
+msgid "Version Information…"
+msgstr "Version Information…"
 
 #: ../src/Banshee.Base/ActionManager.cs:120
 msgid "View detailed version and configuration information"
@@ -1484,8 +1484,8 @@ msgid "Encoding Files"
 msgstr "Encoding Files"
 
 #: ../src/Banshee.Base/FileEncodeAction.cs:72
-msgid "Initializing Encoder..."
-msgstr "Initializing Encoder..."
+msgid "Initializing Encoder…"
+msgstr "Initializing Encoder…"
 
 #: ../src/Banshee.Base/GstFileEncoder.cs:67
 msgid "Could not create encoder"
@@ -1643,12 +1643,12 @@ msgid "Synchronizing Device"
 msgstr "Synchronizing Device"
 
 #: ../src/Banshee.Base/Dap/Dap.cs:317
-msgid "Waiting for transcoder..."
-msgstr "Waiting for transcoder..."
+msgid "Waiting for transcoder…"
+msgstr "Waiting for transcoder…"
 
 #: ../src/Banshee.Base/Dap/Dap.cs:401 ../src/Banshee.Base/Dap/Dap.cs:422
-msgid "Processing..."
-msgstr "Processing..."
+msgid "Processing…"
+msgstr "Processing…"
 
 #: ../src/Banshee.Base/Dap/DapCore.cs:119
 msgid "Cannot initialize DapCore because HalCore is not initialized"
@@ -1868,8 +1868,8 @@ msgid "Visit the Banshee last.fm group page"
 msgstr "Visit the Banshee last.fm group page"
 
 #: ../src/Banshee.Plugins/Audioscrobbler/AudioscrobblerPlugin.cs:124
-msgid "Configure..."
-msgstr "Configure..."
+msgid "Configure…"
+msgstr "Configure…"
 
 #: ../src/Banshee.Plugins/Audioscrobbler/audioscrobbler.schemas.in.h:1
 msgid ""

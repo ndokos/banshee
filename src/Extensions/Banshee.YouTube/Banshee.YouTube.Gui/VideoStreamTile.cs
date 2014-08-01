@@ -230,12 +230,12 @@ namespace Banshee.YouTube.Gui
             action_group = new ActionGroup ("VideoStreamTileMenuActionGroup");
             action_group.Add (new ActionEntry [] {
                 new ActionEntry ("VideoStreamTileBansheePlaybackAction", null,
-                    Catalog.GetString ("Play in Banshee..."), null,
-                    Catalog.GetString ("Play in Banshee..."), OnBansheePlaybackAction),
+                    Catalog.GetString ("Play in Banshee…"), null,
+                    Catalog.GetString ("Play in Banshee…"), OnBansheePlaybackAction),
 
                 new ActionEntry ("VideoStreamTileBrowserPlaybackAction", null,
-                    Catalog.GetString ("Play in Web Browser..."), null,
-                    Catalog.GetString ("Play in Web Browser..."), OnBrowserPlaybackAction),
+                    Catalog.GetString ("Play in Web Browser…"), null,
+                    Catalog.GetString ("Play in Web Browser…"), OnBrowserPlaybackAction),
             });
 
             CreateMenu ();

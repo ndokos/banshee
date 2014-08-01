@@ -110,7 +110,7 @@ namespace Banshee.OpticalDisc.AudioCd
             query_message.FreezeNotify ();
             query_message.CanClose = false;
             query_message.IsSpinning = true;
-            query_message.Text = Catalog.GetString ("Searching for track information...");
+            query_message.Text = Catalog.GetString ("Searching for track information…");
             query_message.ThawNotify ();
 
             PushMessage (query_message);

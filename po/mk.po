@@ -328,8 +328,8 @@ msgid "_Write"
 msgstr "_Запиши"
 
 #: ../data/banshee.glade.h:1
-msgid "<b>Loading...</b>"
-msgstr "<b>Вчитувам...</b>"
+msgid "<b>Loading…</b>"
+msgstr "<b>Вчитувам…</b>"
 
 #: ../data/banshee.glade.h:3
 msgid "Disk Usage:"
@@ -441,7 +441,7 @@ msgstr "Брз и ефикасен слободен аудио формат ко
 #: ../data/audio-profiles/wavpack.xml.in.h:4
 #, fuzzy
 msgid "Extra processing"
-msgstr "Обработувам..."
+msgstr "Обработувам…"
 
 #: ../data/audio-profiles/wavpack.xml.in.h:5
 msgid "Lossy mode"
@@ -834,8 +834,8 @@ msgid "Track"
 msgstr "Песна"
 
 #: ../src/Core/Banshee/Banshee.TrackView.Columns/TrackViewColumn.cs:141
-msgid "Columns..."
-msgstr "Колони..."
+msgid "Columns…"
+msgstr "Колони…"
 
 #. Translators: {0} is the title of the column, e.g. 'Hide Artist'
 #: ../src/Core/Banshee/Banshee.TrackView.Columns/TrackViewColumn.cs:144
@@ -870,24 +870,24 @@ msgid "Create a new empty playlist"
 msgstr "Креирај нова празна плејлиста"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:72
-msgid "Import _Folder..."
-msgstr "Увези _папка..."
+msgid "Import _Folder…"
+msgstr "Увези _папка…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:73
 msgid "Import the contents of an entire folder"
 msgstr "Увези ја содржината на целата папка"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:76
-msgid "Import Files..."
-msgstr "Увези датотеки..."
+msgid "Import Files…"
+msgstr "Увези датотеки…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:77
 msgid "Import files inside a folder"
 msgstr "Увези датотеки во папката"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:80
-msgid "Import _Music..."
-msgstr "Внеси музика..."
+msgid "Import _Music…"
+msgstr "Внеси музика…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:81
 msgid "Import music from a variety of sources"
@@ -895,8 +895,8 @@ msgstr "Увези музика од повеќе извори"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:84
 #, fuzzy
-msgid "Open _Location..."
-msgstr "Отвори локација..."
+msgid "Open _Location…"
+msgstr "Отвори локација…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:85
 msgid "Open a remote location for playback"
@@ -962,8 +962,8 @@ msgid "_Jump to playing song"
 msgstr "Прескокни на песната која свири"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:131
-msgid "Plu_gins..."
-msgstr "Додатоци..."
+msgid "Plu_gins…"
+msgstr "Додатоци…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:132
 msgid "Configure Banshee plugins"
@@ -979,8 +979,8 @@ msgstr "_Поглед"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:143
 #, fuzzy
-msgid "_Columns..."
-msgstr "Колони..."
+msgid "_Columns…"
+msgstr "Колони…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:144
 msgid "Select which columns to display in the song list"
@@ -988,8 +988,8 @@ msgstr "Одбери кои колони да се прикажат во лис�
 
 # :)
 #: ../src/Core/Banshee.Base/ActionManager.cs:147
-msgid "_Boo Buddy..."
-msgstr "_Boo другарче..."
+msgid "_Boo Buddy…"
+msgstr "_Boo другарче…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:148
 msgid "Open Boo Buddy"
@@ -1001,8 +1001,8 @@ msgstr "Прикажи го стабилизаторот."
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:158
 #, fuzzy
-msgid "_Logged Events Viewer..."
-msgstr "Прегледувач на логираните настани..."
+msgid "_Logged Events Viewer…"
+msgstr "Прегледувач на логираните настани…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:159
 msgid "View a detailed log of events"
@@ -1014,8 +1014,8 @@ msgstr "_Помош"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:165
 #, fuzzy
-msgid "_Version Information..."
-msgstr "Информации за верзиите..."
+msgid "_Version Information…"
+msgstr "Информации за верзиите…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:166
 msgid "View detailed version and configuration information"
@@ -1074,7 +1074,7 @@ msgid "_Debug"
 msgstr "Дебагирај"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:204
-msgid "Import Playlist..."
+msgid "Import Playlist…"
 msgstr "Внеси ги плејлистите"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:205
@@ -1083,7 +1083,7 @@ msgstr "Внеси ги плејлистите"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:208
 #, fuzzy
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "Сортирај ги плејлистите"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:209
@@ -1290,8 +1290,8 @@ msgstr "Барај нанапред во тековната песна"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:332
 #, fuzzy
-msgid "Seek _To..."
-msgstr "Барај до..."
+msgid "Seek _To…"
+msgstr "Барај до…"
 
 #: ../src/Core/Banshee.Base/ActionManager.cs:333
 msgid "Seek to a specific location in current song"
@@ -1682,12 +1682,12 @@ msgstr "Излезен формат:"
 #: ../src/Core/Banshee.Base/banshee-core.schemas.in.h:14
 #, fuzzy, no-c-format
 msgid "Format for creating a track filename inside the library. Do not use path tokens/characters here. See LibraryFolderPattern. Legal tokens: %artist%, %album%, %title%, %track_number%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No prefixed zero)."
-msgstr "Форматот за креирање на имиња на датотеки/директориуми за извадените песни, увезената музика, итн. Форматот се однесува на Banshee музичкиот директориум...не формирајте апсолутна папка! Шаблони: %artist%, %album%, %title%, %track_number%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No prefixed zero)."
+msgstr "Форматот за креирање на имиња на датотеки/директориуми за извадените песни, увезената музика, итн. Форматот се однесува на Banshee музичкиот директориум…не формирајте апсолутна папка! Шаблони: %artist%, %album%, %title%, %track_number%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No prefixed zero)."
 
 #: ../src/Core/Banshee.Base/banshee-core.schemas.in.h:16
 #, fuzzy, no-c-format
 msgid "Format for creating a track folder inside the library. Do not create an absolute path. Path here is relative to the Banshee music directory. See LibraryLocation. Legal tokens: %artist%, %album%, %title%, %track_number%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No prefixed zero), %path_sep% (portable directory separator (/))."
-msgstr "Форматот за креирање на имиња на датотеки/директориуми за извадените песни, увезената музика, итн. Форматот се однесува на Banshee музичкиот директориум...не формирајте апсолутна папка! Шаблони: %artist%, %album%, %title%, %track_number%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No prefixed zero)."
+msgstr "Форматот за креирање на имиња на датотеки/директориуми за извадените песни, увезената музика, итн. Форматот се однесува на Banshee музичкиот директориум…не формирајте апсолутна папка! Шаблони: %artist%, %album%, %title%, %track_number%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% (No prefixed zero)."
 
 #: ../src/Core/Banshee.Base/banshee-core.schemas.in.h:17
 msgid "Height of the main interface window."
@@ -2206,12 +2206,12 @@ msgstr "на"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistCore.cs:156
 #, fuzzy
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Нова плејлиста"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistCore.cs:162
-msgid "New Smart Playlist _from Search..."
-msgstr "Нова паметна плејлиста _преку Барај..."
+msgid "New Smart Playlist _from Search…"
+msgstr "Нова паметна плејлиста _преку Барај…"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistSource.cs:117
 #, fuzzy
@@ -2220,7 +2220,7 @@ msgstr "Избриши ја плејлистата"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistSource.cs:122
 #, fuzzy
-msgid "Edit Smart Playlist..."
+msgid "Edit Smart Playlist…"
 msgstr "Предефинирани паметни плејлисти"
 
 #: ../src/Core/Banshee.Base/Banshee.SmartPlaylist/SmartPlaylistSource.cs:443
@@ -2258,8 +2258,8 @@ msgid "Files are currently being converted to another audio format. Would you li
 msgstr "Датотеките моментално се конвертираат од еден во друг аудио формат. Дали сакате да го прекинете ова?"
 
 #: ../src/Core/Banshee.Base/BatchTranscoder.cs:141
-msgid "Initializing Transcoder..."
-msgstr "Го иницијализирам транскодерот..."
+msgid "Initializing Transcoder…"
+msgstr "Го иницијализирам транскодерот…"
 
 #: ../src/Core/Banshee.Base/ComponentInitializer.cs:94
 msgid "Could not initialize component"
@@ -2280,13 +2280,13 @@ msgid "Synchronizing {0}"
 msgstr "Го синхронизирам {0}"
 
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:340
-msgid "Waiting for transcoder..."
-msgstr "Го чекам транскодерот..."
+msgid "Waiting for transcoder…"
+msgstr "Го чекам транскодерот…"
 
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:427
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:448
-msgid "Processing..."
-msgstr "Обработувам..."
+msgid "Processing…"
+msgstr "Обработувам…"
 
 #: ../src/Core/Banshee.Base/Dap/Dap.cs:467
 #, fuzzy
@@ -2564,8 +2564,8 @@ msgid "Entry Details:"
 msgstr "Детали за записот:"
 
 #: ../src/Core/Banshee.Base/Gui/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Разгледај..."
+msgid "Browse…"
+msgstr "Разгледај…"
 
 #: ../src/Core/Banshee.Base/Gui/PreferencesDialog.cs:67
 msgid "Select library location"
@@ -2742,8 +2742,8 @@ msgid "Playing Music"
 msgstr "Пуштам музика"
 
 #: ../src/Core/Banshee.Base/Source.cs:388
-msgid "Source Properties..."
-msgstr "Својства на изворот..."
+msgid "Source Properties…"
+msgstr "Својства на изворот…"
 
 #: ../src/Core/Banshee.Base/Source.cs:396
 #, csharp-format
@@ -2779,16 +2779,16 @@ msgid "Eject CD"
 msgstr "Извади CD"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:98
-msgid "Reading table of contents from CD..."
-msgstr "Читам табела со содржини од CD-то..."
+msgid "Reading table of contents from CD…"
+msgstr "Читам табела со содржини од CD-то…"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:103
-msgid "Searching for CD metadata..."
-msgstr "Барам мета податоци за CD-то..."
+msgid "Searching for CD metadata…"
+msgstr "Барам мета податоци за CD-то…"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:108
-msgid "Searching for CD cover art..."
-msgstr "Барам слика од обвивката на CD-то..."
+msgid "Searching for CD cover art…"
+msgstr "Барам слика од обвивката на CD-то…"
 
 #: ../src/Core/Banshee.Base/Sources/AudioCdSource.cs:113
 msgid "Cannot search for CD metadata: there is no available Internet connection"
@@ -2811,8 +2811,8 @@ msgid "You must select at least one track to import."
 msgstr "Мора да изберете барем една песна за увоз."
 
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:107
-msgid "Synchronizing your Device, Please Wait..."
-msgstr "Го синхронизирам Вашиот уред, почекајте..."
+msgid "Synchronizing your Device, Please Wait…"
+msgstr "Го синхронизирам Вашиот уред, почекајте…"
 
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:191
 #: ../src/Plugins/Banshee.Plugins.Daap/DaapSource.cs:316
@@ -2836,8 +2836,8 @@ msgstr "Копирам од {0}"
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:196
 #: ../src/Dap/Banshee.Dap.Mtp/MtpDap.cs:315
 #: ../src/Plugins/Banshee.Plugins.Daap/DaapSource.cs:321
-msgid "Scanning..."
-msgstr "Скенирам..."
+msgid "Scanning…"
+msgstr "Скенирам…"
 
 #: ../src/Core/Banshee.Base/Sources/DapSource.cs:313
 #: ../src/Dap/Banshee.Dap.Mtp/MtpDap.cs:435
@@ -3191,8 +3191,8 @@ msgstr "Полнам бафер"
 
 #: ../src/Core/Banshee.Widgets/StreamPositionLabel.cs:84
 #, fuzzy
-msgid "Contacting..."
-msgstr "Вчитувам..."
+msgid "Contacting…"
+msgstr "Вчитувам…"
 
 #: ../src/Core/Banshee.Widgets/StreamPositionLabel.cs:86
 msgid "Idle"
@@ -3212,16 +3212,16 @@ msgid "Rebuilding Database"
 msgstr "Одново ја правам базата на податоци"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:55
-msgid "Scanning iPod..."
-msgstr "Го скенирам iPod-от..."
+msgid "Scanning iPod…"
+msgstr "Го скенирам iPod-от…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:89
-msgid "Processing Tracks..."
-msgstr "Ги обработувам песните..."
+msgid "Processing Tracks…"
+msgstr "Ги обработувам песните…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:136
-msgid "Saving new database..."
-msgstr "Ја зачувувам новата база на податоци..."
+msgid "Saving new database…"
+msgstr "Ја зачувувам новата база на податоци…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/DatabaseRebuilder.cs:143
 msgid "Error rebuilding iPod database"
@@ -3304,8 +3304,8 @@ msgid "What is the reason for this?"
 msgstr "Која е причината за ова?"
 
 #: ../src/Dap/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:116
-msgid "Rebuild iPod Database..."
-msgstr "Одново ја правам iPod базата на податоци..."
+msgid "Rebuild iPod Database…"
+msgstr "Одново ја правам iPod базата на податоци…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:124
 msgid "Confirm Rebuild iPod Database"
@@ -3326,8 +3326,8 @@ msgid "Rebuild Database"
 msgstr "Одново направи ја базата на податоци"
 
 #: ../src/Dap/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:147
-msgid "Rebuilding iPod Database..."
-msgstr "Одново направи ја базата на податоци на iPod..."
+msgid "Rebuilding iPod Database…"
+msgstr "Одново направи ја базата на податоци на iPod…"
 
 #: ../src/Dap/Banshee.Dap.Karma/Karma.cs:144
 #: ../src/Dap/Banshee.Dap.Karma/Karma.cs:172
@@ -3541,8 +3541,8 @@ msgstr "Посетете ја Banshee групата на last.fm"
 
 #: ../src/Plugins/Banshee.Plugins.Audioscrobbler/AudioscrobblerPlugin.cs:108
 #, fuzzy
-msgid "_Configure..."
-msgstr "Конфигурирај..."
+msgid "_Configure…"
+msgstr "Конфигурирај…"
 
 #: ../src/Plugins/Banshee.Plugins.Audioscrobbler/AudioscrobblerPlugin.cs:114
 #, fuzzy
@@ -4017,7 +4017,7 @@ msgstr "Ги конвертирам датотеките"
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/DownloadCore.cs:498
 #, fuzzy
 msgid "Initializing downloads"
-msgstr "Го иницијализирам транскодерот..."
+msgstr "Го иницијализирам транскодерот…"
 
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/DownloadCore.cs:536
 msgid "Canceling Downloads"
@@ -4083,7 +4083,7 @@ msgstr "Dif не е во „пуштен“ состојба"
 
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/HttpDownloadTask.cs:224
 #, fuzzy, csharp-format
-msgid "Contacting {0}..."
+msgid "Contacting {0}…"
 msgstr "Продолжи со {0}"
 
 #: ../src/Plugins/Banshee.Plugins.Podcast/DownloadCore/HttpDownloadTask.cs:232
@@ -4414,7 +4414,7 @@ msgstr "Ажурирај ги далечните станици од radio.bansh
 #: ../src/Plugins/Banshee.Plugins.Radio/CellRendererStation.cs:116
 #, fuzzy
 msgid "Loading"
-msgstr "Вчитувам..."
+msgstr "Вчитувам…"
 
 #: ../src/Plugins/Banshee.Plugins.Radio/RadioPlugin.cs:52
 #: ../src/Plugins/Banshee.Plugins.Radio/RadioSource.cs:63

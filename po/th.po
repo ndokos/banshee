@@ -668,9 +668,9 @@ msgstr "กลไกเครื่องเล่นปริยาย"
 
 #: ../data/audio-profiles/wavpack.xml.in.h:6
 #, fuzzy
-#| msgid "Processing..."
+#| msgid "Processing…"
 msgid "Extra processing"
-msgstr "กำลังประมวลผล..."
+msgstr "กำลังประมวลผล…"
 
 #: ../data/audio-profiles/wavpack.xml.in.h:7
 msgid "Fast Compression"
@@ -829,8 +829,8 @@ msgid "Could not construct pipeline"
 msgstr "ไม่สามารถสร้างไปป์ไลน์"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "เขียนซีดี..."
+msgid "Write CD…"
+msgstr "เขียนซีดี…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1500,13 +1500,13 @@ msgstr "กำลังตรวจหาสื่อ"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
-msgstr "กำลังตรวจข้อมูล..."
+msgid "Scanning…"
+msgstr "กำลังตรวจข้อมูล…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "กำลังตรวจข้อมูล ({0} แฟ้ม)..."
+msgid "Scanning ({0} files)…"
+msgstr "กำลังตรวจข้อมูล ({0} แฟ้ม)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2840,8 +2840,8 @@ msgid "External Document"
 msgstr "เอกสารภายนอก"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "เลือกปกอัลบั้มใหม่..."
+msgid "Choose New Cover Art…"
+msgstr "เลือกปกอัลบั้มใหม่…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2889,13 +2889,13 @@ msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
 #, fuzzy
-#| msgid "Waiting for transcoder..."
-msgid "Waiting for playback to begin..."
-msgstr "กำลังรอตัวแปลงรหัส..."
+#| msgid "Waiting for transcoder…"
+msgid "Waiting for playback to begin…"
+msgstr "กำลังรอตัวแปลงรหัส…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "กำลังเรียก..."
+msgid "Loading…"
+msgstr "กำลังเรียก…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3045,8 +3045,8 @@ msgid "Open Location"
 msgstr "เปิดตำแหน่งแฟ้ม"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "เรียกดู..."
+msgid "Browse…"
+msgstr "เรียกดู…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3061,16 +3061,16 @@ msgid "_Media"
 msgstr "_สื่อ"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "นำเข้า_สื่อ..."
+msgid "Import _Media…"
+msgstr "นำเข้า_สื่อ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "นำเข้าสื่อจากแหล่งหลากหลาย"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "นำเข้ารายการเ_ล่น..."
+msgid "Import _Playlist…"
+msgstr "นำเข้ารายการเ_ล่น…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -3089,8 +3089,8 @@ msgid "Rescan the Music Library folder"
 msgstr "ตรวจข้อมูลไลบรารีอีกครั้ง"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "เปิด_ตำแหน่งแฟ้ม..."
+msgid "Open _Location…"
+msgstr "เปิด_ตำแหน่งแฟ้ม…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3157,7 +3157,7 @@ msgstr "เข้าร่วมสมทบงานกับ Banshee"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:113
 msgid "_Version Information"
-msgstr "ข้อมูลรุ่_น..."
+msgstr "ข้อมูลรุ่_น…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:114
 msgid "View detailed version and configuration information"
@@ -3194,8 +3194,8 @@ msgid "Play the previous item"
 msgstr "เล่นรายการก่อนหน้า"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:78
-msgid "Seek _To..."
-msgstr "เ_ลื่อนไปยัง..."
+msgid "Seek _To…"
+msgstr "เ_ลื่อนไปยัง…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:79
 msgid "Seek to a specific location in current item"
@@ -3275,8 +3275,8 @@ msgid "Create a new empty playlist"
 msgstr "สร้างรายการเล่นรายการใหม่"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "สร้างรายการเล่น_อัจฉริยะใหม่..."
+msgid "New _Smart Playlist…"
+msgstr "สร้างรายการเล่น_อัจฉริยะใหม่…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3295,8 +3295,8 @@ msgid "Rename"
 msgstr "เปลี่ยนชื่อ"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "ส่งออกรายการเล่น..."
+msgid "Export Playlist…"
+msgstr "ส่งออกรายการเล่น…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -4002,8 +4002,8 @@ msgid "Continue {0}"
 msgstr "ทำ {0} ต่อไป"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "กำลังหยุด..."
+msgid "Stopping…"
+msgstr "กำลังหยุด…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4022,8 +4022,8 @@ msgid "Files"
 msgstr "แฟ้ม"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "เ_ลือกแฟ้ม..."
+msgid "C_hoose Files…"
+msgstr "เ_ลือกแฟ้ม…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -4050,8 +4050,8 @@ msgid "Folders"
 msgstr "โฟลเดอร์"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "เ_ลือกโฟลเดอร์..."
+msgid "C_hoose Folders…"
+msgstr "เ_ลือกโฟลเดอร์…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -4129,7 +4129,7 @@ msgid "Reset location to default ({0})"
 msgstr ""
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4191,8 +4191,8 @@ msgstr ""
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "กำลังเรียก {0}..."
+msgid "Loading {0}…"
+msgstr "กำลังเรียก {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4217,9 +4217,9 @@ msgstr "ไม่ได้เล่น"
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
 #, fuzzy
-#| msgid "Loading..."
-msgid "Contacting..."
-msgstr "กำลังเรียก..."
+#| msgid "Loading…"
+msgid "Contacting…"
+msgstr "กำลังเรียก…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
 msgid "Buffering"
@@ -4295,8 +4295,8 @@ msgstr "กำลังปรับข้อมูลกับไอพอดใ
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:516
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:695
-msgid "Preparing to synchronize..."
-msgstr "กำลังเตรียมปรับข้อมูลให้ตรงกัน..."
+msgid "Preparing to synchronize…"
+msgstr "กำลังเตรียมปรับข้อมูลให้ตรงกัน…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:519
 #, csharp-format
@@ -4482,8 +4482,8 @@ msgstr "ตัดการเชื่อมต่อ"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "กำลังตัดการเชื่อมต่อกับ {0}..."
+msgid "Disconnecting {0}…"
+msgstr "กำลังตัดการเชื่อมต่อกับ {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, fuzzy, csharp-format
@@ -4497,22 +4497,22 @@ msgid "Rebuilding Database"
 msgstr "กำลังสร้างฐานข้อมูลใหม่"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
-msgstr "กำลังตรวจข้อมูลไอพอด..."
+msgid "Scanning iPod…"
+msgstr "กำลังตรวจข้อมูลไอพอด…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
-msgstr "กำลังประมวลผลเพลง..."
+msgid "Processing Tracks…"
+msgstr "กำลังประมวลผลเพลง…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
 #, fuzzy
-#| msgid "Processing Tracks..."
-msgid "Ordering Tracks..."
-msgstr "กำลังประมวลผลเพลง..."
+#| msgid "Processing Tracks…"
+msgid "Ordering Tracks…"
+msgstr "กำลังประมวลผลเพลง…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
-msgstr "กำลังบันทึกฐานข้อมูลใหม่..."
+msgid "Saving new database…"
+msgstr "กำลังบันทึกฐานข้อมูลใหม่…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
 msgid "Error rebuilding iPod database"
@@ -4543,11 +4543,11 @@ msgid "Please manually remove some songs"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:724
-msgid "Updating..."
-msgstr "กำลังปรับข้อมูล..."
+msgid "Updating…"
+msgstr "กำลังปรับข้อมูล…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:728
-msgid "Flushing to disk..."
+msgid "Flushing to disk…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:61
@@ -4584,8 +4584,8 @@ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:125
-msgid "Rebuild iPod Database..."
-msgstr "กำลังสร้างฐานข้อมูลไอพอดใหม่..."
+msgid "Rebuild iPod Database…"
+msgstr "กำลังสร้างฐานข้อมูลไอพอดใหม่…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:133
 msgid "Confirm Rebuild iPod Database"
@@ -4608,8 +4608,8 @@ msgid "Rebuild Database"
 msgstr "สร้างฐานข้อมูลใหม่"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:157
-msgid "Rebuilding iPod Database..."
-msgstr "กำลังสร้างฐานข้อมูลไอพอดใหม่..."
+msgid "Rebuilding iPod Database…"
+msgstr "กำลังสร้างฐานข้อมูลไอพอดใหม่…"
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
 msgid "Purchased Music"
@@ -4760,7 +4760,7 @@ msgid "Open Book"
 msgstr "เปิดตำแหน่งแฟ้ม"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
@@ -4940,8 +4940,8 @@ msgid "Duplicate this audio CD"
 msgstr "ทำสำเนาซีดีเพลงแผ่นนี้"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-msgid "Searching for track information..."
-msgstr "กำลังค้นหาข้อมูลเพลง..."
+msgid "Searching for track information…"
+msgstr "กำลังค้นหาข้อมูลเพลง…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
 #, fuzzy
@@ -4962,8 +4962,8 @@ msgid "Could not duplicate audio CD"
 msgstr "ไม่สามารถทำสำเนาซีดีเพลง"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
-msgstr "กำลังดันแผ่นซีดีเพลงออก..."
+msgid "Ejecting audio CD…"
+msgstr "กำลังดันแผ่นซีดีเพลงออก…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
 #, csharp-format
@@ -5160,8 +5160,8 @@ msgstr "กำลังดาวน์โหลดเพลงจาก eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "กำลังตั้งต้นงาน..."
+msgid "Initializing…"
+msgstr "กำลังตั้งต้นงาน…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -5182,8 +5182,8 @@ msgstr "กำลังยกเลิกการดาวน์โหลด"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "กำลังรอให้รายการดาวน์โหลดหยุดทำงาน..."
+msgid "Waiting for downloads to terminate…"
+msgstr "กำลังรอให้รายการดาวน์โหลดหยุดทำงาน…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5245,7 +5245,7 @@ msgstr ""
 "หรือเลิกกาถ้าไม่ต้องการทำอะไรกับศิลปินนั้น"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5490,8 +5490,8 @@ msgstr "_ข้อความ"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "ค้นหา..."
+msgid "Search…"
+msgstr "ค้นหา…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -6128,8 +6128,8 @@ msgid "Unknown Similarity"
 msgstr "ไม่ทราบความคล้าย"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "เ_พิ่มสถานี..."
+msgid "_Add Station…"
+msgstr "เ_พิ่มสถานี…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6470,7 +6470,7 @@ msgstr "นำเข้ารายการเล่น"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6728,8 +6728,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "ตรวจหาตอนใหม่จากพอดคาสต์ทั้งหมด"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "เพิ่มพอดคาสต์..."
+msgid "Add Podcast…"
+msgstr "เพิ่มพอดคาสต์…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6873,13 +6873,13 @@ msgstr "อัปโหลดโดย"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "เล่นด้วย Banshee..."
+msgid "Play in Banshee…"
+msgstr "เล่นด้วย Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "เล่นในเว็บเบราว์เซอร์..."
+msgid "Play in Web Browser…"
+msgstr "เล่นในเว็บเบราว์เซอร์…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7193,8 +7193,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Learn about how to use Banshee"
 #~ msgstr "เรียนรู้วิธีใช้ Banshee"
 
-#~ msgid "Searching for CD metadata..."
-#~ msgstr "กำลังค้นหาข้อมูลซีดี..."
+#~ msgid "Searching for CD metadata…"
+#~ msgstr "กำลังค้นหาข้อมูลซีดี…"
 
 #~ msgid "<b>Advanced Properties</b>"
 #~ msgstr "<b>คุณสมบัติเพิ่มเติม</b>"
@@ -7202,8 +7202,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "<b>CD Importing</b>"
 #~ msgstr "<b>การแปลงข้อมูลเข้าจากซีดี</b>"
 
-#~ msgid "<b>Loading...</b>"
-#~ msgstr "<b>กำลังเรียก...</b>"
+#~ msgid "<b>Loading…</b>"
+#~ msgstr "<b>กำลังเรียก…</b>"
 
 #~ msgid "<b>Session Information</b>"
 #~ msgstr "<b>ข้อมูลเซสชัน</b>"
@@ -7289,7 +7289,7 @@ msgstr "พอดคาสต์นิรนาม"
 
 #~ msgid ""
 #~ "Format for creating filenames/directories for ripped tracks, imported "
-#~ "music, etc. Format is relative to the Banshee music directory... do not "
+#~ "music, etc. Format is relative to the Banshee music directory… do not "
 #~ "form an absolute path! Tokens: %artist%, %album%, %title%, %track_number"
 #~ "%, %track_count%, %track_number_nz% (No prefixed zero), %track_count_nz% "
 #~ "(No prefixed zero)."
@@ -7450,14 +7450,14 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Could not get device list from HAL"
 #~ msgstr "ไม่สามารถอ่านรายการอุปกรณ์จาก HAL"
 
-#~ msgid "Import _Folder..."
-#~ msgstr "นำเข้าโ_ฟลเดอร์..."
+#~ msgid "Import _Folder…"
+#~ msgstr "นำเข้าโ_ฟลเดอร์…"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "นำเข้าเพลงทั้งหมดในโฟลเดอร์"
 
-#~ msgid "Import Files..."
-#~ msgstr "นำเข้าแฟ้ม..."
+#~ msgid "Import Files…"
+#~ msgstr "นำเข้าแฟ้ม…"
 
 #~ msgid "Import files inside a folder"
 #~ msgstr "นำเข้าแฟ้มภายในโฟลเดอร์"
@@ -7468,20 +7468,20 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Unselect all songs in song list"
 #~ msgstr "ยกเลิกการเลือกเพลงทั้งหมดในรายการ"
 
-#~ msgid "Plugins..."
-#~ msgstr "ปลั๊กอิน..."
+#~ msgid "Plugins…"
+#~ msgstr "ปลั๊กอิน…"
 
 #~ msgid "Configure Banshee plugins"
 #~ msgstr "ปรับแต่งปลั๊กอินของ Banshee"
 
-#~ msgid "Columns..."
-#~ msgstr "คอลัมน์..."
+#~ msgid "Columns…"
+#~ msgstr "คอลัมน์…"
 
 #~ msgid "Select which columns to display in the song list"
 #~ msgstr "เลือกคอลัมน์ที่ต้องการแสดงในรายการเพลง"
 
-#~ msgid "Logged Events Viewer..."
-#~ msgstr "แสดงบันทึกเหตุการณ์..."
+#~ msgid "Logged Events Viewer…"
+#~ msgstr "แสดงบันทึกเหตุการณ์…"
 
 #~ msgid "View a detailed log of events"
 #~ msgstr "แสดงบันทึกเหตุการณ์ต่างๆ อย่างละเอียด"
@@ -7631,8 +7631,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Low"
 #~ msgstr "ต่ำ"
 
-#~ msgid "Initializing Transcoder..."
-#~ msgstr "กำลังตั้งต้นตัวแปลงรหัส..."
+#~ msgid "Initializing Transcoder…"
+#~ msgstr "กำลังตั้งต้นตัวแปลงรหัส…"
 
 #~ msgid "Cannot initialize DapCore because HalCore is not initialized"
 #~ msgstr "ไม่สามารถตั้งต้น DapCore ได้ เพราะไม่ได้ตั้งต้น HalCore ไว้"
@@ -7702,8 +7702,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "This plugin could not be initialized."
 #~ msgstr "ไม่สามารถตั้งต้นปลั๊กอินนี้ได้"
 
-#~ msgid "Reading table of contents from CD..."
-#~ msgstr "กำลังอ่านสารบัญจากซีดี..."
+#~ msgid "Reading table of contents from CD…"
+#~ msgstr "กำลังอ่านสารบัญจากซีดี…"
 
 #~ msgid ""
 #~ "Cannot search for CD metadata: there is no available Internet connection"
@@ -7715,8 +7715,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "You must select at least one track to import."
 #~ msgstr "คุณต้องเลือกเพลงที่จะนำเข้าอย่างน้อยหนึ่งเพลง"
 
-#~ msgid "Synchronizing your Device, Please Wait..."
-#~ msgstr "กำลังปรับข้อมูลกับอุปกรณ์ของคุณให้ตรงกัน กรุณารอสักครู่..."
+#~ msgid "Synchronizing your Device, Please Wait…"
+#~ msgstr "กำลังปรับข้อมูลกับอุปกรณ์ของคุณให้ตรงกัน กรุณารอสักครู่…"
 
 #~ msgid "You are currently importing from {0}. Would you like to stop it?"
 #~ msgstr "คุณกำลังนำเข้าเพลงจาก {0} คุณต้องการหยุดหรือไม่?"
@@ -7796,8 +7796,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Visit group page"
 #~ msgstr "ไปยังหน้ากลุ่มผู้ใช้"
 
-#~ msgid "Configure..."
-#~ msgstr "ตั้งค่า..."
+#~ msgid "Configure…"
+#~ msgstr "ตั้งค่า…"
 
 #~ msgid ""
 #~ "Allow engine to submit song data to last.fm in the Audioscrobbler plugin"
@@ -8020,8 +8020,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Unkown"
 #~ msgstr "ไม่มีข้อมูล"
 
-#~ msgid "Processing Songs..."
-#~ msgstr "กำลังประมวลผลเพลงต่างๆ ..."
+#~ msgid "Processing Songs…"
+#~ msgstr "กำลังประมวลผลเพลงต่างๆ …"
 
 #~ msgid "<small>Advanced</small>"
 #~ msgstr "<small>ระดับสูง</small>"
@@ -8061,8 +8061,8 @@ msgstr "พอดคาสต์นิรนาม"
 #~ msgid "Enter new name for your device"
 #~ msgstr "ใส่ชื่อให้อุปกรณ์ของคุณ"
 
-#~ msgid "Loading Drive List..."
-#~ msgstr "กำลังเรียกรายการไดรว์..."
+#~ msgid "Loading Drive List…"
+#~ msgstr "กำลังเรียกรายการไดรว์…"
 
 #~ msgid "No CD Burners Detected"
 #~ msgstr "ไม่พบตัวเขียนซีดี"

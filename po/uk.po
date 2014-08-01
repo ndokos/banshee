@@ -709,7 +709,7 @@ msgid "Could not construct pipeline"
 msgstr "Не вдалось збудувати конвеєр"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "Записати CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1358,12 +1358,12 @@ msgstr "Пошук носіїв"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
+msgid "Scanning…"
 msgstr "Триває пошук…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "Триває пошук ({0} файлів)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2700,7 +2700,7 @@ msgid "External Document"
 msgstr "Зовнішній документ"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "Вибрати нову обкладинку…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2748,11 +2748,11 @@ msgid "Hide context pane"
 msgstr "Сховати панель зведення"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr "Очікування початку відтворення…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
+msgid "Loading…"
 msgstr "Завантаження…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -2901,7 +2901,7 @@ msgid "Open Location"
 msgstr "Відкрити адресу"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "Перегляд…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -2917,7 +2917,7 @@ msgid "_Media"
 msgstr "_Файл"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "Імпортувати _файл…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -2925,7 +2925,7 @@ msgid "Import media from a variety of sources"
 msgstr "Імпортувати з різних джерел"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
+msgid "Import _Playlist…"
 msgstr "Імпортувати сп_исок композицій…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
@@ -2941,7 +2941,7 @@ msgid "Rescan the Music Library folder"
 msgstr "Пересканувати теку з фонотекою"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "Відкрити _адресу…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
@@ -3045,7 +3045,7 @@ msgid "Play the previous item"
 msgstr "Відтворити попередню доріжку"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
+msgid "Seek _To…"
 msgstr "Прокрутити _до…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
@@ -3127,8 +3127,8 @@ msgid "Subtitle"
 msgstr "Субтитри"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-#| msgid "Loading..."
-msgid "Load File..."
+#| msgid "Loading…"
+msgid "Load File…"
 msgstr "Завантажити файл…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
@@ -3174,7 +3174,7 @@ msgid "Create a new empty playlist"
 msgstr "Створити новий, порожній список композицій"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Новий «р_озумний» список композицій…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
@@ -3194,7 +3194,7 @@ msgid "Rename"
 msgstr "Перейменувати"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "Експортувати список композицій…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
@@ -3881,7 +3881,7 @@ msgid "Continue {0}"
 msgstr "Продовжити {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
+msgid "Stopping…"
 msgstr "Зупиняється…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
@@ -3902,7 +3902,7 @@ msgstr "Файли"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
 #| msgid "C_hoose Files"
-msgid "C_hoose Files..."
+msgid "C_hoose Files…"
 msgstr "_Вибрати файли…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
@@ -3931,7 +3931,7 @@ msgstr "Теки"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
 #| msgid "C_hoose Folders"
-msgid "C_hoose Folders..."
+msgid "C_hoose Folders…"
 msgstr "_Вибрати теки…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
@@ -4006,7 +4006,7 @@ msgid "Reset location to default ({0})"
 msgstr "Відновити типову адресу ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4067,7 +4067,7 @@ msgstr "Показати або сховати переглядач викона
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
+msgid "Loading {0}…"
 msgstr "Завантаження {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
@@ -4092,7 +4092,7 @@ msgstr "Бездіяльність"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:147
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr "Під'єднання…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:157
@@ -4156,7 +4156,7 @@ msgid "Syncing iPod"
 msgstr "Синхронізація iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:556
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "Підготування до синхронізації…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:559
@@ -4345,7 +4345,7 @@ msgstr "Від'єднатись"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr "Від'єднання {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
@@ -4500,7 +4500,7 @@ msgid "Open Book"
 msgstr "Відкрити книгу"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "Об'єднання дисків…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
@@ -4675,8 +4675,8 @@ msgid "Duplicate this audio CD"
 msgstr "Дублює цей компактний диск"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-#| msgid "Searching for CD metadata..."
-msgid "Searching for track information..."
+#| msgid "Searching for CD metadata…"
+msgid "Searching for track information…"
 msgstr "Пошук даних доріжки…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
@@ -4697,7 +4697,7 @@ msgid "Could not duplicate audio CD"
 msgstr "Не вдалось дублювати звуковий диск"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
+msgid "Ejecting audio CD…"
 msgstr "Виштовхування аудіодиска…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
@@ -4903,7 +4903,7 @@ msgstr "Звантаження доріжок з eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Запуск…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -4926,7 +4926,7 @@ msgstr "Скасування звантажень"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Очікування завершення звантажень…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5007,7 +5007,7 @@ msgstr ""
 "або зніміть позначку, щоб не виконувати ніяких дій."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr "Виправлення метаданих…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5249,7 +5249,7 @@ msgstr "Т_екст"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
+msgid "Search…"
 msgstr "Пошук…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
@@ -5889,7 +5889,7 @@ msgid "Unknown Similarity"
 msgstr "Невідома схожість"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "Додати _станцію…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6233,7 +6233,7 @@ msgstr "Імпортувати _списки композицій"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr "Розміщення файла «{0}»…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6498,7 +6498,7 @@ msgid "Check all podcasts for new episodes"
 msgstr "Перевірити усі подкасти на нові епізоди"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
+msgid "Add Podcast…"
 msgstr "Додати подкаст…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
@@ -6735,12 +6735,12 @@ msgstr "Завантажено"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
+msgid "Play in Banshee…"
 msgstr "Відтворити у Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
+msgid "Play in Web Browser…"
 msgstr "Відтворити у веб-переглядачі…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
@@ -7186,17 +7186,17 @@ msgstr "Невідомий подкаст"
 #~ msgid "Rebuilding Database"
 #~ msgstr "Перебудовування бази даних"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "Сканування iPod..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "Сканування iPod…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "Обробка доріжок..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "Обробка доріжок…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "Впорядкування доріжок..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "Впорядкування доріжок…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "Зберігання нової бази даних..."
+#~ msgid "Saving new database…"
+#~ msgstr "Зберігання нової бази даних…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "Помилка перебудови бази iPod"
@@ -7219,11 +7219,11 @@ msgstr "Невідомий подкаст"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Будь ласка, вилучіть деякі пісні вручну"
 
-#~ msgid "Updating..."
-#~ msgstr "Оновлення..."
+#~ msgid "Updating…"
+#~ msgstr "Оновлення…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "Диск відмикається..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "Диск відмикається…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "Неможливо прочитати ваш iPod"
@@ -7271,8 +7271,8 @@ msgstr "Невідомий подкаст"
 #~ "Ваш iPod змонтований тільки для читання. Banshee не може відновити ваш "
 #~ "iPod."
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "Перебудова бази даних iPod..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "Перебудова бази даних iPod…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "Підтвердіть перебудову бази даних iPod"
@@ -7291,8 +7291,8 @@ msgstr "Невідомий подкаст"
 #~ msgid "Rebuild Database"
 #~ msgstr "Перебудувати базу даних"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "Перебудування бази даних iPod..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "Перебудування бази даних iPod…"
 
 #~ msgid "Audiobooks, etc"
 #~ msgstr "Аудіокниги, тощо"

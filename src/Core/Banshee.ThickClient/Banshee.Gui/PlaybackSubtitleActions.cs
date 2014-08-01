@@ -62,7 +62,7 @@ namespace Banshee.Gui
                     Catalog.GetString ("Subtitle"), null,
                     Catalog.GetString ("Subtitle"), null),
                 new ActionEntry ("LoadSubtitleAction", null,
-                    Catalog.GetString ("Load File..."), null,
+                    Catalog.GetString ("Load File…"), null,
                     Catalog.GetString ("Load subtitle file"), OnLoadSubtitleAction)
             });
 

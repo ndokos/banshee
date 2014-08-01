@@ -431,7 +431,7 @@ namespace Banshee.Lastfm.Audioscrobbler
                     }
                     Log.DebugFormat ("Added to Last.fm queue: {0} - Number of plays: {1}", track, playtimes.Count);
                 } else {
-                    Log.DebugFormat ("Track {0} failed validation check for Last.fm submission, skipping...",
+                    Log.DebugFormat ("Track {0} failed validation check for Last.fm submission, skipping…",
                                      track);
                 }
             }
@@ -448,7 +448,7 @@ namespace Banshee.Lastfm.Audioscrobbler
 
             if (scrobble_job == null) {
                 scrobble_job = new UserJob (Catalog.GetString ("Scrobbling to Last.FM"),
-                                            Catalog.GetString ("Scrobbling to Last.FM..."));
+                                            Catalog.GetString ("Scrobbling to Last.FM…"));
 
                 scrobble_job.PriorityHints = PriorityHints.None;
                 scrobble_job.CanCancel = true;

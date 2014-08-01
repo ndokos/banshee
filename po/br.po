@@ -271,8 +271,8 @@ msgid "Could not construct pipeline"
 msgstr ""
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:64
-msgid "Write CD..."
-msgstr "Engravañ ur CD..."
+msgid "Write CD…"
+msgstr "Engravañ ur CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
 msgid "Write selected tracks to an audio CD"
@@ -759,13 +759,13 @@ msgstr "O c'hwilervañ "
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:187
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1206
-msgid "Scanning..."
-msgstr "O c'hwilervañ..."
+msgid "Scanning…"
+msgstr "O c'hwilervañ…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:203
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "O c'hwilervañ ({0} restr)..."
+msgid "Scanning ({0} files)…"
+msgstr "O c'hwilervañ ({0} restr)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:237
 #, fuzzy
@@ -971,7 +971,7 @@ msgstr ""
 
 #: ../src/Core/Banshee.Services/Banshee.Metadata/SaveTrackMetadataJob.cs:51
 msgid "Saving Metadata to File"
-msgstr "_Enrollañ ar metaroadennoù en ur restr..."
+msgstr "_Enrollañ ar metaroadennoù en ur restr…"
 
 #: ../src/Core/Banshee.Services/Banshee.Metadata/SaveTrackMetadataService.cs:48
 msgid "Write _metadata to files"
@@ -1810,12 +1810,12 @@ msgid "Hide context pane"
 msgstr "Kuzhat ar banell kemperzhel"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "O kargañ..."
+msgid "Loading…"
+msgstr "O kargañ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerWindow.cs:52
 msgid "Equalizer"
@@ -1915,8 +1915,8 @@ msgid "PNG image files"
 msgstr "restroù skeudenn PNG"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Furchal..."
+msgid "Browse…"
+msgstr "Furchal…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:98
 #: ../src/Core/Banshee.ThickClient/Resources/banshee-dialogs.glade.h:10
@@ -1928,16 +1928,16 @@ msgid "_Media"
 msgstr "_Media"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Enporzhiañ ur _media..."
+msgid "Import _Media…"
+msgstr "Enporzhiañ ur _media…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Enporzhiañ ar _roll-tonioù..."
+msgid "Import _Playlist…"
+msgstr "Enporzhiañ ar _roll-tonioù…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -1952,8 +1952,8 @@ msgid "Rescan the Music Library folder"
 msgstr "C'hwirlervañ teuliad al levraoueg sonerezh en-dro"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Digeriñ al _lec'hiadur..."
+msgid "Open _Location…"
+msgstr "Digeriñ al _lec'hiadur…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -2074,7 +2074,7 @@ msgid "Play the previous item"
 msgstr "Lenn an ergorenn kent"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:78
-msgid "Seek _to..."
+msgid "Seek _to…"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:79
@@ -2207,8 +2207,8 @@ msgstr "Krouin ur roll-tonioù nevez"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:77
 #, fuzzy
-msgid "New _Smart Playlist..."
-msgstr "Roll-tonioù nevez..."
+msgid "New _Smart Playlist…"
+msgstr "Roll-tonioù nevez…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:78
 #, fuzzy
@@ -2229,8 +2229,8 @@ msgid "Rename"
 msgstr "Adenvel"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:95
-msgid "Export Playlist..."
-msgstr "Ezporzhiañ ar roll-tonioù..."
+msgid "Export Playlist…"
+msgstr "Ezporzhiañ ar roll-tonioù…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:96
 msgid "Export a playlist"
@@ -2869,8 +2869,8 @@ msgstr "Kenderc'hel ganti"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
 #, fuzzy
-msgid "Stopping..."
-msgstr "O kargañ..."
+msgid "Stopping…"
+msgstr "O kargañ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:46
 #, fuzzy
@@ -3052,7 +3052,7 @@ msgid "Idle"
 msgstr "Diaktiv"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr ""
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
@@ -3217,7 +3217,7 @@ msgstr "Kas er-maez {0}"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:104
 #, csharp-format
-msgid "Ejecting {0}..."
+msgid "Ejecting {0}…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
@@ -3231,19 +3231,19 @@ msgid "Rebuilding Database"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
-msgid "Scanning iPod..."
-msgstr "O c'hwilervañ an iPod..."
+msgid "Scanning iPod…"
+msgstr "O c'hwilervañ an iPod…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
+msgid "Processing Tracks…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
+msgid "Ordering Tracks…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
+msgid "Saving new database…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
@@ -3304,15 +3304,15 @@ msgid "Syncing iPod"
 msgstr "O sinkronaat an iPod"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:662
-msgid "Preparing to synchronize..."
-msgstr "O prientiñ sinkronaat..."
+msgid "Preparing to synchronize…"
+msgstr "O prientiñ sinkronaat…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:683
-msgid "Updating..."
-msgstr "Oc'h hizivaat..."
+msgid "Updating…"
+msgstr "Oc'h hizivaat…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:687
-msgid "Flushing to disk..."
+msgid "Flushing to disk…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:59
@@ -3347,7 +3347,7 @@ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:123
-msgid "Rebuild iPod Database..."
+msgid "Rebuild iPod Database…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:131
@@ -3366,7 +3366,7 @@ msgid "Rebuild Database"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:155
-msgid "Rebuilding iPod Database..."
+msgid "Rebuilding iPod Database…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
@@ -3530,12 +3530,12 @@ msgstr "Eilañ ar CD"
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdService.cs:328
 #, fuzzy
 msgid "Duplicate this audio CD"
-msgstr "Eilañ ar CD aodio..."
+msgstr "Eilañ ar CD aodio…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:130
 #, fuzzy
-msgid "Searching for CD metadata..."
-msgstr "Klask komzoù..."
+msgid "Searching for CD metadata…"
+msgstr "Klask komzoù…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:163
 #, fuzzy
@@ -3557,7 +3557,7 @@ msgstr "Ne oa ket tu da grouiñ ar CD audio"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:363
 #, fuzzy
-msgid "Ejecting audio CD..."
+msgid "Ejecting audio CD…"
 msgstr "Echu eo krouiñ ar CD audio."
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:381
@@ -3895,8 +3895,8 @@ msgid "Visit Your Last.fm Profile Page"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:134
-msgid "_Configure..."
-msgstr "_Kefluniañ..."
+msgid "_Configure…"
+msgstr "_Kefluniañ…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:135
 msgid "Configure the Last.fm Extension"
@@ -3911,8 +3911,8 @@ msgid "Enable song reporting"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Radio/LastfmActions.cs:66
-msgid "_Add Station..."
-msgstr "Ouzhpenn_añ ar savlec'h..."
+msgid "_Add Station…"
+msgstr "Ouzhpenn_añ ar savlec'h…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Radio/LastfmActions.cs:67
 msgid "Add a new Last.fm radio station"
@@ -4367,7 +4367,7 @@ msgstr "Adenvel ar roll-tonioù"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:388
@@ -4494,8 +4494,8 @@ msgid "Downloading Podcast(s)"
 msgstr "O pellgargañ ar podskignañ"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "O teraouekaat..."
+msgid "Initializing…"
+msgstr "O teraouekaat…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:52
 #, fuzzy
@@ -4515,7 +4515,7 @@ msgid "Canceling Downloads"
 msgstr "O nullañ ar bellgargañ"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:66
@@ -4530,8 +4530,8 @@ msgid "Refresh All Podcasts"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:72
-msgid "Subscribe to Podcast..."
-msgstr "En em enrollañ da bodskignañ..."
+msgid "Subscribe to Podcast…"
+msgstr "En em enrollañ da bodskignañ…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:73
 msgid "Subscribe to a new podcast"

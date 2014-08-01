@@ -746,15 +746,15 @@ msgstr ""
 
 #: C/manage-tags.page:25(title)
 #, fuzzy
-#| msgid "Fix Music Metadata..."
+#| msgid "Fix Music Metadata…"
 msgid "Music Metadata"
-msgstr "Arranxar metadatos de música..."
+msgstr "Arranxar metadatos de música…"
 
 #: C/manage-tags.page:29(title)
 #, fuzzy
-#| msgid "Fix Music Metadata..."
+#| msgid "Fix Music Metadata…"
 msgid "Music metadata"
-msgstr "Arranxar metadatos de música..."
+msgstr "Arranxar metadatos de música…"
 
 #: C/manage-tags.page:31(p)
 msgid ""
@@ -780,9 +780,9 @@ msgstr ""
 
 #: C/manage-tags.page:50(title)
 #, fuzzy
-#| msgid "Fix Music Metadata..."
+#| msgid "Fix Music Metadata…"
 msgid "Edit Your Metadata"
-msgstr "Arranxar metadatos de música..."
+msgstr "Arranxar metadatos de música…"
 
 #: C/manage-tags.page:52(p)
 msgid ""
@@ -2333,8 +2333,8 @@ msgstr ""
 #~ msgid "Could not construct pipeline"
 #~ msgstr "Non foi posíbel crear a tubería"
 
-#~ msgid "Write CD..."
-#~ msgstr "Gravar CD..."
+#~ msgid "Write CD…"
+#~ msgstr "Gravar CD…"
 
 #~ msgid "Write selected tracks to an audio CD"
 #~ msgstr "Gravar as pistas seleccionadas nun CD de son"
@@ -2756,11 +2756,11 @@ msgstr ""
 #~ msgid "Scanning for media"
 #~ msgstr "Analizando o contido multimedia"
 
-#~ msgid "Scanning..."
-#~ msgstr "Analizando..."
+#~ msgid "Scanning…"
+#~ msgstr "Analizando…"
 
-#~ msgid "Scanning ({0} files)..."
-#~ msgstr "Analizando ({0} ficheiros)..."
+#~ msgid "Scanning ({0} files)…"
+#~ msgstr "Analizando ({0} ficheiros)…"
 
 #~ msgid "Importing Media"
 #~ msgstr "Importando contido multimedia"
@@ -3596,8 +3596,8 @@ msgstr ""
 #~ msgid "External Document"
 #~ msgstr "Documento externo"
 
-#~ msgid "Choose New Cover Art..."
-#~ msgstr "Seleccione unha portada nova..."
+#~ msgid "Choose New Cover Art…"
+#~ msgstr "Seleccione unha portada nova…"
 
 #~ msgid "Delete This Cover Art"
 #~ msgstr "Eliminar esta portada"
@@ -3629,11 +3629,11 @@ msgstr ""
 #~ msgid "Hide context pane"
 #~ msgstr "Ocultar o contexto do panel"
 
-#~ msgid "Waiting for playback to begin..."
-#~ msgstr "Esperando a que a reprodución comece..."
+#~ msgid "Waiting for playback to begin…"
+#~ msgstr "Esperando a que a reprodución comece…"
 
-#~ msgid "Loading..."
-#~ msgstr "Cargando..."
+#~ msgid "Loading…"
+#~ msgstr "Cargando…"
 
 #~ msgid "Preamp"
 #~ msgstr "Preamplificador"
@@ -3740,8 +3740,8 @@ msgstr ""
 #~ msgid "Open Location"
 #~ msgstr "Abrir localización"
 
-#~ msgid "Browse..."
-#~ msgstr "Examinar..."
+#~ msgid "Browse…"
+#~ msgstr "Examinar…"
 
 #~ msgid "Enter the address of the file you would like to open:"
 #~ msgstr "Introduza o enderezo do tipo de ficheiro que quere abrir:"
@@ -3752,14 +3752,14 @@ msgstr ""
 #~ msgid "_Media"
 #~ msgstr "_Multimedia"
 
-#~ msgid "Import _Media..."
-#~ msgstr "Importar contido _multimedia..."
+#~ msgid "Import _Media…"
+#~ msgstr "Importar contido _multimedia…"
 
 #~ msgid "Import media from a variety of sources"
 #~ msgstr "Importar contido multimedia desde varias orixes"
 
-#~ msgid "Import _Playlist..."
-#~ msgstr "Importar _lista de reprodución..."
+#~ msgid "Import _Playlist…"
+#~ msgstr "Importar _lista de reprodución…"
 
 #~ msgid "Rescan Music Library"
 #~ msgstr "Analizar de novo a fonoteca"
@@ -3767,8 +3767,8 @@ msgstr ""
 #~ msgid "Rescan the Music Library folder"
 #~ msgstr "Analizar de novo o cartafol da fonoteca"
 
-#~ msgid "Open _Location..."
-#~ msgstr "Abrir _localización..."
+#~ msgid "Open _Location…"
+#~ msgstr "Abrir _localización…"
 
 #~ msgid "Open a remote location for playback"
 #~ msgstr "Abre unha localización remota para reproducir"
@@ -3830,8 +3830,8 @@ msgstr ""
 #~ msgid "Pre_vious"
 #~ msgstr "_Anterior"
 
-#~ msgid "Seek _To..."
-#~ msgstr "Ir _até..."
+#~ msgid "Seek _To…"
+#~ msgstr "Ir _até…"
 
 #~ msgid "Seek to a specific location in current item"
 #~ msgstr "Saltar a unha posición específica no elemento actual"
@@ -3882,8 +3882,8 @@ msgstr ""
 #~ msgid "Subtitle"
 #~ msgstr "Subtítulo"
 
-#~ msgid "Load File..."
-#~ msgstr "Cargar ficheiro..."
+#~ msgid "Load File…"
+#~ msgstr "Cargar ficheiro…"
 
 #~ msgid "Load subtitle file"
 #~ msgstr "Cargar ficheiro de subtítulos"
@@ -3912,8 +3912,8 @@ msgstr ""
 #~ msgid "Create a new empty playlist"
 #~ msgstr "Crear unha nova lista de reprodución baleira"
 
-#~ msgid "New _Smart Playlist..."
-#~ msgstr "Nova lista de reprodución _intelixente..."
+#~ msgid "New _Smart Playlist…"
+#~ msgstr "Nova lista de reprodución _intelixente…"
 
 #~ msgid "Import to Library"
 #~ msgstr "Importar á fonoteca"
@@ -3921,8 +3921,8 @@ msgstr ""
 #~ msgid "Rename"
 #~ msgstr "Renomear"
 
-#~ msgid "Export Playlist..."
-#~ msgstr "Exportar lista de reprodución..."
+#~ msgid "Export Playlist…"
+#~ msgstr "Exportar lista de reprodución…"
 
 #~ msgid "Export a playlist"
 #~ msgstr "Exportar unha lista de reprodución"
@@ -4399,8 +4399,8 @@ msgstr ""
 #~ msgid "Continue {0}"
 #~ msgstr "Continuar {0}"
 
-#~ msgid "Stopping..."
-#~ msgstr "Detención..."
+#~ msgid "Stopping…"
+#~ msgstr "Detención…"
 
 #~ msgid "Import Files to Library"
 #~ msgstr "Importar ficheiros á fonoteca"
@@ -4411,8 +4411,8 @@ msgstr ""
 #~ msgid "Files"
 #~ msgstr "Ficheiros"
 
-#~ msgid "C_hoose Files..."
-#~ msgstr "_Seleccionar ficheiros..."
+#~ msgid "C_hoose Files…"
+#~ msgstr "_Seleccionar ficheiros…"
 
 #~ msgid "_Files to import:"
 #~ msgstr "_Ficheiro a importar:"
@@ -4429,8 +4429,8 @@ msgstr ""
 #~ msgid "Folders"
 #~ msgstr "Cartafoles"
 
-#~ msgid "C_hoose Folders..."
-#~ msgstr "_Seleccionar cartafoles..."
+#~ msgid "C_hoose Folders…"
+#~ msgstr "_Seleccionar cartafoles…"
 
 #~ msgid "_Folders to import:"
 #~ msgstr "_Cartafoles a importar:"
@@ -4523,8 +4523,8 @@ msgstr ""
 #~ msgid "Show or hide the artist/album browser"
 #~ msgstr "Mostrar ou ocultar o examinador de artista/álbum"
 
-#~ msgid "Loading {0}..."
-#~ msgstr "Cargando {0}..."
+#~ msgid "Loading {0}…"
+#~ msgstr "Cargando {0}…"
 
 #~ msgid ""
 #~ "Insert\n"
@@ -4542,8 +4542,8 @@ msgstr ""
 #~ msgid "Idle"
 #~ msgstr "Reposo"
 
-#~ msgid "Contacting..."
-#~ msgstr "Contactando..."
+#~ msgid "Contacting…"
+#~ msgstr "Contactando…"
 
 #~ msgid "Buffering"
 #~ msgstr "Almacenando no búfer"
@@ -4584,8 +4584,8 @@ msgstr ""
 #~ msgid "Syncing iPod"
 #~ msgstr "Sincronizando iPod"
 
-#~ msgid "Preparing to synchronize..."
-#~ msgstr "Preparándose para sincronizar..."
+#~ msgid "Preparing to synchronize…"
+#~ msgstr "Preparándose para sincronizar…"
 
 #~ msgid "Adding track {0} of {1}"
 #~ msgstr "Engadindo a pista {0} de{1}"
@@ -4699,8 +4699,8 @@ msgstr ""
 #~ msgid "Disconnect"
 #~ msgstr "Desconectar"
 
-#~ msgid "Disconnecting {0}..."
-#~ msgstr "Desconectando {0}..."
+#~ msgid "Disconnecting {0}…"
+#~ msgstr "Desconectando {0}…"
 
 #~ msgid "Could not disconnect {0}: {1}"
 #~ msgstr "Non foi posíbel desconectar {0}: {1}"
@@ -4708,17 +4708,17 @@ msgstr ""
 #~ msgid "Rebuilding Database"
 #~ msgstr "Reconstruíndo a base de datos"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "Analizando o iPod..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "Analizando o iPod…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "Procesando pistas..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "Procesando pistas…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "Ordenando pistas..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "Ordenando pistas…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "Gardando base de datos nova..."
+#~ msgid "Saving new database…"
+#~ msgstr "Gardando base de datos nova…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "Produciuse un erro ao reconstruír a base de datos do iPod"
@@ -4741,11 +4741,11 @@ msgstr ""
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Elimine algunhas cancións manualmente"
 
-#~ msgid "Updating..."
-#~ msgstr "Actualizando..."
+#~ msgid "Updating…"
+#~ msgstr "Actualizando…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "Descargando ao disco..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "Descargando ao disco…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "Non foi posíbel ler o seu iPod"
@@ -4786,8 +4786,8 @@ msgstr ""
 #~ "O seu iPod está montado en modo de só lectura. Banshee non pode restaurar "
 #~ "o seu iPod."
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "Reconstruír a base de datos do iPod..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "Reconstruír a base de datos do iPod…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "Confirmar a reconstrución da base de datos do iPod"
@@ -4807,8 +4807,8 @@ msgstr ""
 #~ msgid "Rebuild Database"
 #~ msgstr "Reconstruír a base de datos"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "Reconstruíndo a base de datos do iPod..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "Reconstruíndo a base de datos do iPod…"
 
 #~ msgid "Purchased Music"
 #~ msgstr "Música mercada"
@@ -4903,8 +4903,8 @@ msgstr ""
 #~ msgid "Open Book"
 #~ msgstr "Abrir libro"
 
-#~ msgid "Merge Discs..."
-#~ msgstr "Unir discos..."
+#~ msgid "Merge Discs…"
+#~ msgstr "Unir discos…"
 
 #~ msgid "Resume"
 #~ msgstr "Reanudar"
@@ -5026,8 +5026,8 @@ msgstr ""
 #~ msgid "Duplicate this audio CD"
 #~ msgstr "Copiar este CD de son"
 
-#~ msgid "Searching for track information..."
-#~ msgstr "Buscando información sobre a pista..."
+#~ msgid "Searching for track information…"
+#~ msgstr "Buscando información sobre a pista…"
 
 #~ msgid "Could not fetch track information"
 #~ msgstr "Non foi posíbel obter información sobre a pista"
@@ -5044,8 +5044,8 @@ msgstr ""
 #~ msgid "Could not duplicate audio CD"
 #~ msgstr "Non foi posíbel copiar o CD de son"
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "Expulsando CD de son..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "Expulsando CD de son…"
 
 #~ msgid "Could not eject audio CD: {0}"
 #~ msgstr "Non foi posíbel expulsar o CD de son: {0}"
@@ -5193,8 +5193,8 @@ msgstr ""
 #~ msgid "Downloading eMusic Track(s)"
 #~ msgstr "Descargando pista(s) de eMusic"
 
-#~ msgid "Initializing..."
-#~ msgstr "Inicializando..."
+#~ msgid "Initializing…"
+#~ msgstr "Inicializando…"
 
 #~ msgid "Cancel all eMusic downloads?"
 #~ msgstr "Quere cancelar todas as descargas de eMusic?"
@@ -5207,8 +5207,8 @@ msgstr ""
 #~ msgid "Canceling Downloads"
 #~ msgstr "Anulando as descargas"
 
-#~ msgid "Waiting for downloads to terminate..."
-#~ msgstr "Esperando a que as descargas finalicen..."
+#~ msgid "Waiting for downloads to terminate…"
+#~ msgstr "Esperando a que as descargas finalicen…"
 
 #~ msgid "Import eMusic Downloads to Library"
 #~ msgstr "Importar descargas de eMusica á fonoteca de música"
@@ -5416,8 +5416,8 @@ msgstr ""
 #~ msgid "_Text"
 #~ msgstr "_Texto"
 
-#~ msgid "Search..."
-#~ msgstr "Buscar..."
+#~ msgid "Search…"
+#~ msgstr "Buscar…"
 
 #~ msgid "_Go"
 #~ msgstr "_Ir"
@@ -5841,8 +5841,8 @@ msgstr ""
 #~ msgid "Unknown Similarity"
 #~ msgstr "Similaridade descoñecida"
 
-#~ msgid "_Add Station..."
-#~ msgstr "_Engadir emisora..."
+#~ msgid "_Add Station…"
+#~ msgstr "_Engadir emisora…"
 
 #~ msgid "Add a new Last.fm radio station"
 #~ msgstr "Engadir unha nova emisora de radio de Last.fm"
@@ -6068,8 +6068,8 @@ msgstr ""
 #~ msgid "Import playlists"
 #~ msgstr "Importar listas de reprodución"
 
-#~ msgid "Locate your \"{0}\" file..."
-#~ msgstr "Localice o seu ficheiro \"{0}\"..."
+#~ msgid "Locate your \"{0}\" file…"
+#~ msgstr "Localice o seu ficheiro \"{0}\"…"
 
 #~ msgid "Locate \"{0}\""
 #~ msgstr "Localice \"{0}\""
@@ -6241,8 +6241,8 @@ msgstr ""
 #~ msgid "Check all podcasts for new episodes"
 #~ msgstr "Comprobar en todos os podcasts se hai novos capítulos"
 
-#~ msgid "Add Podcast..."
-#~ msgstr "Engadir podcast..."
+#~ msgid "Add Podcast…"
+#~ msgstr "Engadir podcast…"
 
 #~ msgid "Subscribe to a new podcast"
 #~ msgstr "Subscribirse a un podcast novo"
@@ -6393,10 +6393,10 @@ msgstr ""
 #~ msgid "Uploaded by"
 #~ msgstr "Subido por"
 
-#~ msgid "Play in Banshee..."
+#~ msgid "Play in Banshee…"
 #~ msgstr "Reproducir en Banshee…"
 
-#~ msgid "Play in Web Browser..."
+#~ msgid "Play in Web Browser…"
 #~ msgstr "Reproducir no navegador web…"
 
 #~ msgid "No videos found"
@@ -6700,8 +6700,8 @@ msgstr ""
 #~ msgid "Refresh All Podcasts"
 #~ msgstr "Actualizar todos os podcasts"
 
-#~ msgid "Subscribe to Podcast..."
-#~ msgstr "Subscribirse a un podcast..."
+#~ msgid "Subscribe to Podcast…"
+#~ msgstr "Subscribirse a un podcast…"
 
 #~ msgid "Subscribe to Podcast"
 #~ msgstr "Subscribirse a un podcast"
@@ -6764,8 +6764,8 @@ msgstr ""
 #~ msgid "Eject {0}"
 #~ msgstr "Expulsar {0}"
 
-#~ msgid "_Configure..."
-#~ msgstr "_Configurar..."
+#~ msgid "_Configure…"
+#~ msgstr "_Configurar…"
 
 #~ msgid "Edit Last.fm Settings"
 #~ msgstr "Editar a configuración de Last.fm"

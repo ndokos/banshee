@@ -125,7 +125,7 @@ namespace Daap {
 
         private void OnServiceAdded (object o, ServiceBrowseEventArgs args) {
             args.Service.Resolved += OnServiceResolved;
-            Log.DebugFormat ("Found DAAP share {0}, trying to resolve...", args.Service.Name);
+            Log.DebugFormat ("Found DAAP share {0}, trying to resolve…", args.Service.Name);
             args.Service.Resolve ();
         }
 

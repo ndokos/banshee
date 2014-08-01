@@ -75,7 +75,7 @@ namespace Banshee.Podcasting.Gui
                 ),
                 new ActionEntry (
                     "PodcastAddAction", Stock.Add,
-                     Catalog.GetString ("Add Podcast..."),"<control><shift>F",
+                     Catalog.GetString ("Add Podcast…"),"<control><shift>F",
                      Catalog.GetString ("Subscribe to a new podcast"),
                      OnPodcastAdd
                 )

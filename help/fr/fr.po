@@ -2067,7 +2067,7 @@ msgid ""
 "to choose from."
 msgstr ""
 "Il y a des podcasts sur pratiquement tous les thèmes : musiques, films, "
-"Linux... Allez sur internet avec votre moteur de recherche favori et "
+"Linux… Allez sur internet avec votre moteur de recherche favori et "
 "saisissez par exemple ces mots-clés « film podcast » et vous pourrez vous "
 "faire une idée du choix disponible."
 

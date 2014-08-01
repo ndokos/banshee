@@ -761,8 +761,8 @@ msgid "Could not construct pipeline"
 msgstr "No s'ha pogut crear el conducte"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Enregistra un CD..."
+msgid "Write CD…"
+msgstr "Enregistra un CD…"
 
 #
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1552,13 +1552,13 @@ msgstr "S'estan cercant elements multimèdia"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1419
-msgid "Scanning..."
-msgstr "S'està escanejant..."
+msgid "Scanning…"
+msgstr "S'està escanejant…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "S'està escanejant ({0} fitxers)..."
+msgid "Scanning ({0} files)…"
+msgstr "S'està escanejant ({0} fitxers)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2947,8 +2947,8 @@ msgid "External Document"
 msgstr "Document extern"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Selecciona cobertes noves..."
+msgid "Choose New Cover Art…"
+msgstr "Selecciona cobertes noves…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2996,13 +2996,13 @@ msgid "Hide context pane"
 msgstr "Amaga la subfinestra de context"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "S'està esperant que s'iniciï la reproducció..."
+msgid "Waiting for playback to begin…"
+msgstr "S'està esperant que s'iniciï la reproducció…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:152
-msgid "Loading..."
-msgstr "S'està carregant..."
+msgid "Loading…"
+msgstr "S'està carregant…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3154,8 +3154,8 @@ msgid "Open Location"
 msgstr "Obre una ubicació"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Navega..."
+msgid "Browse…"
+msgstr "Navega…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3170,16 +3170,16 @@ msgid "_Media"
 msgstr "E_lements multimèdia"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Importa e_lements multimèdia..."
+msgid "Import _Media…"
+msgstr "Importa e_lements multimèdia…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Importa elements multimèdia des de diverses fonts"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Imp_orta una llista de reproducció..."
+msgid "Import _Playlist…"
+msgstr "Imp_orta una llista de reproducció…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -3194,8 +3194,8 @@ msgid "Rescan the Music Library folder"
 msgstr "Torna a escanejar la carpeta de la biblioteca de música"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Obre una _ubicació..."
+msgid "Open _Location…"
+msgstr "Obre una _ubicació…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3303,8 +3303,8 @@ msgid "Play the previous item"
 msgstr "Reprodueix l'element anterior"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "_Vés a la posició..."
+msgid "Seek _To…"
+msgstr "_Vés a la posició…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3386,8 +3386,8 @@ msgid "Subtitle"
 msgstr "Subtítol"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Carrega el fitxer..."
+msgid "Load File…"
+msgstr "Carrega el fitxer…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3428,8 +3428,8 @@ msgid "Create a new empty playlist"
 msgstr "Crea una llista de reproducció buida"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "Llista de reproducció intel·ligent no_va..."
+msgid "New _Smart Playlist…"
+msgstr "Llista de reproducció intel·ligent no_va…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3452,8 +3452,8 @@ msgstr "Canvia el nom"
 
 #
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Exporta la llista de reproducció..."
+msgid "Export Playlist…"
+msgstr "Exporta la llista de reproducció…"
 
 #
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
@@ -4170,8 +4170,8 @@ msgstr "Continua amb «{0}»"
 
 #
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "S'està aturant..."
+msgid "Stopping…"
+msgstr "S'està aturant…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4190,8 +4190,8 @@ msgid "Files"
 msgstr "Fitxers"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "Escolliu els _fitxers..."
+msgid "C_hoose Files…"
+msgstr "Escolliu els _fitxers…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4206,8 +4206,8 @@ msgid "Folders"
 msgstr "Carpetes"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Es_colliu les carpetes..."
+msgid "C_hoose Folders…"
+msgstr "Es_colliu les carpetes…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4275,7 +4275,7 @@ msgid "Reset location to default ({0})"
 msgstr "Reinicia a la ubicació per defecte ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4401,8 +4401,8 @@ msgstr "El certificat de seguretat per {0} no és vàlid."
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "S'està carregant {0}..."
+msgid "Loading {0}…"
+msgstr "S'està carregant {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4426,8 +4426,8 @@ msgstr "En espera"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "S'està contactant..."
+msgid "Contacting…"
+msgstr "S'està contactant…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:162
 msgid "Buffering"
@@ -4478,8 +4478,8 @@ msgid "Syncing iPod"
 msgstr "S'està sincronitzant l'iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:572
-msgid "Preparing to synchronize..."
-msgstr "S'està preparant la sincronització..."
+msgid "Preparing to synchronize…"
+msgstr "S'està preparant la sincronització…"
 
 # csharp-format
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:575
@@ -4664,8 +4664,8 @@ msgstr "Desconnecta"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "S'està desconnectant {0}..."
+msgid "Disconnecting {0}…"
+msgstr "S'està desconnectant {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4816,8 +4816,8 @@ msgid "Open Book"
 msgstr "Obre el llibre"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Fusiona els discs..."
+msgid "Merge Discs…"
+msgstr "Fusiona els discs…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -5085,8 +5085,8 @@ msgstr "S'estan baixant les cançons d'eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "S'està inicialitzant..."
+msgid "Initializing…"
+msgstr "S'està inicialitzant…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -5107,8 +5107,8 @@ msgstr "S'estan cancel·lant les baixades"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "S'està esperant la finalització de les baixades..."
+msgid "Waiting for downloads to terminate…"
+msgstr "S'està esperant la finalització de les baixades…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5188,8 +5188,8 @@ msgstr ""
 "desmarqueu-lo perquè no es realitzi cap acció."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Repara les metadades de la música..."
+msgid "Fix Music Metadata…"
+msgstr "Repara les metadades de la música…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5433,8 +5433,8 @@ msgstr "_Text"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Cerca..."
+msgid "Search…"
+msgstr "Cerca…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5907,13 +5907,13 @@ msgid "Scrobbling from device"
 msgstr "«Scrobbling» des del dispositiu"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:403
-msgid "Scrobbling from device..."
-msgstr "«Scrobbling» des del dispositiu..."
+msgid "Scrobbling from device…"
+msgstr "«Scrobbling» des del dispositiu…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:414
 #, csharp-format
-msgid "Processing track {0} of {1} ..."
-msgstr "S'està processant{0} de {1} ..."
+msgid "Processing track {0} of {1} …"
+msgstr "S'està processant{0} de {1} …"
 
 #
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
@@ -6112,8 +6112,8 @@ msgid "Unknown Similarity"
 msgstr "Semblança desconeguda"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Afegeix una emissora..."
+msgid "_Add Station…"
+msgstr "_Afegeix una emissora…"
 
 #
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6547,8 +6547,8 @@ msgid "Duplicate this audio CD"
 msgstr "Duplica aquest CD d'àudio"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "S'està cercant la informació de la cançó..."
+msgid "Searching for track information…"
+msgstr "S'està cercant la informació de la cançó…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6586,8 +6586,8 @@ msgstr "Importa {0}"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "S'està expulsant {0}..."
+msgid "Ejecting {0}…"
+msgstr "S'està expulsant {0}…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6644,8 +6644,8 @@ msgstr "Importa llistes de reproducció"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Troba el fitxer «{0}»..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Troba el fitxer «{0}»…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6901,8 +6901,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Comprova si hi ha episodis nous a tots els podcasts"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Afegeix el podcast..."
+msgid "Add Podcast…"
+msgstr "Afegeix el podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -7130,13 +7130,13 @@ msgstr "Pujat per:"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Reprodueix al Banshee..."
+msgid "Play in Banshee…"
+msgstr "Reprodueix al Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Reprodueix al navegador web..."
+msgid "Play in Web Browser…"
+msgstr "Reprodueix al navegador web…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7558,17 +7558,17 @@ msgstr "Podcast desconegut"
 #~ msgid "Rebuilding Database"
 #~ msgstr "S'està reconstruint la base de dades"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "S'està escanejant l'iPod..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "S'està escanejant l'iPod…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "S'estan processant les cançons..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "S'estan processant les cançons…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "S'estan ordenant les cançons..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "S'estan ordenant les cançons…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "S'està desant la base de dades nova..."
+#~ msgid "Saving new database…"
+#~ msgstr "S'està desant la base de dades nova…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "S'ha produït un error en reconstruir la base de dades de l'iPod"
@@ -7591,11 +7591,11 @@ msgstr "Podcast desconegut"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Suprimiu manualment algunes cançons"
 
-#~ msgid "Updating..."
-#~ msgstr "S'està actualitzant..."
+#~ msgid "Updating…"
+#~ msgstr "S'està actualitzant…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "S'està buidant al disc..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "S'està buidant al disc…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "No s'ha pogut llegir l'iPod"
@@ -7639,8 +7639,8 @@ msgstr "Podcast desconegut"
 #~ "L'iPod està muntat en mode només de lectura. El Banshee no pot restaurar "
 #~ "l'iPod."
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "S'està reconstruint la base de dades de l'iPod..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "S'està reconstruint la base de dades de l'iPod…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "Confirmeu la reconstrucció de la base de dades de l'iPod"
@@ -7659,8 +7659,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Rebuild Database"
 #~ msgstr "Reconstrueix la base de dades"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "S'està reconstruint la base de dades de l'iPod..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "S'està reconstruint la base de dades de l'iPod…"
 
 #~ msgid ""
 #~ "There was an error intializing MTP device support.  See http://www."
@@ -7670,8 +7670,8 @@ msgstr "Podcast desconegut"
 #~ "MTP. Vegeu http://www.banshee-project.org/Guide/DAPs/MTP per a més "
 #~ "informació."
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "S'està expulsant el CD d'àudio..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "S'està expulsant el CD d'àudio…"
 
 #~ msgid "Could not eject audio CD: {0}"
 #~ msgstr "No s'ha pogut expulsar el CD d'àudio: {0}"
@@ -7854,8 +7854,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Audiobooks, etc"
 #~ msgstr "Audiollibres, etc"
 
-#~ msgid "Searching for CD metadata..."
-#~ msgstr "S'estan cercant les metadades del CD..."
+#~ msgid "Searching for CD metadata…"
+#~ msgstr "S'estan cercant les metadades del CD…"
 
 #~ msgid "Could not fetch metadata for CD."
 #~ msgstr "No s'ha pogut obtenir les metadades per al CD."
@@ -7903,8 +7903,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Refresh All Podcasts"
 #~ msgstr "Actualitza tots els podcasts"
 
-#~ msgid "Subscribe to Podcast..."
-#~ msgstr "Subscriviu-vos al podcast..."
+#~ msgid "Subscribe to Podcast…"
+#~ msgstr "Subscriviu-vos al podcast…"
 
 #~ msgid "Save your position in tracks so you can resume playback later."
 #~ msgstr ""
@@ -7925,8 +7925,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Authorized!"
 #~ msgstr "S'ha autoritzat"
 
-#~ msgid "Authorize..."
-#~ msgstr "Autoritza..."
+#~ msgid "Authorize…"
+#~ msgstr "Autoritza…"
 
 #~ msgid "Check if Banshee has been authorized"
 #~ msgstr "Comprova si el Banshee ha estat autoritzat"
@@ -8051,8 +8051,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Eject {0}"
 #~ msgstr "Expulsa {0}"
 
-#~ msgid "_Configure..."
-#~ msgstr "_Configura..."
+#~ msgid "_Configure…"
+#~ msgstr "_Configura…"
 
 #
 #~ msgid "Configure the Last.fm Extension"
@@ -8087,8 +8087,8 @@ msgstr "Podcast desconegut"
 #~ msgstr "Carpeta de la biblioteca de música"
 
 #
-#~ msgid "Preparing..."
-#~ msgstr "S'està preparant..."
+#~ msgid "Preparing…"
+#~ msgstr "S'està preparant…"
 
 #
 #~ msgid "Show Recommendations"
@@ -8329,7 +8329,7 @@ msgstr "Podcast desconegut"
 #~ msgid "Disk Usage:"
 #~ msgstr "Ús del disc:"
 
-# N.T.: Usem minúscula a l'inici ja que s'uneix a la frase "Filtra per..."
+# N.T.: Usem minúscula a l'inici ja que s'uneix a la frase "Filtra per…"
 #~ msgid "Song Name"
 #~ msgstr "nom de la cançó"
 
@@ -8580,14 +8580,14 @@ msgstr "Podcast desconegut"
 #~ "Format no lliure i estàndard que és superior a l'MP3, però no tan popular."
 
 #
-#~ msgid "Import _Folder..."
-#~ msgstr "Importa la _carpeta..."
+#~ msgid "Import _Folder…"
+#~ msgstr "Importa la _carpeta…"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "Importa els continguts de la carpeta sencera"
 
-#~ msgid "Import Files..."
-#~ msgstr "Importa els fitxers..."
+#~ msgid "Import Files…"
+#~ msgstr "Importa els fitxers…"
 
 #~ msgid "Import files inside a folder"
 #~ msgstr "Importa els fitxers dins d'una carpeta"
@@ -8614,19 +8614,19 @@ msgstr "Podcast desconegut"
 #~ msgstr "Configura els connectors del Banshee"
 
 #
-#~ msgid "_Columns..."
-#~ msgstr "C_olumnes..."
+#~ msgid "_Columns…"
+#~ msgstr "C_olumnes…"
 
 #~ msgid "Select which columns to display in the song list"
 #~ msgstr "Seleccioneu quines columnes s'han de mostrar a la llista de cançons"
 
 #
-#~ msgid "_Boo Buddy..."
-#~ msgstr "_Boo Buddy..."
+#~ msgid "_Boo Buddy…"
+#~ msgstr "_Boo Buddy…"
 
 #
-#~ msgid "_Logged Events Viewer..."
-#~ msgstr "_Visualitzador dels esdeveniments enregistrats..."
+#~ msgid "_Logged Events Viewer…"
+#~ msgstr "_Visualitzador dels esdeveniments enregistrats…"
 
 #~ msgid "View a detailed log of events"
 #~ msgstr "Visualitza un registre detallat dels esdeveniments"
@@ -8874,11 +8874,11 @@ msgstr "Podcast desconegut"
 #~ msgid "between"
 #~ msgstr "entre"
 
-#~ msgid "New Smart Playlist _from Search..."
-#~ msgstr "Nova ll_ista de reproducció intel·ligent a partir de la cerca..."
+#~ msgid "New Smart Playlist _from Search…"
+#~ msgstr "Nova ll_ista de reproducció intel·ligent a partir de la cerca…"
 
-#~ msgid "Edit Smart Playlist..."
-#~ msgstr "Edita la llista de reproducció intel·ligent..."
+#~ msgid "Edit Smart Playlist…"
+#~ msgstr "Edita la llista de reproducció intel·ligent…"
 
 #~ msgid "Smart Playlist has Dependencies"
 #~ msgstr "La llista de reproducció intel·ligent té dependències"
@@ -8891,14 +8891,14 @@ msgstr "Podcast desconegut"
 #~ "voleu esborrar-la així com totes les llistes de reproducció intel·ligents "
 #~ "depenents?"
 
-#~ msgid "Initializing Transcoder..."
-#~ msgstr "S'està inicialitzant el codificador..."
+#~ msgid "Initializing Transcoder…"
+#~ msgstr "S'està inicialitzant el codificador…"
 
 #~ msgid "Could not initialize component"
 #~ msgstr "No s'ha pogut inicialitzar el component"
 
-#~ msgid "Waiting for transcoder..."
-#~ msgstr "S'està esperant el codificador..."
+#~ msgid "Waiting for transcoder…"
+#~ msgstr "S'està esperant el codificador…"
 
 #~ msgid "Could not encode some files"
 #~ msgstr "No s'han pogut codificar alguns fitxers"
@@ -9005,8 +9005,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Playing Music"
 #~ msgstr "S'està reproduint música"
 
-#~ msgid "Reading table of contents from CD..."
-#~ msgstr "S'està llegint la taula de continguts del CD..."
+#~ msgid "Reading table of contents from CD…"
+#~ msgstr "S'està llegint la taula de continguts del CD…"
 
 #~ msgid ""
 #~ "Cannot search for CD metadata: there is no available Internet connection"
@@ -9022,8 +9022,8 @@ msgstr "Podcast desconegut"
 #~ msgid "You must select at least one track to import."
 #~ msgstr "Heu de seleccionar almenys una pista a importar."
 
-#~ msgid "Synchronizing your Device, Please Wait..."
-#~ msgstr "S'està sincronitzant el dispositiu, si us plau espereu..."
+#~ msgid "Synchronizing your Device, Please Wait…"
+#~ msgstr "S'està sincronitzant el dispositiu, si us plau espereu…"
 
 #~ msgid "You are currently importing from {0}. Would you like to stop it?"
 #~ msgstr "Esteu important des de {0}. Voleu aturar-ho?"
@@ -9251,8 +9251,8 @@ msgstr "Podcast desconegut"
 #~ msgid "N/A"
 #~ msgstr "N/D"
 
-#~ msgid "Columns..."
-#~ msgstr "Columnes..."
+#~ msgid "Columns…"
+#~ msgstr "Columnes…"
 
 #~ msgid "Import CD into library"
 #~ msgstr "Importa el CD a la biblioteca"
@@ -10293,8 +10293,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Enter new name for your device"
 #~ msgstr "Introduïu el nou nom per dispositiu"
 
-#~ msgid "Loading Drive List..."
-#~ msgstr "S'està carregant la llista d'unitats..."
+#~ msgid "Loading Drive List…"
+#~ msgstr "S'està carregant la llista d'unitats…"
 
 #~ msgid "No CD Burners Detected"
 #~ msgstr "No s'ha detectat cap enregistrador de CD"
@@ -10310,12 +10310,12 @@ msgstr "Podcast desconegut"
 #~ msgstr "Reanomena la font activa"
 
 #
-#~ msgid "Preferences..."
-#~ msgstr "Preferències..."
+#~ msgid "Preferences…"
+#~ msgstr "Preferències…"
 
 #
-#~ msgid "About..."
-#~ msgstr "Quant a..."
+#~ msgid "About…"
+#~ msgstr "Quant a…"
 
 #~ msgid "View Banshee credits and license information"
 #~ msgstr "Visualitza els crèdits i la informació de la llicència del Banshee"
@@ -10350,8 +10350,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Banshee CD Burner"
 #~ msgstr "Enregistrador de CD del Banshee"
 
-#~ msgid "Burning CD..."
-#~ msgstr "Enregistrant CD..."
+#~ msgid "Burning CD…"
+#~ msgstr "Enregistrant CD…"
 
 #~ msgid "Cancel CD Burn?"
 #~ msgstr "Voleu cancel·lar l'enregistrament del CD-ROM?"
@@ -10362,8 +10362,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Data Loss Warning"
 #~ msgstr "Avís de pèrdua de dades"
 
-#~ msgid "Encoding {0} - {1} ..."
-#~ msgstr "S'està codificant {0} - {1} ..."
+#~ msgid "Encoding {0} - {1} …"
+#~ msgstr "S'està codificant {0} - {1} …"
 
 #~ msgid "iPod Name"
 #~ msgstr "Nom de l'iPod"
@@ -10374,8 +10374,8 @@ msgstr "Podcast desconegut"
 #~ msgid "Mount Point"
 #~ msgstr "Punt de muntatge"
 
-#~ msgid "Loading {0} - {1} ..."
-#~ msgstr "S'està carregant {0} - {1} ..."
+#~ msgid "Loading {0} - {1} …"
+#~ msgstr "S'està carregant {0} - {1} …"
 
 #~ msgid "Play / Pause"
 #~ msgstr "Reprodueix / Pausa"

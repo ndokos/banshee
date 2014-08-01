@@ -103,7 +103,7 @@ namespace Banshee.RemoteAudio
 
         private void OnServiceAdded (object o, ServiceBrowseEventArgs args)
         {
-            Log.Debug ("Found RAOP service...");
+            Log.Debug ("Found RAOP service…");
             args.Service.Resolved += OnServiceResolved;
             args.Service.Resolve ();
         }

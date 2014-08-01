@@ -692,8 +692,8 @@ msgstr ""
 "Φιλμ;Σειρά;Μέσα;Αναπαραγωγή;Δίσκος;Πολυμέσα;Συλλογή;Μουσική;Ραδιόφωνο;"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Εγγραφή CD..."
+msgid "Write CD…"
+msgstr "Εγγραφή CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1549,13 +1549,13 @@ msgstr "Σάρωση για μέσα"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
-msgstr "Σάρωση..."
+msgid "Scanning…"
+msgstr "Σάρωση…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Σάρωση ({0} αρχείων)..."
+msgid "Scanning ({0} files)…"
+msgstr "Σάρωση ({0} αρχείων)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2891,8 +2891,8 @@ msgid "External Document"
 msgstr "Εξωτερικό έγγραφο"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Επιλέξτε νέο εξώφυλλο..."
+msgid "Choose New Cover Art…"
+msgstr "Επιλέξτε νέο εξώφυλλο…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2939,13 +2939,13 @@ msgid "Hide context pane"
 msgstr "Απόκρυψη πλαισίου περιεχομένου"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
-msgstr "Αναμονή για έναρξη της αναπαραγωγής..."
+msgid "Waiting for playback to begin…"
+msgstr "Αναμονή για έναρξη της αναπαραγωγής…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
-msgstr "Φόρτωση..."
+msgid "Loading…"
+msgstr "Φόρτωση…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3095,8 +3095,8 @@ msgid "Open Location"
 msgstr "Άνοιγμα τοποθεσίας"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Περιήγηση..."
+msgid "Browse…"
+msgstr "Περιήγηση…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3111,24 +3111,24 @@ msgid "_Media"
 msgstr "_Πολυμέσα"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Εισαγωγή _πολυμέσων..."
+msgid "Import _Media…"
+msgstr "Εισαγωγή _πολυμέσων…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Εισαγωγή μέσων από διάφορες πηγές"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Εισαγωγή _λίστας αναπαραγωγής..."
+msgid "Import _Playlist…"
+msgstr "Εισαγωγή _λίστας αναπαραγωγής…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "Εισαγωγή μιας λίστας αναπαραγωγής"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "Άνοιγμα _τοποθεσίας..."
+msgid "Open _Location…"
+msgstr "Άνοιγμα _τοποθεσίας…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 msgid "Open a remote location for playback"
@@ -3253,8 +3253,8 @@ msgid "Play the previous item"
 msgstr "Αναπαραγωγή του προηγούμενου αντικειμένου"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Μετάβαση _στο..."
+msgid "Seek _To…"
+msgstr "Μετάβαση _στο…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3336,8 +3336,8 @@ msgid "Subtitle"
 msgstr "Υπότιτλος"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Φόρτωση αρχείου..."
+msgid "Load File…"
+msgstr "Φόρτωση αρχείου…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3378,8 +3378,8 @@ msgid "Create a new empty playlist"
 msgstr "Δημιουργία νέας κενής λίστας αναπαραγωγής"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:71
-msgid "New _Smart Playlist..."
-msgstr "Νέα έ_ξυπνη λίστα αναπαραγωγής..."
+msgid "New _Smart Playlist…"
+msgstr "Νέα έ_ξυπνη λίστα αναπαραγωγής…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:72
 msgid "Create a new smart playlist"
@@ -3398,8 +3398,8 @@ msgid "Rename"
 msgstr "Μετονομασία"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:89
-msgid "Export Playlist..."
-msgstr "Εξαγωγή λίστας αναπαραγωγής..."
+msgid "Export Playlist…"
+msgstr "Εξαγωγή λίστας αναπαραγωγής…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:90
 msgid "Export a playlist"
@@ -3638,7 +3638,7 @@ msgstr "Ταίριασμα _καλλιτέχνη"
 msgid "Search all songs of this artist"
 msgstr "Αναζήτηση όλων των τραγουδιών αυτού του καλλιτέχνη"
 
-#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track..."
+#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track…"
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:305
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:306
 #| msgid "_Edit Track Information"
@@ -4178,8 +4178,8 @@ msgid "Continue {0}"
 msgstr "Συνέχεια {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
-msgstr "Γίνεται διακοπή..."
+msgid "Stopping…"
+msgstr "Γίνεται διακοπή…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4198,8 +4198,8 @@ msgid "Files"
 msgstr "Αρχεία"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "Ε_πιλογή αρχείων..."
+msgid "C_hoose Files…"
+msgstr "Ε_πιλογή αρχείων…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4214,8 +4214,8 @@ msgid "Folders"
 msgstr "Φάκελοι"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Ε_πιλογή φακέλων..."
+msgid "C_hoose Folders…"
+msgstr "Ε_πιλογή φακέλων…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4281,7 +4281,7 @@ msgid "Reset location to default ({0})"
 msgstr "Επαναφορά τοποθεσίας στην προεπιλεγμένη ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4408,8 +4408,8 @@ msgstr "Το πιστοποιητικό ασφάλειας για το {0} εί�
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "Φόρτωση {0}..."
+msgid "Loading {0}…"
+msgstr "Φόρτωση {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
 msgid ""
@@ -4429,8 +4429,8 @@ msgstr "Αδρανής"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Επικοινωνία..."
+msgid "Contacting…"
+msgstr "Επικοινωνία…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
 msgid "Buffering"
@@ -4481,8 +4481,8 @@ msgid "Syncing iPod"
 msgstr "Συγχρονισμός του iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
-msgstr "Προετοιμασία για συγχρονισμό..."
+msgid "Preparing to synchronize…"
+msgstr "Προετοιμασία για συγχρονισμό…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
 #, csharp-format
@@ -4670,8 +4670,8 @@ msgstr "Αποσύνδεση"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Αποσύνδεση {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Αποσύνδεση {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
 #, csharp-format
@@ -4821,8 +4821,8 @@ msgid "Open Book"
 msgstr "Άνοιγμα βιβλίου"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Συγχώνευση δίσκων..."
+msgid "Merge Discs…"
+msgstr "Συγχώνευση δίσκων…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -5092,8 +5092,8 @@ msgstr "Λήψη κομματιών eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Αρχικοποίηση..."
+msgid "Initializing…"
+msgstr "Αρχικοποίηση…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -5114,8 +5114,8 @@ msgstr "Ακύρωση λήψεων"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "Αναμονή για τερματισμό λήψεων..."
+msgid "Waiting for downloads to terminate…"
+msgstr "Αναμονή για τερματισμό λήψεων…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5193,8 +5193,8 @@ msgstr ""
 "το για να μη γίνει καμία ενέργεια."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Διόρθωση μεταδεδομένων μουσικής..."
+msgid "Fix Music Metadata…"
+msgstr "Διόρθωση μεταδεδομένων μουσικής…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5444,8 +5444,8 @@ msgstr "_Κείμενο"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Αναζήτηση..."
+msgid "Search…"
+msgstr "Αναζήτηση…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5878,7 +5878,7 @@ msgstr "Βαθμολογία:"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:84
 #, csharp-format
-#| msgid "Processing track {0} of {1} ..."
+#| msgid "Processing track {0} of {1} …"
 msgid "Processed {0} of {1} tracks"
 msgstr "Επεξεργασμένα {0} από {1} κομμάτια"
 
@@ -5923,9 +5923,9 @@ msgid "Scrobbling to Last.FM"
 msgstr "Συνδεθείτε στο Last.fm"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-#| msgid "Scrobbling from device..."
-msgid "Scrobbling to Last.FM..."
-msgstr "Γίνεται σύνδεση στο Last.FM..."
+#| msgid "Scrobbling from device…"
+msgid "Scrobbling to Last.FM…"
+msgstr "Γίνεται σύνδεση στο Last.FM…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -6114,8 +6114,8 @@ msgid "Unknown Similarity"
 msgstr "Άγνωστη ομοιότητα"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Προσθήκη σταθμού..."
+msgid "_Add Station…"
+msgstr "_Προσθήκη σταθμού…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6528,8 +6528,8 @@ msgid "Duplicate this audio CD"
 msgstr "Δημιουργία αντιγράφου αυτού του CD ήχου"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "Αναζήτηση για πληροφορίες κομματιού..."
+msgid "Searching for track information…"
+msgstr "Αναζήτηση για πληροφορίες κομματιού…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6566,8 +6566,8 @@ msgstr "Εισαγωγή ‟{0}”"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "Αποβολή {0}..."
+msgid "Ejecting {0}…"
+msgstr "Αποβολή {0}…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6623,8 +6623,8 @@ msgstr "Εισαγωγή λιστών αναπαραγωγής"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Εντοπισμός του \"{0}\" αρχείου σας..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Εντοπισμός του \"{0}\" αρχείου σας…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6874,8 +6874,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Έλεγχος όλων των podcasts για νέα επεισόδια"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Προσθήκη φορητής εκπομπής (Podcast)..."
+msgid "Add Podcast…"
+msgstr "Προσθήκη φορητής εκπομπής (Podcast)…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -7105,13 +7105,13 @@ msgstr "Αποστολή από"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Αναπαραγωγή στο Banshee..."
+msgid "Play in Banshee…"
+msgstr "Αναπαραγωγή στο Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Αναπαραγωγή στον περιηγητή ιστού..."
+msgid "Play in Web Browser…"
+msgstr "Αναπαραγωγή στον περιηγητή ιστού…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"

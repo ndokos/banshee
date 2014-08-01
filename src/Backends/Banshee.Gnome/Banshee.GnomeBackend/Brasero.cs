@@ -62,7 +62,7 @@ namespace Banshee.GnomeBackend
             InterfaceActionService uia_service = ServiceManager.Get<InterfaceActionService> ();
             uia_service.TrackActions.Add (new ActionEntry [] {
                 new ActionEntry ("BurnDiscAction", null,
-                    Catalog.GetString ("Write CD..."), null,
+                    Catalog.GetString ("Write CD…"), null,
                     Catalog.GetString ("Write selected tracks to an audio CD"),
                     OnBurnDisc)
             });

@@ -179,7 +179,7 @@ namespace Banshee.Playlists.Formats
                 } catch (WebException e) {
                     if (e.Status == WebExceptionStatus.Timeout && nb_retries > 0) {
                         nb_retries--;
-                        Log.InformationFormat ("Playlist download from {0} timed out, retrying in 1 second...", uri.AbsoluteUri);
+                        Log.InformationFormat ("Playlist download from {0} timed out, retrying in 1 second…", uri.AbsoluteUri);
                         System.Threading.Thread.Sleep (1000);
                     } else {
                         throw;

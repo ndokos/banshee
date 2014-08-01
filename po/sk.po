@@ -841,8 +841,8 @@ msgstr ""
 
 # ActionEntry
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Zapísať na CD..."
+msgid "Write CD…"
+msgstr "Zapísať na CD…"
 
 # ActionEntry tooltip
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1677,13 +1677,13 @@ msgstr ""
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1419
-msgid "Scanning..."
-msgstr "Prehľadáva sa..."
+msgid "Scanning…"
+msgstr "Prehľadáva sa…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Prehľadáva sa ({0} súborov)..."
+msgid "Scanning ({0} files)…"
+msgstr "Prehľadáva sa ({0} súborov)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2926,7 +2926,7 @@ msgstr[0] "{0} položiek"
 msgstr[1] "{0} položka"
 msgstr[2] "{0} položky"
 
-#  je to nadpis pre kategoriu, kam patria internetove obchody, archivy, ...
+#  je to nadpis pre kategoriu, kam patria internetove obchody, archivy, …
 #. TODO should add library sources here, but requires changing quite a few
 #. things that depend on being loaded before the music library is added.
 #. AddSource (music_library = new MusicLibrarySource (), true);
@@ -3032,8 +3032,8 @@ msgid "External Document"
 msgstr "Externý dokument"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Zvoliť nový obal..."
+msgid "Choose New Cover Art…"
+msgstr "Zvoliť nový obal…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -3084,12 +3084,12 @@ msgid "Hide context pane"
 msgstr "Skryť kontextový panel"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "Čaká sa kým začne prehrávanie..."
+msgid "Waiting for playback to begin…"
+msgstr "Čaká sa kým začne prehrávanie…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "Načítava sa..."
+msgid "Loading…"
+msgstr "Načítava sa…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3236,8 +3236,8 @@ msgid "Open Location"
 msgstr "Otvoriť umiestnenie"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Prehliadať..."
+msgid "Browse…"
+msgstr "Prehliadať…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3253,16 +3253,16 @@ msgid "_Media"
 msgstr "_Multimédiá"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Importovať _multimédiá..."
+msgid "Import _Media…"
+msgstr "Importovať _multimédiá…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Importovať z_oznam skladieb..."
+msgid "Import _Playlist…"
+msgstr "Importovať z_oznam skladieb…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -3277,8 +3277,8 @@ msgid "Rescan the Music Library folder"
 msgstr "Znovu prehľadať priečinok s hudobnou knižnicou"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Otvoriť _umiestnenie..."
+msgid "Open _Location…"
+msgstr "Otvoriť _umiestnenie…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3380,8 +3380,8 @@ msgid "Play the previous item"
 msgstr "Prehrať predchádzajúcu položku"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Posun _na..."
+msgid "Seek _To…"
+msgstr "Posun _na…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3461,8 +3461,8 @@ msgid "Subtitle"
 msgstr "Titulky"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Načítať súbor..."
+msgid "Load File…"
+msgstr "Načítať súbor…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3503,8 +3503,8 @@ msgid "Create a new empty playlist"
 msgstr "Vytvoriť nový prázdny zoznam skladieb"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "Nový _chytrý zoznam skladieb..."
+msgid "New _Smart Playlist…"
+msgstr "Nový _chytrý zoznam skladieb…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3523,8 +3523,8 @@ msgid "Rename"
 msgstr "Premenovať"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Exportovať zoznam skladieb..."
+msgid "Export Playlist…"
+msgstr "Exportovať zoznam skladieb…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -4204,8 +4204,8 @@ msgid "Continue {0}"
 msgstr "Pokračovať {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "Zastavuje sa..."
+msgid "Stopping…"
+msgstr "Zastavuje sa…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4227,8 +4227,8 @@ msgid "Files"
 msgstr "Súborov"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "Z_voliť súbory..."
+msgid "C_hoose Files…"
+msgstr "Z_voliť súbory…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -4256,8 +4256,8 @@ msgid "Folders"
 msgstr "Priečinkov"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Z_voliť priečinky..."
+msgid "C_hoose Folders…"
+msgstr "Z_voliť priečinky…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -4331,7 +4331,7 @@ msgid "Reset location to default ({0})"
 msgstr "Vynulovať umiestnenie na predvolené ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4447,8 +4447,8 @@ msgstr ""
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "Načítava sa {0}..."
+msgid "Loading {0}…"
+msgstr "Načítava sa {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4475,7 +4475,7 @@ msgstr "Nečinné"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr ""
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:161
@@ -4540,8 +4540,8 @@ msgid "Syncing iPod"
 msgstr "Synchronizuje sa s iPodom"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:557
-msgid "Preparing to synchronize..."
-msgstr "Pripravuje sa na synchronizáciu..."
+msgid "Preparing to synchronize…"
+msgstr "Pripravuje sa na synchronizáciu…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:560
 #, csharp-format
@@ -4723,7 +4723,7 @@ msgstr "Odpojiť"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
@@ -4876,8 +4876,8 @@ msgid "Open Book"
 msgstr "Otvoriť knihu"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Zlúčiť disky..."
+msgid "Merge Discs…"
+msgstr "Zlúčiť disky…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:65
@@ -5142,7 +5142,7 @@ msgstr "Sťahuje sa eMusic skladba(y)"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -5165,7 +5165,7 @@ msgstr "Ruší sa sťahovanie"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5238,8 +5238,8 @@ msgid ""
 msgstr ""
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Opraviť hudobné metaúdaje..."
+msgid "Fix Music Metadata…"
+msgstr "Opraviť hudobné metaúdaje…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5475,8 +5475,8 @@ msgstr "_Text"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Hľadať..."
+msgid "Search…"
+msgstr "Hľadať…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -6108,8 +6108,8 @@ msgid "Unknown Similarity"
 msgstr "Neznáma podobnosť"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Pridať stanicu..."
+msgid "_Add Station…"
+msgstr "_Pridať stanicu…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6508,7 +6508,7 @@ msgid "Duplicate this audio CD"
 msgstr "Duplikovať toto zvukové CD"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
+msgid "Searching for track information…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
@@ -6596,7 +6596,7 @@ msgstr "Importovať zoznamy skladieb"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6847,8 +6847,8 @@ msgid "Check all podcasts for new episodes"
 msgstr ""
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Pridať podcast..."
+msgid "Add Podcast…"
+msgstr "Pridať podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -7067,13 +7067,13 @@ msgstr "Nahral používateľ"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Prehrať v Banshee..."
+msgid "Play in Banshee…"
+msgstr "Prehrať v Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Prehrať v internetovom prehliadači..."
+msgid "Play in Web Browser…"
+msgstr "Prehrať v internetovom prehliadači…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7392,8 +7392,8 @@ msgstr "Neznámy podcast"
 #~ "Zjednodušiť rozhranie \"Práve sa prehráva\" skrytím zoznamu zdrojov a "
 #~ "ostatných vecí"
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "Vysúva sa zvukové CD..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "Vysúva sa zvukové CD…"
 
 #~ msgid "iPod Support"
 #~ msgstr "Podpora iPod"
@@ -7401,14 +7401,14 @@ msgstr "Neznámy podcast"
 #~ msgid "Support for most iPod devices."
 #~ msgstr "Podpora pre väčšinu zariadení iPod."
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "Prehľadáva sa iPod..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "Prehľadáva sa iPod…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "Spracúvajú sa skladby..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "Spracúvajú sa skladby…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "Ukladá sa nová databáza..."
+#~ msgid "Saving new database…"
+#~ msgstr "Ukladá sa nová databáza…"
 
 #~ msgid "Color"
 #~ msgstr "Farba"
@@ -7419,8 +7419,8 @@ msgstr "Neznámy podcast"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Niektoré piesne odstráňte ručne, prosím"
 
-#~ msgid "Updating..."
-#~ msgstr "Aktualizuje sa..."
+#~ msgid "Updating…"
+#~ msgstr "Aktualizuje sa…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "Nepodarilo sa prečítať váš iPod"

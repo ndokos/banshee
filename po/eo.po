@@ -722,8 +722,8 @@ msgid "Could not construct pipeline"
 msgstr "Ne eblis konstrui ĉenstablon"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Skribi KD-n..."
+msgid "Write CD…"
+msgstr "Skribi KD-n…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1468,13 +1468,13 @@ msgstr "Skanas por aŭdvidaĵoj"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1419
-msgid "Scanning..."
-msgstr "Skanante..."
+msgid "Scanning…"
+msgstr "Skanante…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Skanas ({0} dosieroj)..."
+msgid "Scanning ({0} files)…"
+msgstr "Skanas ({0} dosieroj)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2797,7 +2797,7 @@ msgid "External Document"
 msgstr "Ekstera dokumento"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "Elekti novan albumbildon"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2845,13 +2845,13 @@ msgid "Hide context pane"
 msgstr "Kaŝi kuntekstpanelon"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "Atendas ĝis ekludo..."
+msgid "Waiting for playback to begin…"
+msgstr "Atendas ĝis ekludo…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:152
-msgid "Loading..."
-msgstr "Ŝargante..."
+msgid "Loading…"
+msgstr "Ŝargante…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -2999,8 +2999,8 @@ msgid "Open Location"
 msgstr "Malfermi lokon"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Foliumi..."
+msgid "Browse…"
+msgstr "Foliumi…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3015,16 +3015,16 @@ msgid "_Media"
 msgstr "_Medio"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Enporti _aŭdvidaĵojn..."
+msgid "Import _Media…"
+msgstr "Enporti _aŭdvidaĵojn…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Enporti aŭdvidaĵojn el viaj fontoj"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Enporti _ludliston..."
+msgid "Import _Playlist…"
+msgstr "Enporti _ludliston…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -3039,8 +3039,8 @@ msgid "Rescan the Music Library folder"
 msgstr "Reskani la muzikbibliotekan dosierujon"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Malfermi _lokon..."
+msgid "Open _Location…"
+msgstr "Malfermi _lokon…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3142,8 +3142,8 @@ msgid "Play the previous item"
 msgstr "Ludi la antaŭan eron"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "_Transsalti al..."
+msgid "Seek _To…"
+msgstr "_Transsalti al…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3222,12 +3222,12 @@ msgid "Subtitle"
 msgstr "Subteksto"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Ŝargi dosieron..."
+msgid "Load File…"
+msgstr "Ŝargi dosieron…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
-msgstr "Ŝargi subtekstdosieron..."
+msgstr "Ŝargi subtekstdosieron…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:79
 msgid "Load Subtitle File"
@@ -3264,8 +3264,8 @@ msgid "Create a new empty playlist"
 msgstr "Krei novan malplenan ludliston"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "Nova _lerta ludlisto..."
+msgid "New _Smart Playlist…"
+msgstr "Nova _lerta ludlisto…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3284,8 +3284,8 @@ msgid "Rename"
 msgstr "Alinomi"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Elporti ludliston..."
+msgid "Export Playlist…"
+msgstr "Elporti ludliston…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3966,8 +3966,8 @@ msgid "Continue {0}"
 msgstr "Daŭrigi {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "Haltigas..."
+msgid "Stopping…"
+msgstr "Haltigas…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3986,8 +3986,8 @@ msgid "Files"
 msgstr "Dosieroj"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "_Elekti dosierojn..."
+msgid "C_hoose Files…"
+msgstr "_Elekti dosierojn…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4002,8 +4002,8 @@ msgid "Folders"
 msgstr "Dosierujoj"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "E_lekti dosierujojn..."
+msgid "C_hoose Folders…"
+msgstr "E_lekti dosierujojn…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4069,7 +4069,7 @@ msgid "Reset location to default ({0})"
 msgstr "Reagordi lokon al normo ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4182,7 +4182,7 @@ msgstr "Montri aŭ kaŝi la foliumilon por artisto/albumo"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
+msgid "Loading {0}…"
 msgstr "Ŝargas {0}-n"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
@@ -4207,8 +4207,8 @@ msgstr "Senokupe"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:151
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Konektante..."
+msgid "Contacting…"
+msgstr "Konektante…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:162
 msgid "Buffering"
@@ -4271,8 +4271,8 @@ msgid "Syncing iPod"
 msgstr "Sinkronigas iPod-on"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:557
-msgid "Preparing to synchronize..."
-msgstr "Preparas sinkronigon..."
+msgid "Preparing to synchronize…"
+msgstr "Preparas sinkronigon…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:560
 #, csharp-format
@@ -4452,8 +4452,8 @@ msgstr "Malkonekti"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Diskonektas {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Diskonektas {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4601,8 +4601,8 @@ msgid "Open Book"
 msgstr "Malfermi libron"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Kunfandi diskojn..."
+msgid "Merge Discs…"
+msgstr "Kunfandi diskojn…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -4870,8 +4870,8 @@ msgstr "Elŝutas kanto(j)n de eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Pravalorizas..."
+msgid "Initializing…"
+msgstr "Pravalorizas…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -4892,8 +4892,8 @@ msgstr "Nuligas elŝutojn"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "Atendas la nuligojn de elŝutoj..."
+msgid "Waiting for downloads to terminate…"
+msgstr "Atendas la nuligojn de elŝutoj…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -4971,8 +4971,8 @@ msgstr ""
 "nenion."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Ripari metadatumojn de muziko..."
+msgid "Fix Music Metadata…"
+msgstr "Ripari metadatumojn de muziko…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5209,8 +5209,8 @@ msgstr "_Teksto"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Serĉi..."
+msgid "Search…"
+msgstr "Serĉi…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5844,8 +5844,8 @@ msgid "Unknown Similarity"
 msgstr "Nekonata simileco"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "_Aldoni stacion..."
+msgid "_Add Station…"
+msgstr "_Aldoni stacion…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6247,8 +6247,8 @@ msgid "Duplicate this audio CD"
 msgstr "Duobligi ĉi tiun sondiskon"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "Serĉas kantinformojn..."
+msgid "Searching for track information…"
+msgstr "Serĉas kantinformojn…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6334,8 +6334,8 @@ msgstr "Enporti ludlistojn"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Loki vian “{0}”-dosieron..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Loki vian “{0}”-dosieron…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6574,8 +6574,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Kontroli ĉiujn podkastojn por novaj epizodoj"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Aldoni podkaston..."
+msgid "Add Podcast…"
+msgstr "Aldoni podkaston…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6804,13 +6804,13 @@ msgstr "Alŝutite de"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Ludi per Banŝio..."
+msgid "Play in Banshee…"
+msgstr "Ludi per Banŝio…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Ludi per retfoliumilo..."
+msgid "Play in Web Browser…"
+msgstr "Ludi per retfoliumilo…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"

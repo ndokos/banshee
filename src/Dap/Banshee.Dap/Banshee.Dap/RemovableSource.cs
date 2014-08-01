@@ -108,7 +108,7 @@ namespace Banshee.Dap
                 }
             }
 
-            SetStatus (String.Format (Catalog.GetString ("Disconnecting {0}..."), GenericName), false);
+            SetStatus (String.Format (Catalog.GetString ("Disconnecting {0}…"), GenericName), false);
 
             ThreadPool.QueueUserWorkItem (delegate {
                 try {

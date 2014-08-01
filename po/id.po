@@ -668,8 +668,8 @@ msgstr ""
 "DAAP;Daftar Putar;Ipod;Multimedia;Koleksi;Musik;Radio;"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Tulis CD..."
+msgid "Write CD…"
+msgstr "Tulis CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1501,12 +1501,12 @@ msgstr "Memindai media"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
-msgstr "Memindai..."
+msgid "Scanning…"
+msgstr "Memindai…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "Memindai ({0} berkas)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2826,8 +2826,8 @@ msgid "External Document"
 msgstr "Dokumen Eksternal"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Pilih Gambar Sampul Baru..."
+msgid "Choose New Cover Art…"
+msgstr "Pilih Gambar Sampul Baru…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2874,12 +2874,12 @@ msgid "Hide context pane"
 msgstr "Sembunyikan panel konteks"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
-msgstr "Menunggu pemutaran dimulai..."
+msgid "Waiting for playback to begin…"
+msgstr "Menunggu pemutaran dimulai…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
+msgid "Loading…"
 msgstr "Memuat…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -3028,7 +3028,7 @@ msgid "Open Location"
 msgstr "Buka Lokasi"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "Ramban…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -3044,23 +3044,23 @@ msgid "_Media"
 msgstr "_Media"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Impor _Media..."
+msgid "Import _Media…"
+msgstr "Impor _Media…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Impor media dari berbagai sumber"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Impor Daftar _Putar..."
+msgid "Import _Playlist…"
+msgstr "Impor Daftar _Putar…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "Mengimpor suatu daftar putar"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "Buka _Lokasi…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
@@ -3181,8 +3181,8 @@ msgid "Play the previous item"
 msgstr "Putar trek sebelumnya"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Menuju _Ke..."
+msgid "Seek _To…"
+msgstr "Menuju _Ke…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3261,8 +3261,8 @@ msgid "Subtitle"
 msgstr "Subjudul"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Muat Berkas..."
+msgid "Load File…"
+msgstr "Muat Berkas…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3303,7 +3303,7 @@ msgid "Create a new empty playlist"
 msgstr "Buat daftar putar baru yang kosong"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Daftar Putar Cerda_s Baru…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
@@ -3323,8 +3323,8 @@ msgid "Rename"
 msgstr "Ubah nama"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Ekspor Daftar Putar..."
+msgid "Export Playlist…"
+msgstr "Ekspor Daftar Putar…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3503,7 +3503,7 @@ msgstr "Menurut A_rtis Yang Cocok"
 msgid "Search all songs of this artist"
 msgstr "Cari semua lagu dari artis ini"
 
-#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track..."
+#. inside the "Edit" menu it's a bit redundant to have a label that starts as "Edit Track…"
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/TrackActions.cs:231
 msgid "Track _Information"
 msgstr "_Informasi Trek"
@@ -4015,8 +4015,8 @@ msgid "Continue {0}"
 msgstr "Lanjutkan {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
-msgstr "Menghentikan..."
+msgid "Stopping…"
+msgstr "Menghentikan…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4035,8 +4035,8 @@ msgid "Files"
 msgstr "Berkas"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "Pili_h Berkas..."
+msgid "C_hoose Files…"
+msgstr "Pili_h Berkas…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4051,8 +4051,8 @@ msgid "Folders"
 msgstr "Folder"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Pili_h Folder..."
+msgid "C_hoose Folders…"
+msgstr "Pili_h Folder…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4118,7 +4118,7 @@ msgid "Reset location to default ({0})"
 msgstr "Reset lokasi ke baku ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4244,8 +4244,8 @@ msgstr "Sertifikat keamanan bagi {0} tak valid."
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "Memuat {0}..."
+msgid "Loading {0}…"
+msgstr "Memuat {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
 msgid ""
@@ -4265,8 +4265,8 @@ msgstr "Menganggur"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Menghubungi..."
+msgid "Contacting…"
+msgstr "Menghubungi…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
 msgid "Buffering"
@@ -4317,8 +4317,8 @@ msgid "Syncing iPod"
 msgstr "Menyelaraskan iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
-msgstr "Bersiap menyelaraskan..."
+msgid "Preparing to synchronize…"
+msgstr "Bersiap menyelaraskan…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
 #, csharp-format
@@ -4499,8 +4499,8 @@ msgstr "Putuskan"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Memutus {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Memutus {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
 #, csharp-format
@@ -4647,8 +4647,8 @@ msgid "Open Book"
 msgstr "Buka Buku"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Gabung Cakram..."
+msgid "Merge Discs…"
+msgstr "Gabung Cakram…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -4911,7 +4911,7 @@ msgstr "Mengunduh Trek eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Menginisialisasi…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -4932,7 +4932,7 @@ msgstr "Membatalkan Pengunduhan"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Menunggu pengunduhan berakhir…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5011,8 +5011,8 @@ msgstr ""
 "contreng untuk tak melakukan aksi."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Perbaiki Metadata Musik..."
+msgid "Fix Music Metadata…"
+msgstr "Perbaiki Metadata Musik…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5259,8 +5259,8 @@ msgstr "_Teks"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Cari..."
+msgid "Search…"
+msgstr "Cari…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5729,8 +5729,8 @@ msgid "Scrobbling to Last.FM"
 msgstr "Scrobbling ke Last.FM"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-msgid "Scrobbling to Last.FM..."
-msgstr "Scrobbling ke Last.FM..."
+msgid "Scrobbling to Last.FM…"
+msgstr "Scrobbling ke Last.FM…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -5918,8 +5918,8 @@ msgid "Unknown Similarity"
 msgstr "Kemiripan Tak Diketahui"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "T_ambahkan Stasiun..."
+msgid "_Add Station…"
+msgstr "T_ambahkan Stasiun…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6324,8 +6324,8 @@ msgid "Duplicate this audio CD"
 msgstr "Gandakan CD audio ini"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "Mencari informasi trek..."
+msgid "Searching for track information…"
+msgstr "Mencari informasi trek…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6360,8 +6360,8 @@ msgstr "Impor \"{0}\""
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "Mengeluarkan {0}..."
+msgid "Ejecting {0}…"
+msgstr "Mengeluarkan {0}…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6417,8 +6417,8 @@ msgstr "Impor daftar putar"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Temukan berkas \"{0}\" Anda..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Temukan berkas \"{0}\" Anda…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6662,8 +6662,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Periksa semua podcast untuk episoda baru"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Tambahkan Podcast..."
+msgid "Add Podcast…"
+msgstr "Tambahkan Podcast…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6890,13 +6890,13 @@ msgstr "Diunggah oleh"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Mainkan di Banshee..."
+msgid "Play in Banshee…"
+msgstr "Mainkan di Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Mainkan di Peramban Web..."
+msgid "Play in Web Browser…"
+msgstr "Mainkan di Peramban Web…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"

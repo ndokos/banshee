@@ -288,8 +288,8 @@ msgid "Could not construct pipeline"
 msgstr "Конвейер түзүү болбой калды"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:64
-msgid "Write CD..."
-msgstr "Дискке жазуу..."
+msgid "Write CD…"
+msgstr "Дискке жазуу…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
 msgid "Write selected tracks to an audio CD"
@@ -793,13 +793,13 @@ msgstr "маалыматтарды издөөнү өндүрүүдө"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:187
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1206
-msgid "Scanning..."
-msgstr "Издөөдө..."
+msgid "Scanning…"
+msgstr "Издөөдө…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:203
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "({0}·Файлдарды) Издөөдө..."
+msgid "Scanning ({0} files)…"
+msgstr "({0}·Файлдарды) Издөөдө…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:237
 msgid "Importing Media"
@@ -1873,12 +1873,12 @@ msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
 #, fuzzy
-msgid "Waiting for playback to begin..."
-msgstr "Жүктөөлөрдүн аягына чейин күтүү..."
+msgid "Waiting for playback to begin…"
+msgstr "Жүктөөлөрдүн аягына чейин күтүү…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "Жүктөө..."
+msgid "Loading…"
+msgstr "Жүктөө…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerWindow.cs:52
 msgid "Equalizer"
@@ -1984,8 +1984,8 @@ msgid "PNG image files"
 msgstr "PNG графикалык файлдары"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Кароо..."
+msgid "Browse…"
+msgstr "Кароо…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:98
 #: ../src/Core/Banshee.ThickClient/Resources/banshee-dialogs.glade.h:10
@@ -1997,16 +1997,16 @@ msgid "_Media"
 msgstr "_Маалыматтар"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Маалыматтарды _импортоо..."
+msgid "Import _Media…"
+msgstr "Маалыматтарды _импортоо…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Маалыматтарды ар башка булактардан импортоо"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Ойнотуучу тизмени экспорттоо..."
+msgid "Import _Playlist…"
+msgstr "Ойнотуучу тизмени экспорттоо…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -2021,8 +2021,8 @@ msgid "Rescan the Music Library folder"
 msgstr ""
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "Жайгашкан жерин _ачуу..."
+msgid "Open _Location…"
+msgstr "Жайгашкан жерин _ачуу…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -2114,7 +2114,7 @@ msgstr "Banshee-ни иштеп чыгарууда катышыңыз"
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:122
 #, fuzzy
 msgid "_Version Information"
-msgstr "Нускасы тууралуу _маалымат..."
+msgstr "Нускасы тууралуу _маалымат…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:123
 msgid "View detailed version and configuration information"
@@ -2162,8 +2162,8 @@ msgstr "Мурунку жолчону ойнотуу"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:78
 #, fuzzy
-msgid "Seek _to..."
-msgstr "Чейин издөө..."
+msgid "Seek _to…"
+msgstr "Чейин издөө…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:79
 #, fuzzy
@@ -2305,7 +2305,7 @@ msgstr "Жаңы бош ойнотуу тизмесин түзүү"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:77
 #, fuzzy
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "_Ыңгайлуу ойнотмо тизмесин түзүү"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:78
@@ -2328,8 +2328,8 @@ msgstr "Атын өзгөртүү"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:95
 #, fuzzy
-msgid "Export Playlist..."
-msgstr "Ойнотмо тизмени экспорттоо..."
+msgid "Export Playlist…"
+msgstr "Ойнотмо тизмени экспорттоо…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:96
 #, fuzzy
@@ -3021,8 +3021,8 @@ msgstr "{0} улантуу"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
 #, fuzzy
-msgid "Stopping..."
-msgstr "Издөө жүрүп жатат..."
+msgid "Stopping…"
+msgstr "Издөө жүрүп жатат…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:46
 msgid "Import Files to Library"
@@ -3227,8 +3227,8 @@ msgid "Idle"
 msgstr "Эч нерсе ойнотулган жок"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:149
-msgid "Contacting..."
-msgstr "Кошулуу..."
+msgid "Contacting…"
+msgstr "Кошулуу…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:159
 msgid "Buffering"
@@ -3399,8 +3399,8 @@ msgstr "{0} - чыгаруу"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:104
 #, fuzzy, csharp-format
-msgid "Ejecting {0}..."
-msgstr "{0} - чыгарылууда..."
+msgid "Ejecting {0}…"
+msgstr "{0} - чыгарылууда…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, fuzzy, csharp-format
@@ -3414,19 +3414,19 @@ msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:96
 #, fuzzy
-msgid "Scanning iPod..."
-msgstr "Издөө жүрүп жатат..."
+msgid "Scanning iPod…"
+msgstr "Издөө жүрүп жатат…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:131
-msgid "Processing Tracks..."
+msgid "Processing Tracks…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:147
-msgid "Ordering Tracks..."
+msgid "Ordering Tracks…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:218
-msgid "Saving new database..."
+msgid "Saving new database…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/DatabaseRebuilder.cs:230
@@ -3495,16 +3495,16 @@ msgstr "iPod менен синхрондоо жүрүп жатат"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:662
 #, fuzzy
-msgid "Preparing to synchronize..."
-msgstr "Синхрондоого даярдыктар жүрүп жатат..."
+msgid "Preparing to synchronize…"
+msgstr "Синхрондоого даярдыктар жүрүп жатат…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:683
-msgid "Updating..."
-msgstr "Жаңыруу жүрүп жатат..."
+msgid "Updating…"
+msgstr "Жаңыруу жүрүп жатат…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/IpodSource.cs:687
-msgid "Flushing to disk..."
-msgstr "Дискке жазуу..."
+msgid "Flushing to disk…"
+msgstr "Дискке жазуу…"
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:59
 #, fuzzy
@@ -3538,7 +3538,7 @@ msgid "Your iPod is mounted read only. Banshee can not restore your iPod."
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:123
-msgid "Rebuild iPod Database..."
+msgid "Rebuild iPod Database…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:131
@@ -3557,7 +3557,7 @@ msgid "Rebuild Database"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.Ipod/Banshee.Dap.Ipod/UnsupportedDatabaseView.cs:155
-msgid "Rebuilding iPod Database..."
+msgid "Rebuilding iPod Database…"
 msgstr ""
 
 #: ../src/Dap/Banshee.Dap.MassStorage/Banshee.Dap.MassStorage/AmazonMp3GroupSource.cs:43
@@ -3746,8 +3746,8 @@ msgstr "Бул үндүк дискти дубликаттоо"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:130
 #, fuzzy
-msgid "Searching for CD metadata..."
-msgstr "Бул диск үчүн метаберилиштер изделүүдө..."
+msgid "Searching for CD metadata…"
+msgstr "Бул диск үчүн метаберилиштер изделүүдө…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:163
 #, fuzzy
@@ -3770,8 +3770,8 @@ msgid "Could not duplicate audio CD"
 msgstr "Үндүк дисктин дубликатын чыгаруу мүмкүн эмес"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:363
-msgid "Ejecting audio CD..."
-msgstr "Музыкалык диск чыгарылууда..."
+msgid "Ejecting audio CD…"
+msgstr "Музыкалык диск чыгарылууда…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:381
 #, csharp-format
@@ -4123,8 +4123,8 @@ msgstr "_Сиздин Last.fm профилдер бетине кирүү"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:134
 #, fuzzy
-msgid "_Configure..."
-msgstr "_Ырастоолор..."
+msgid "_Configure…"
+msgstr "_Ырастоолор…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:135
 #, fuzzy
@@ -4141,7 +4141,7 @@ msgstr "Угулган ырлар тууралуу баяндамаларды ж
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Radio/LastfmActions.cs:66
 #, fuzzy
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "_Радиостанцияны кошуу"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Radio/LastfmActions.cs:67
@@ -4610,7 +4610,7 @@ msgstr "Ойнотуучу тизмени экспорттоо"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr ""
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:388
@@ -4790,8 +4790,8 @@ msgid "Downloading Podcast(s)"
 msgstr "Подкасталарды жүктөө"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Инициализация жүрүп жатат..."
+msgid "Initializing…"
+msgstr "Инициализация жүрүп жатат…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:52
 #, fuzzy
@@ -4812,8 +4812,8 @@ msgid "Canceling Downloads"
 msgstr "Жүктөөлөр токтотулду"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "Жүктөөлөрдүн аягына чейин күтүү..."
+msgid "Waiting for downloads to terminate…"
+msgstr "Жүктөөлөрдүн аягына чейин күтүү…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:66
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:90
@@ -4829,7 +4829,7 @@ msgstr "Баардык подкасттарды жаңыртуу"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:72
 #, fuzzy
-msgid "Subscribe to Podcast..."
+msgid "Subscribe to Podcast…"
 msgstr "Подкастка жазылуу"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:73
@@ -5417,8 +5417,8 @@ msgstr "Белгисиз подкаст"
 #~ msgstr "_Жазуу"
 
 #, fuzzy
-#~ msgid "Preparing..."
-#~ msgstr "Даярдоо жүрүп жатат..."
+#~ msgid "Preparing…"
+#~ msgstr "Даярдоо жүрүп жатат…"
 #~ msgid "Station Type"
 #~ msgstr "Тиби боюнча"
 #~ msgid "Downloading"
@@ -5426,7 +5426,7 @@ msgstr "Белгисиз подкаст"
 
 #, fuzzy
 #~ msgid "Waiting to download"
-#~ msgstr "Жүктөөнү токтотуу үчүн күтүү..."
+#~ msgstr "Жүктөөнү токтотуу үчүн күтүү…"
 
 #, fuzzy
 #~ msgid "Download paused"

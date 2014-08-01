@@ -729,8 +729,8 @@ msgid "Could not construct pipeline"
 msgstr "Nevarēja izveidot konveijeru"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "Rakstīt CD..."
+msgid "Write CD…"
+msgstr "Rakstīt CD…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1478,13 +1478,13 @@ msgstr "Skenē datu nesēju"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
-msgstr "Skenē..."
+msgid "Scanning…"
+msgstr "Skenē…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "Skenē ({0} datnes)..."
+msgid "Scanning ({0} files)…"
+msgstr "Skenē ({0} datnes)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2815,8 +2815,8 @@ msgid "External Document"
 msgstr "Ārējs dokuments"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "Izvēlieties jaunu albumu vāciņu..."
+msgid "Choose New Cover Art…"
+msgstr "Izvēlieties jaunu albumu vāciņu…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2863,13 +2863,13 @@ msgid "Hide context pane"
 msgstr "Slēpt konteksta rūti"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
-msgstr "Gaida uz atskaņošanas sākumu..."
+msgid "Waiting for playback to begin…"
+msgstr "Gaida uz atskaņošanas sākumu…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
-msgstr "Ielādē..."
+msgid "Loading…"
+msgstr "Ielādē…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3017,8 +3017,8 @@ msgid "Open Location"
 msgstr "Atvērt vietu"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "Pārlūkot..."
+msgid "Browse…"
+msgstr "Pārlūkot…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3033,24 +3033,24 @@ msgid "_Media"
 msgstr "_Multimedija"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "Importēt _multimediju..."
+msgid "Import _Media…"
+msgstr "Importēt _multimediju…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "Importēt multimediju no vairākiem avotiem"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "Importēt re_pertuāru..."
+msgid "Import _Playlist…"
+msgstr "Importēt re_pertuāru…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "Importēt repertuāru"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "Atvērt _vietu..."
+msgid "Open _Location…"
+msgstr "Atvērt _vietu…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 msgid "Open a remote location for playback"
@@ -3172,8 +3172,8 @@ msgid "Play the previous item"
 msgstr "Atskaņot iepriekšējo vienumu"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "Pārie_t uz..."
+msgid "Seek _To…"
+msgstr "Pārie_t uz…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3252,8 +3252,8 @@ msgid "Subtitle"
 msgstr "Subtitri"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "Ielādēt datni..."
+msgid "Load File…"
+msgstr "Ielādēt datni…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3294,8 +3294,8 @@ msgid "Create a new empty playlist"
 msgstr "Izveidot jaunu tukšu repertuāru"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "Jaun_s gudrais repertuārs..."
+msgid "New _Smart Playlist…"
+msgstr "Jaun_s gudrais repertuārs…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3314,8 +3314,8 @@ msgid "Rename"
 msgstr "Pārsaukt"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "Eksportēt repertuāru..."
+msgid "Export Playlist…"
+msgstr "Eksportēt repertuāru…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -4006,8 +4006,8 @@ msgid "Continue {0}"
 msgstr "Turpināt {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
-msgstr "Aptur..."
+msgid "Stopping…"
+msgstr "Aptur…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4026,8 +4026,8 @@ msgid "Files"
 msgstr "Datnes"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "Iz_vēlieties datnes..."
+msgid "C_hoose Files…"
+msgstr "Iz_vēlieties datnes…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4042,8 +4042,8 @@ msgid "Folders"
 msgstr "Mapes"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "Izvēlēties _mapes..."
+msgid "C_hoose Folders…"
+msgstr "Izvēlēties _mapes…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4109,7 +4109,7 @@ msgid "Reset location to default ({0})"
 msgstr "Pārstatīt vietu un noklusēto ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4233,8 +4233,8 @@ msgstr "{0} drošības sertifikāts nav derīgs."
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "Ielādē {0}..."
+msgid "Loading {0}…"
+msgstr "Ielādē {0}…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
 msgid ""
@@ -4254,8 +4254,8 @@ msgstr "Dīkstāvē"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "Sazinās ar..."
+msgid "Contacting…"
+msgstr "Sazinās ar…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
 msgid "Buffering"
@@ -4306,8 +4306,8 @@ msgid "Syncing iPod"
 msgstr "Sinhronizē iPod"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
-msgstr "Gatavojas sinhronizēšanai..."
+msgid "Preparing to synchronize…"
+msgstr "Gatavojas sinhronizēšanai…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
 #, csharp-format
@@ -4491,8 +4491,8 @@ msgstr "Atvienot"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "Atvieno {0}..."
+msgid "Disconnecting {0}…"
+msgstr "Atvieno {0}…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
 #, csharp-format
@@ -4643,8 +4643,8 @@ msgid "Open Book"
 msgstr "Atvērt grāmatu"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "Sapludināt diskus..."
+msgid "Merge Discs…"
+msgstr "Sapludināt diskus…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -4914,8 +4914,8 @@ msgstr "Lejupielādē eMusic celiņu(-s)"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "Inicializē..."
+msgid "Initializing…"
+msgstr "Inicializē…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -4937,8 +4937,8 @@ msgstr "Atceļ lejupielādes"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "Gaida lejupielāžu beigas..."
+msgid "Waiting for downloads to terminate…"
+msgstr "Gaida lejupielāžu beigas…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -5016,8 +5016,8 @@ msgstr ""
 "atkal, lai neveiktu darbību."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "Labot mūzikas metadatus..."
+msgid "Fix Music Metadata…"
+msgstr "Labot mūzikas metadatus…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5260,8 +5260,8 @@ msgstr "_Teksts"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "Meklēt..."
+msgid "Search…"
+msgstr "Meklēt…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5691,7 +5691,7 @@ msgstr "Vērtējums:"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:84
 #, csharp-format
-#| msgid "Processing track {0} of {1} ..."
+#| msgid "Processing track {0} of {1} …"
 msgid "Processed {0} of {1} tracks"
 msgstr "Apstrādāja {0} no {1} celiņiem"
 
@@ -5736,9 +5736,9 @@ msgid "Scrobbling to Last.FM"
 msgstr "Scrobbling uz Last.fm"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-#| msgid "Scrobbling from device..."
-msgid "Scrobbling to Last.FM..."
-msgstr "Scrobbling uz Last.fm..."
+#| msgid "Scrobbling from device…"
+msgid "Scrobbling to Last.FM…"
+msgstr "Scrobbling uz Last.fm…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -5926,8 +5926,8 @@ msgid "Unknown Similarity"
 msgstr "Nezināma līdzība"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "Pievienot st_aciju..."
+msgid "_Add Station…"
+msgstr "Pievienot st_aciju…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6334,8 +6334,8 @@ msgid "Duplicate this audio CD"
 msgstr "Kopēt šo audio CD"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "Meklē celiņu informāciju..."
+msgid "Searching for track information…"
+msgstr "Meklē celiņu informāciju…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6370,8 +6370,8 @@ msgstr "Importēt ‟{0}”"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "Izgrūž {0}..."
+msgid "Ejecting {0}…"
+msgstr "Izgrūž {0}…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6427,8 +6427,8 @@ msgstr "Importēt repertuārus"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "Atrast \"{0}\" datni..."
+msgid "Locate your \"{0}\" file…"
+msgstr "Atrast \"{0}\" datni…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6676,8 +6676,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "Pārbaudīt visas podraides, vai nav jaunu sēriju"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "Pievienot podraidi..."
+msgid "Add Podcast…"
+msgstr "Pievienot podraidi…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6906,13 +6906,13 @@ msgstr "Augšupielādēja"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "Atskaņot Banshee..."
+msgid "Play in Banshee…"
+msgstr "Atskaņot Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "Atskaņot tīmekļa pārlūkā..."
+msgid "Play in Web Browser…"
+msgstr "Atskaņot tīmekļa pārlūkā…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -7321,8 +7321,8 @@ msgstr "Nezināma podraide"
 #~ msgid "{0} to add, {1} to remove, {2} to update"
 #~ msgstr "{0} jāpievieno, {1} jāizņem, {2} jāatjaunina"
 
-#~ msgid "Ejecting audio CD..."
-#~ msgstr "Izgrūž audio CD..."
+#~ msgid "Ejecting audio CD…"
+#~ msgstr "Izgrūž audio CD…"
 
 #~ msgid "Could not eject audio CD: {0}"
 #~ msgstr "Neizdevās izgrūst audio CD: {0}"
@@ -7343,17 +7343,17 @@ msgstr "Nezināma podraide"
 #~ msgid "Rebuilding Database"
 #~ msgstr "Pārbūvē datubāzi"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "Skenē iPod..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "Skenē iPod…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "Apstrādā celiņus..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "Apstrādā celiņus…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "Sakārto celiņus..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "Sakārto celiņus…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "Saglabā jaunu datubāzi..."
+#~ msgid "Saving new database…"
+#~ msgstr "Saglabā jaunu datubāzi…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "Kļūda, pārbūvējot iPod datubāzi"
@@ -7376,11 +7376,11 @@ msgstr "Nezināma podraide"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Lūdzu, pašrocīgi izņemiet dažas dziesmas"
 
-#~ msgid "Updating..."
-#~ msgstr "Atjaunina..."
+#~ msgid "Updating…"
+#~ msgstr "Atjaunina…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "Ieraksta diskā..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "Ieraksta diskā…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "Nevarēja nolasīt iPod"
@@ -7420,8 +7420,8 @@ msgstr "Nezināma podraide"
 #~ msgstr ""
 #~ "iPod ir uzmontēts tikai lasīšanas režīmā. Banshee nevar atjaunot iPod."
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "Pārbūvēt iPod datubāzi..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "Pārbūvēt iPod datubāzi…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "Apstiprināt iPod datubāzes pārbūvi"
@@ -7440,8 +7440,8 @@ msgstr "Nezināma podraide"
 #~ msgid "Rebuild Database"
 #~ msgstr "Pārbūvēt datubāzi"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "Pārbūvē iPod datubāzi..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "Pārbūvē iPod datubāzi…"
 
 #~ msgid ""
 #~ "There was an error intializing MTP device support.  See http://www."
@@ -7666,8 +7666,8 @@ msgstr "Nezināma podraide"
 #~ msgid "_Write"
 #~ msgstr "_Rakstīt"
 
-#~ msgid "<b>Loading...</b>"
-#~ msgstr "<b>Ielādējās...</b>"
+#~ msgid "<b>Loading…</b>"
+#~ msgstr "<b>Ielādējās…</b>"
 
 #~ msgid "Disk Usage:"
 #~ msgstr "Diska lietojums:"
@@ -7810,8 +7810,8 @@ msgstr "Nezināma podraide"
 #~ msgid "N/A"
 #~ msgstr "N/P"
 
-#~ msgid "Columns..."
-#~ msgstr "Kolonas..."
+#~ msgid "Columns…"
+#~ msgstr "Kolonas…"
 
 #~ msgid "Import the contents of an entire folder"
 #~ msgstr "Importēt visu mapes saturu"
@@ -7834,23 +7834,23 @@ msgstr "Nezināma podraide"
 #~ msgid "Unselect all songs in song list"
 #~ msgstr "Noņemt atlasījumus visām dziesmām sarakstā"
 
-#~ msgid "Plu_gins..."
-#~ msgstr "Sp_raudņi..."
+#~ msgid "Plu_gins…"
+#~ msgstr "Sp_raudņi…"
 
 #~ msgid "Configure Banshee plugins"
 #~ msgstr "Konfigurēt Banshee spraudņus"
 
-#~ msgid "_Columns..."
-#~ msgstr "_Kolonas..."
+#~ msgid "_Columns…"
+#~ msgstr "_Kolonas…"
 
 #~ msgid "Select which columns to display in the song list"
 #~ msgstr "Atzīmējiet, kuras kolonas rādīt dziesmu sarakstā"
 
-#~ msgid "_Boo Buddy..."
-#~ msgstr "_Boo draudziņš..."
+#~ msgid "_Boo Buddy…"
+#~ msgstr "_Boo draudziņš…"
 
-#~ msgid "_Logged Events Viewer..."
-#~ msgstr "_Reģistrēto notikumu skatīklis..."
+#~ msgid "_Logged Events Viewer…"
+#~ msgstr "_Reģistrēto notikumu skatīklis…"
 
 #~ msgid "View a detailed log of events"
 #~ msgstr "Skatīt detalizētu reģistrēto notikumu žurnālu"
@@ -8292,11 +8292,11 @@ msgstr "Nezināma podraide"
 #~ msgid "Hours"
 #~ msgstr "Stundas"
 
-#~ msgid "New Smart Playlist _from Search..."
-#~ msgstr "Jauns gudrais atskaņošanas saraksts _no meklējuma..."
+#~ msgid "New Smart Playlist _from Search…"
+#~ msgstr "Jauns gudrais atskaņošanas saraksts _no meklējuma…"
 
-#~ msgid "Edit Smart Playlist..."
-#~ msgstr "Rediģēt gudro atskaņošanas sarakstu..."
+#~ msgid "Edit Smart Playlist…"
+#~ msgstr "Rediģēt gudro atskaņošanas sarakstu…"
 
 #~ msgid "Smart Playlist has Dependencies"
 #~ msgstr "Gudrais atskaņošanas saraksts satur atkarības"
@@ -8315,8 +8315,8 @@ msgstr "Nezināma podraide"
 #~ msgid "Synchronizing {0}"
 #~ msgstr "Sinhronizē {0}"
 
-#~ msgid "Processing..."
-#~ msgstr "Apstrāde..."
+#~ msgid "Processing…"
+#~ msgstr "Apstrāde…"
 
 #~ msgid "Could not encode some files"
 #~ msgstr "Nevarēja iekodēt dažus failus"
@@ -8424,11 +8424,11 @@ msgstr "Nezināma podraide"
 #~ msgid "Delete {0}"
 #~ msgstr "Izdzēst {0}"
 
-#~ msgid "Reading table of contents from CD..."
-#~ msgstr "Lasa diska saturu..."
+#~ msgid "Reading table of contents from CD…"
+#~ msgstr "Lasa diska saturu…"
 
-#~ msgid "Searching for CD metadata..."
-#~ msgstr "Meklē CD metadatus..."
+#~ msgid "Searching for CD metadata…"
+#~ msgstr "Meklē CD metadatus…"
 
 #~ msgid ""
 #~ "Cannot search for CD metadata: there is no available Internet connection"
@@ -8443,8 +8443,8 @@ msgstr "Nezināma podraide"
 #~ msgid "You must select at least one track to import."
 #~ msgstr "Jums jāizvēlas vismaz viena dziesma, lai importētu."
 
-#~ msgid "Synchronizing your Device, Please Wait..."
-#~ msgstr "Jūsu ierīce tiek sinhronizēta. Lūdzu uzgaidiet..."
+#~ msgid "Synchronizing your Device, Please Wait…"
+#~ msgstr "Jūsu ierīce tiek sinhronizēta. Lūdzu uzgaidiet…"
 
 #~ msgid "You are currently importing from {0}. Would you like to stop it?"
 #~ msgstr "Jūs šobrīd importējiet no {0}. Vai jūs vēlaties to apturēt?"
@@ -8659,8 +8659,8 @@ msgstr "Nezināma podraide"
 #~ msgid "Visit _group page"
 #~ msgstr "Apmeklēt _grupas lapu"
 
-#~ msgid "_Configure..."
-#~ msgstr "_Konfigurēt..."
+#~ msgid "_Configure…"
+#~ msgstr "_Konfigurēt…"
 
 #~ msgid "Audioscrobbler reporting engine enabled"
 #~ msgstr "Audioscrobbler atskaišu dzinējs aktivizēts"

@@ -695,8 +695,8 @@ msgid "Could not construct pipeline"
 msgstr "לא ניתן לבנות את השרשור"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "כתיבה לתקליטור..."
+msgid "Write CD…"
+msgstr "כתיבה לתקליטור…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1398,13 +1398,13 @@ msgstr "סריקה אחר מדיה"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1384
-msgid "Scanning..."
-msgstr "בסריקה..."
+msgid "Scanning…"
+msgstr "בסריקה…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "בסריקה ({0} קבצים)..."
+msgid "Scanning ({0} files)…"
+msgstr "בסריקה ({0} קבצים)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
@@ -2720,8 +2720,8 @@ msgid "External Document"
 msgstr "מסמך חיצוני"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "בחירת עטיפה חדשה לאלבום..."
+msgid "Choose New Cover Art…"
+msgstr "בחירת עטיפה חדשה לאלבום…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2768,12 +2768,12 @@ msgid "Hide context pane"
 msgstr "הסתרת חלונית ההקשר"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
-msgstr "בהמתנה לתחילת ההשמעה..."
+msgid "Waiting for playback to begin…"
+msgstr "בהמתנה לתחילת ההשמעה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
-msgstr "בטעינה..."
+msgid "Loading…"
+msgstr "בטעינה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -2921,8 +2921,8 @@ msgid "Open Location"
 msgstr "פתיחת מיקום"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "עיון..."
+msgid "Browse…"
+msgstr "עיון…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -2937,16 +2937,16 @@ msgid "_Media"
 msgstr "_מדיה"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "יבוא מ_דיה..."
+msgid "Import _Media…"
+msgstr "יבוא מ_דיה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "יבוא מדיה ממגוון מקורות"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "יבוא _רשימת השמעה..."
+msgid "Import _Playlist…"
+msgstr "יבוא _רשימת השמעה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
@@ -2961,8 +2961,8 @@ msgid "Rescan the Music Library folder"
 msgstr "סקירת תיקיית ספריית המוזיקה מחדש"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
-msgstr "פתיחת _מיקום..."
+msgid "Open _Location…"
+msgstr "פתיחת _מיקום…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
 msgid "Open a remote location for playback"
@@ -3027,7 +3027,7 @@ msgstr "כיצד ניתן לתרום ל־Banshee"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:113
 msgid "_Version Information"
-msgstr "פרטי ה_גרסה..."
+msgstr "פרטי ה_גרסה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:114
 msgid "View detailed version and configuration information"
@@ -3064,8 +3064,8 @@ msgid "Play the previous item"
 msgstr "השמעת הפריט הקודם"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "מע_בר אל..."
+msgid "Seek _To…"
+msgstr "מע_בר אל…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3144,8 +3144,8 @@ msgid "Subtitle"
 msgstr "כתוביות"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "טעינת קובץ..."
+msgid "Load File…"
+msgstr "טעינת קובץ…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3186,8 +3186,8 @@ msgid "Create a new empty playlist"
 msgstr "יצירת רשימת השמעה חדשה ריקה"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "רשימת השמעה _חכמה חדשה..."
+msgid "New _Smart Playlist…"
+msgstr "רשימת השמעה _חכמה חדשה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3206,8 +3206,8 @@ msgid "Rename"
 msgstr "שינוי השם"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "יצוא רשימת השמעה..."
+msgid "Export Playlist…"
+msgstr "יצוא רשימת השמעה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -3886,8 +3886,8 @@ msgid "Continue {0}"
 msgstr "המשך {0}"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
-msgstr "בעצירה..."
+msgid "Stopping…"
+msgstr "בעצירה…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -3906,8 +3906,8 @@ msgid "Files"
 msgstr "קבצים"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "ב_חירת קבצים..."
+msgid "C_hoose Files…"
+msgstr "ב_חירת קבצים…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
 msgid "_Files to import:"
@@ -3934,8 +3934,8 @@ msgid "Folders"
 msgstr "תיקיות"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "בח_ירת תיקיות..."
+msgid "C_hoose Folders…"
+msgstr "בח_ירת תיקיות…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
 msgid "_Folders to import:"
@@ -4010,7 +4010,7 @@ msgid "Reset location to default ({0})"
 msgstr "איפוס המיקום לבררת המחדל ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4070,8 +4070,8 @@ msgstr "הצגה או הסתרה של דפדפן האמן/אלבום"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "‏{0} בטעינה..."
+msgid "Loading {0}…"
+msgstr "‏{0} בטעינה…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
 msgid ""
@@ -4095,8 +4095,8 @@ msgstr "בהמתנה"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:147
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "נוצר קשר..."
+msgid "Contacting…"
+msgstr "נוצר קשר…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:157
 msgid "Buffering"
@@ -4159,8 +4159,8 @@ msgid "Syncing iPod"
 msgstr "ה־iPod מסונכרן"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:556
-msgid "Preparing to synchronize..."
-msgstr "בהכנות לסנכרון..."
+msgid "Preparing to synchronize…"
+msgstr "בהכנות לסנכרון…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:559
 #, csharp-format
@@ -4343,8 +4343,8 @@ msgstr "ניתוק"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "{0} מנותק..."
+msgid "Disconnecting {0}…"
+msgstr "{0} מנותק…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
 #, csharp-format
@@ -4496,8 +4496,8 @@ msgid "Open Book"
 msgstr "פתיחת ספר"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "מיזוג תקליטורים..."
+msgid "Merge Discs…"
+msgstr "מיזוג תקליטורים…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:65
@@ -4666,8 +4666,8 @@ msgid "Duplicate this audio CD"
 msgstr "שכפול תקליטור השמע"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-msgid "Searching for track information..."
-msgstr "מתבצע חיפוש אחר פרטי הרצועה..."
+msgid "Searching for track information…"
+msgstr "מתבצע חיפוש אחר פרטי הרצועה…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
 msgid "Could not fetch track information"
@@ -4686,8 +4686,8 @@ msgid "Could not duplicate audio CD"
 msgstr "לא ניתן לשכפל את תקליטור השמע"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
-msgstr "תקליטור השמע נשלף..."
+msgid "Ejecting audio CD…"
+msgstr "תקליטור השמע נשלף…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
 #, csharp-format
@@ -4887,8 +4887,8 @@ msgstr "מתקבלות רצועות של eMusic"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "בהפעלה..."
+msgid "Initializing…"
+msgstr "בהפעלה…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -4909,8 +4909,8 @@ msgstr "ההורדות מבוטלות"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "בהמתנה להפסקת ההורדות..."
+msgid "Waiting for downloads to terminate…"
+msgstr "בהמתנה להפסקת ההורדות…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -4986,8 +4986,8 @@ msgstr ""
 "ולהדגיש אותו, או לבטל את הסימון כדי לא לנקוט בפעולה."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "תיקון נתוני על של קובצי מוזיקה..."
+msgid "Fix Music Metadata…"
+msgstr "תיקון נתוני על של קובצי מוזיקה…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5224,8 +5224,8 @@ msgstr "_טקסט"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "חיפוש..."
+msgid "Search…"
+msgstr "חיפוש…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5863,8 +5863,8 @@ msgid "Unknown Similarity"
 msgstr "דמיון לא ידוע"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "הוס_פת תחנה..."
+msgid "_Add Station…"
+msgstr "הוס_פת תחנה…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6206,8 +6206,8 @@ msgstr "יבוא רשימות השמעה"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "איתור קובץ ה־\"{0}\" שלך..."
+msgid "Locate your \"{0}\" file…"
+msgstr "איתור קובץ ה־\"{0}\" שלך…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:387
@@ -6456,8 +6456,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "יש לבדוק האם יש פרקים חדשים בכל הפודקאסטים"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "הוספת פודקאסט..."
+msgid "Add Podcast…"
+msgstr "הוספת פודקאסט…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6675,13 +6675,13 @@ msgstr "הועלה על ידי"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "נגינה ב־Banshee..."
+msgid "Play in Banshee…"
+msgstr "נגינה ב־Banshee…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "נגינה בדפדפן האינטרנט..."
+msgid "Play in Web Browser…"
+msgstr "נגינה בדפדפן האינטרנט…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"
@@ -6967,7 +6967,7 @@ msgstr "שם המשתמש ב־Last.fm  שגוי."
 
 #: ../src/Libraries/Lastfm/Lastfm/RadioConnection.cs:323
 msgid "Connecting to Last.fm."
-msgstr "מתבצע חיבור אל Last.fm..."
+msgstr "מתבצע חיבור אל Last.fm…"
 
 #: ../src/Libraries/Lastfm/Lastfm/RadioConnection.cs:325
 msgid "Connected to Last.fm."
@@ -6988,17 +6988,17 @@ msgstr "פודקאסט לא ידוע"
 #~ msgid "Rebuilding Database"
 #~ msgstr "מסד הנתונים נבנה מחדש"
 
-#~ msgid "Scanning iPod..."
-#~ msgstr "ה־iPod נסרק..."
+#~ msgid "Scanning iPod…"
+#~ msgstr "ה־iPod נסרק…"
 
-#~ msgid "Processing Tracks..."
-#~ msgstr "הרצועות בעיבוד..."
+#~ msgid "Processing Tracks…"
+#~ msgstr "הרצועות בעיבוד…"
 
-#~ msgid "Ordering Tracks..."
-#~ msgstr "הרצועות מסודרות..."
+#~ msgid "Ordering Tracks…"
+#~ msgstr "הרצועות מסודרות…"
 
-#~ msgid "Saving new database..."
-#~ msgstr "מסד הנתונים החדש נשמר..."
+#~ msgid "Saving new database…"
+#~ msgstr "מסד הנתונים החדש נשמר…"
 
 #~ msgid "Error rebuilding iPod database"
 #~ msgstr "שגיאה בבניית מסד הנתונים של ה־iPod"
@@ -7021,11 +7021,11 @@ msgstr "פודקאסט לא ידוע"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "נא להסיר כמה שירים ידנית"
 
-#~ msgid "Updating..."
-#~ msgstr "בהליכי עדכון..."
+#~ msgid "Updating…"
+#~ msgstr "בהליכי עדכון…"
 
-#~ msgid "Flushing to disk..."
-#~ msgstr "מתרוקן לכונן..."
+#~ msgid "Flushing to disk…"
+#~ msgstr "מתרוקן לכונן…"
 
 #~ msgid "Unable to read your iPod"
 #~ msgstr "לא ניתן לקרוא את ה־iPod שלך"
@@ -7065,8 +7065,8 @@ msgstr "פודקאסט לא ידוע"
 #~ msgstr ""
 #~ "ה־iPod שלך מעוגן לקריאה בלבד. אין באפשרות Banshee לשחזר את ה־iPod שלך."
 
-#~ msgid "Rebuild iPod Database..."
-#~ msgstr "מסד הנתונים של ה־iPod נבנה מחדש..."
+#~ msgid "Rebuild iPod Database…"
+#~ msgstr "מסד הנתונים של ה־iPod נבנה מחדש…"
 
 #~ msgid "Confirm Rebuild iPod Database"
 #~ msgstr "אישור בניית מסד הנתונים של ה־iPod מחדש"
@@ -7085,8 +7085,8 @@ msgstr "פודקאסט לא ידוע"
 #~ msgid "Rebuild Database"
 #~ msgstr "מסד הנתונים נבנה מחדש"
 
-#~ msgid "Rebuilding iPod Database..."
-#~ msgstr "מסד הנתונים של iPod נבנה מחדש..."
+#~ msgid "Rebuilding iPod Database…"
+#~ msgstr "מסד הנתונים של iPod נבנה מחדש…"
 
 #~ msgid "GIO IO and Hardware backends"
 #~ msgstr "קלט/פלט GIO ומנגנוני חומרה"

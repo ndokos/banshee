@@ -683,8 +683,8 @@ msgstr ""
 "어;Collection;모음;Music;음악;Radio;라디오;"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
-msgstr "CD 쓰기..."
+msgid "Write CD…"
+msgstr "CD 쓰기…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
 msgid "Write selected tracks to an audio CD"
@@ -1502,17 +1502,17 @@ msgstr "미디어 스캔 중"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1423
-msgid "Scanning..."
-msgstr "스캔 중..."
+msgid "Scanning…"
+msgstr "스캔 중…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
-msgstr "스캔 중 ({0}개 파일)..."
+msgid "Scanning ({0} files)…"
+msgstr "스캔 중 ({0}개 파일)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
 msgid "Importing Media"
-msgstr "미디어 가져오는 중..."
+msgstr "미디어 가져오는 중…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:245
 #: ../src/Core/Banshee.Services/Banshee.Library/ThreadPoolImportSource.cs:119
@@ -2824,8 +2824,8 @@ msgid "External Document"
 msgstr "외부 문서"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
-msgstr "새 표지 선택..."
+msgid "Choose New Cover Art…"
+msgstr "새 표지 선택…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
 msgid "Delete This Cover Art"
@@ -2872,13 +2872,13 @@ msgid "Hide context pane"
 msgstr "컨텍스트 영역 감추기"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:142
-msgid "Waiting for playback to begin..."
-msgstr "재생이 시작할 때까지 기다리는 중..."
+msgid "Waiting for playback to begin…"
+msgstr "재생이 시작할 때까지 기다리는 중…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:148
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:188
-msgid "Loading..."
-msgstr "읽어들이는 중..."
+msgid "Loading…"
+msgstr "읽어들이는 중…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
 msgid "Preamp"
@@ -3027,8 +3027,8 @@ msgid "Open Location"
 msgstr "위치 열기"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
-msgstr "찾아보기..."
+msgid "Browse…"
+msgstr "찾아보기…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
 msgid "Enter the address of the file you would like to open:"
@@ -3043,24 +3043,24 @@ msgid "_Media"
 msgstr "미디어(_M)"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
-msgstr "미디어 가져오기(_M)..."
+msgid "Import _Media…"
+msgstr "미디어 가져오기(_M)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
 msgid "Import media from a variety of sources"
 msgstr "다양한 공급원에서 미디어 가져오기"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
-msgstr "재생 목록 가져오기(_P)..."
+msgid "Import _Playlist…"
+msgstr "재생 목록 가져오기(_P)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
 msgid "Import a playlist"
 msgstr "재생 목록을 가져옵니다"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:61
-msgid "Open _Location..."
-msgstr "위치 열기(_L)..."
+msgid "Open _Location…"
+msgstr "위치 열기(_L)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:62
 msgid "Open a remote location for playback"
@@ -3178,8 +3178,8 @@ msgid "Play the previous item"
 msgstr "이전 항목을 재생합니다"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
-msgstr "이동(_T)..."
+msgid "Seek _To…"
+msgstr "이동(_T)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:86
 msgid "Seek to a specific location in current item"
@@ -3258,8 +3258,8 @@ msgid "Subtitle"
 msgstr "자막"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
-msgstr "로컬 파일..."
+msgid "Load File…"
+msgstr "로컬 파일…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
 msgid "Load subtitle file"
@@ -3300,8 +3300,8 @@ msgid "Create a new empty playlist"
 msgstr "빈 재생 목록을 새로 만듭니다"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
-msgstr "새 똑똑한 재생 목록(_S)..."
+msgid "New _Smart Playlist…"
+msgstr "새 똑똑한 재생 목록(_S)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
 msgid "Create a new smart playlist"
@@ -3320,8 +3320,8 @@ msgid "Rename"
 msgstr "이름 바꾸기"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
-msgstr "재생 목록 내보내기..."
+msgid "Export Playlist…"
+msgstr "재생 목록 내보내기…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
 msgid "Export a playlist"
@@ -4000,8 +4000,8 @@ msgid "Continue {0}"
 msgstr "{0} 계속"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:182
-msgid "Stopping..."
-msgstr "중지 중..."
+msgid "Stopping…"
+msgstr "중지 중…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
 msgid "Import Files to Library"
@@ -4020,8 +4020,8 @@ msgid "Files"
 msgstr "파일"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
-msgstr "파일 선택(_H)..."
+msgid "C_hoose Files…"
+msgstr "파일 선택(_H)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:43
 msgid "Import Folders to Library"
@@ -4036,8 +4036,8 @@ msgid "Folders"
 msgstr "폴더"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
-msgstr "폴더 선택(_H)..."
+msgid "C_hoose Folders…"
+msgstr "폴더 선택(_H)…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/ImportDialog.cs:73
 msgid "<big><b>Import Media to Library</b></big>"
@@ -4103,7 +4103,7 @@ msgid "Reset location to default ({0})"
 msgstr "위치를 기본값({0})으로 초기화합니다"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4227,8 +4227,8 @@ msgstr "{0}의 보안 인증서가 올바르지 않습니다."
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:116
 #, csharp-format
-msgid "Loading {0}..."
-msgstr "{0} 읽어들이는 중..."
+msgid "Loading {0}…"
+msgstr "{0} 읽어들이는 중…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:186
 msgid ""
@@ -4248,8 +4248,8 @@ msgstr "중지"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:187
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
-msgstr "연결 중..."
+msgid "Contacting…"
+msgstr "연결 중…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:198
 msgid "Buffering"
@@ -4300,8 +4300,8 @@ msgid "Syncing iPod"
 msgstr "아이팟 동기화 중"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:571
-msgid "Preparing to synchronize..."
-msgstr "동기화 준비 중..."
+msgid "Preparing to synchronize…"
+msgstr "동기화 준비 중…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:593
 #, csharp-format
@@ -4480,8 +4480,8 @@ msgstr "연결 해제"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:111
 #, csharp-format
-msgid "Disconnecting {0}..."
-msgstr "{0} 연결 끊는 중..."
+msgid "Disconnecting {0}…"
+msgstr "{0} 연결 끊는 중…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:118
 #, csharp-format
@@ -4628,8 +4628,8 @@ msgid "Open Book"
 msgstr "책 열기"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
-msgstr "디스크 합치기..."
+msgid "Merge Discs…"
+msgstr "디스크 합치기…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:57
 msgid "Go to Audiobooks"
@@ -4889,8 +4889,8 @@ msgstr "이뮤직 트랙 다운로드"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
-msgstr "초기화 중..."
+msgid "Initializing…"
+msgstr "초기화 중…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
 msgid "Cancel all eMusic downloads?"
@@ -4910,8 +4910,8 @@ msgstr "다운로드 취소 중"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
-msgstr "다운로드를 마칠 때까지 기다리는 중..."
+msgid "Waiting for downloads to terminate…"
+msgstr "다운로드를 마칠 때까지 기다리는 중…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
 msgid "Import eMusic Downloads to Library"
@@ -4987,8 +4987,8 @@ msgstr ""
 "하게 표시하십시오. 선택하지 않으면 아무 동작도 하지 않습니다."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
-msgstr "음악 메타데이터 바로 잡기..."
+msgid "Fix Music Metadata…"
+msgstr "음악 메타데이터 바로 잡기…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
 msgid "Metadata Fixer"
@@ -5236,8 +5236,8 @@ msgstr "텍스트(_T)"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
-msgstr "검색..."
+msgid "Search…"
+msgstr "검색…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
 msgid "_Go"
@@ -5467,7 +5467,7 @@ msgstr "뉴스 및 공공 자료"
 msgid "Open Source Movies"
 msgstr "오픈소스 영화"
 
-# Rick Prelinger가 만든...
+# Rick Prelinger가 만든…
 #: ../src/Extensions/Banshee.InternetArchive/InternetArchive/MediaType.cs:81
 msgid "Prelinger Archives"
 msgstr "프릴링거 아카이브"
@@ -5716,8 +5716,8 @@ msgid "Scrobbling to Last.FM"
 msgstr "Last.fm에 설정 기록중"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm.Audioscrobbler/AudioscrobblerService.cs:451
-msgid "Scrobbling to Last.FM..."
-msgstr "Last.fm에 설정 기록하는 중..."
+msgid "Scrobbling to Last.FM…"
+msgstr "Last.fm에 설정 기록하는 중…"
 
 #: ../src/Extensions/Banshee.Lastfm/Banshee.Lastfm/LastfmActions.cs:66
 msgid "Connect"
@@ -5905,8 +5905,8 @@ msgid "Unknown Similarity"
 msgstr "유사성 알 수 없음"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
-msgstr "방송국 추가(_A)..."
+msgid "_Add Station…"
+msgstr "방송국 추가(_A)…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
 msgid "Add a new Last.fm radio station"
@@ -6309,8 +6309,8 @@ msgid "Duplicate this audio CD"
 msgstr "이 오디오 CD 복제"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:113
-msgid "Searching for track information..."
-msgstr "트랙 정보 검색하는 중..."
+msgid "Searching for track information…"
+msgstr "트랙 정보 검색하는 중…"
 
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc.AudioCd/AudioCdSource.cs:146
 msgid "Could not fetch track information"
@@ -6346,8 +6346,8 @@ msgstr "‟{0}” 가져오기"
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD"
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:154
 #, csharp-format
-msgid "Ejecting {0}..."
-msgstr "{0} 꺼내는 중..."
+msgid "Ejecting {0}…"
+msgstr "{0} 꺼내는 중…"
 
 #. Translators: {0} is the type of disc, "Audio CD" or "DVD". {1} is the error message.
 #: ../src/Extensions/Banshee.OpticalDisc/Banshee.OpticalDisc/DiscSource.cs:173
@@ -6403,8 +6403,8 @@ msgstr "재생 목록 가져오기"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
-msgstr "\"{0}\" 파일 위치 지정..."
+msgid "Locate your \"{0}\" file…"
+msgstr "\"{0}\" 파일 위치 지정…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
 #, csharp-format
@@ -6643,8 +6643,8 @@ msgid "Check all podcasts for new episodes"
 msgstr "모든 팟캐스트에 새 회차 확인"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
-msgstr "팟캐스트 추가..."
+msgid "Add Podcast…"
+msgstr "팟캐스트 추가…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
 msgid "Subscribe to a new podcast"
@@ -6869,13 +6869,13 @@ msgstr "업로드한 이"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
-msgstr "밴시에서 재생..."
+msgid "Play in Banshee…"
+msgstr "밴시에서 재생…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
-msgstr "웹 브라우저에서 재생..."
+msgid "Play in Web Browser…"
+msgstr "웹 브라우저에서 재생…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
 msgid "No videos found"

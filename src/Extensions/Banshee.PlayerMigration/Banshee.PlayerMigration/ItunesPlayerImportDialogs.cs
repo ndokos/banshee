@@ -117,7 +117,7 @@ namespace Banshee.PlayerMigration
                 hbox.PackStart (image, false, false, 0);
                 Label label1 = new Label ();
                 label1.Markup = String.Format ("<b>{0}</b>", GLib.Markup.EscapeText(
-                    String.Format( Catalog.GetString (@"Locate your ""{0}"" file..."),
+                    String.Format( Catalog.GetString (@"Locate your ""{0}"" file…"),
                     ItunesPlayerImportSource.LibraryFilename)));
                 label1.SetAlignment (0.0f, 0.5f);
                 hbox.PackStart (label1, false, false, 0);

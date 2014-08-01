@@ -47,7 +47,7 @@ namespace Banshee.Fixup
         {
             Add (new Gtk.ActionEntry (
                 "FixMetadataAction", null,
-                Catalog.GetString ("Fix Music Metadata..."), null,
+                Catalog.GetString ("Fix Music Metadata…"), null,
                 null, OnFixMetadata
             ));
 

@@ -184,8 +184,8 @@ namespace Banshee.Widgets
         }
 
         private static string idle = Catalog.GetString ("Idle");
-        private static string contacting = Catalog.GetString ("Contacting...");
-        private static string loading = Catalog.GetString ("Loading...");
+        private static string contacting = Catalog.GetString ("Contacting…");
+        private static string loading = Catalog.GetString ("Loading…");
 
         private void UpdateLabel ()
         {

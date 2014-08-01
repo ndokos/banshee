@@ -51,7 +51,7 @@ namespace Banshee.Gui.Dialogs
             address_entry = ComboBoxText.NewWithEntry ();
             address_entry.Entry.Activated += (o, e) => Respond (ResponseType.Ok);
 
-            var browse_button = new Button(Catalog.GetString("Browse..."));
+            var browse_button = new Button(Catalog.GetString("Browse…"));
             browse_button.Clicked += OnBrowseClicked;
 
             location_box.PackStart(address_entry, true, true, 0);

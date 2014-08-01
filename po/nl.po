@@ -714,7 +714,7 @@ msgid "Could not construct pipeline"
 msgstr "Aanmaken pipeline mislukt"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:65
-msgid "Write CD..."
+msgid "Write CD…"
 msgstr "Cd schrijven…"
 
 #: ../src/Backends/Banshee.Gnome/Banshee.GnomeBackend/Brasero.cs:66
@@ -1443,12 +1443,12 @@ msgstr "Zoeken naar media"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:188
 #: ../src/Core/Banshee.Services/Banshee.Database/BansheeDbFormatMigrator.cs:1395
-msgid "Scanning..."
+msgid "Scanning…"
 msgstr "Bezig met zoeken…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:204
 #, csharp-format
-msgid "Scanning ({0} files)..."
+msgid "Scanning ({0} files)…"
 msgstr "Bezig met zoeken ({0} bestanden)…"
 
 #: ../src/Core/Banshee.Services/Banshee.Collection/ImportManager.cs:238
@@ -2785,7 +2785,7 @@ msgid "External Document"
 msgstr "Extern document"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:80
-msgid "Choose New Cover Art..."
+msgid "Choose New Cover Art…"
 msgstr "Nieuwe albumafbeelding kiezen…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Collection.Gui/CoverArtEditor.cs:98
@@ -2833,11 +2833,11 @@ msgid "Hide context pane"
 msgstr "Het contextpaneel verbergen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:144
-msgid "Waiting for playback to begin..."
+msgid "Waiting for playback to begin…"
 msgstr "Wachten tot afspelen start…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.ContextPane/ContextPane.cs:150
-msgid "Loading..."
+msgid "Loading…"
 msgstr "Laden…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Equalizer.Gui/EqualizerView.cs:74
@@ -2989,7 +2989,7 @@ msgid "Open Location"
 msgstr "Locatie openen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:54
-msgid "Browse..."
+msgid "Browse…"
 msgstr "Bladeren…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Dialogs/OpenLocationDialog.cs:64
@@ -3005,7 +3005,7 @@ msgid "_Media"
 msgstr "_Media"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:53
-msgid "Import _Media..."
+msgid "Import _Media…"
 msgstr "_Media importeren…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:54
@@ -3013,7 +3013,7 @@ msgid "Import media from a variety of sources"
 msgstr "Media importeren van verschillende bronnen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:57
-msgid "Import _Playlist..."
+msgid "Import _Playlist…"
 msgstr "_Speellijst importeren…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:58
@@ -3029,7 +3029,7 @@ msgid "Rescan the Music Library folder"
 msgstr "De muziekcollectiemap herladen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:67
-msgid "Open _Location..."
+msgid "Open _Location…"
 msgstr "_Locatie openen…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/GlobalActions.cs:68
@@ -3139,7 +3139,7 @@ msgid "Play the previous item"
 msgstr "Vorige nummer afspelen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackActions.cs:85
-msgid "Seek _To..."
+msgid "Seek _To…"
 msgstr "Spoelen naar…"
 
 # Vrij vertaald (Wouter Bolsterlee)
@@ -3226,7 +3226,7 @@ msgid "Subtitle"
 msgstr "Ondertiteling"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:65
-msgid "Load File..."
+msgid "Load File…"
 msgstr "Bestand laden…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/PlaybackSubtitleActions.cs:66
@@ -3268,7 +3268,7 @@ msgid "Create a new empty playlist"
 msgstr "Nieuwe (lege) speellijst aanmaken"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:79
-msgid "New _Smart Playlist..."
+msgid "New _Smart Playlist…"
 msgstr "Nieuwe slimme speellijst…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:80
@@ -3288,7 +3288,7 @@ msgid "Rename"
 msgstr "Hernoemen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:97
-msgid "Export Playlist..."
+msgid "Export Playlist…"
 msgstr "Speellijst exporteren…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui/SourceActions.cs:98
@@ -3994,7 +3994,7 @@ msgid "Continue {0}"
 msgstr "Doorgaan met ‘{0}’"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Gui.Widgets/UserJobTile.cs:184
-msgid "Stopping..."
+msgid "Stopping…"
 msgstr "Stoppen…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:45
@@ -4014,7 +4014,7 @@ msgid "Files"
 msgstr "Bestanden"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:63
-msgid "C_hoose Files..."
+msgid "C_hoose Files…"
 msgstr "Bestanden _kiezen…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FileImportSource.cs:81
@@ -4042,7 +4042,7 @@ msgid "Folders"
 msgstr "Mappen"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:57
-msgid "C_hoose Folders..."
+msgid "C_hoose Folders…"
 msgstr "Mappen _kiezen…"
 
 #: ../src/Core/Banshee.ThickClient/Banshee.Library.Gui/FolderImportSource.cs:75
@@ -4119,7 +4119,7 @@ msgid "Reset location to default ({0})"
 msgstr "Standaardlocatie herstellen ({0})"
 
 #. FIXME this shouldn't be hard-coded to 'Source:', but this is the only
-#. user of this code atm...
+#. user of this code atm…
 #: ../src/Core/Banshee.ThickClient/Banshee.Preferences.Gui/NotebookPage.cs:76
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/DetailsView.cs:245
 msgid "Source:"
@@ -4180,7 +4180,7 @@ msgstr "De artiest- en albumbrowser tonen of verbergen"
 
 #: ../src/Core/Banshee.WebBrowser/Banshee.WebSource/WebBrowserShell.cs:121
 #, csharp-format
-msgid "Loading {0}..."
+msgid "Loading {0}…"
 msgstr "{0} laden…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/DiscUsageDisplay.cs:189
@@ -4205,7 +4205,7 @@ msgstr "Inactief"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:147
 #: ../src/Extensions/Banshee.AmazonMp3/Banshee.AmazonMp3/AmazonDownloadManager.cs:58
-msgid "Contacting..."
+msgid "Contacting…"
 msgstr "Verbinden…"
 
 #: ../src/Core/Banshee.Widgets/Banshee.Widgets/StreamPositionLabel.cs:157
@@ -4269,7 +4269,7 @@ msgid "Syncing iPod"
 msgstr "iPod aan het synchroniseren"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:556
-msgid "Preparing to synchronize..."
+msgid "Preparing to synchronize…"
 msgstr "Synchroniseren voorbereiden…"
 
 #: ../src/Dap/Banshee.Dap.AppleDevice/Banshee.Dap.AppleDevice/AppleDeviceSource.cs:559
@@ -4458,7 +4458,7 @@ msgstr "Verbinding verbreken"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:108
 #, csharp-format
-msgid "Disconnecting {0}..."
+msgid "Disconnecting {0}…"
 msgstr "Verbinding met {0} verbreken…"
 
 #: ../src/Dap/Banshee.Dap/Banshee.Dap/RemovableSource.cs:115
@@ -4612,7 +4612,7 @@ msgid "Open Book"
 msgstr "Boeken openen"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:56
-msgid "Merge Discs..."
+msgid "Merge Discs…"
 msgstr "Schijven samenvoegen…"
 
 #: ../src/Extensions/Banshee.Audiobook/Banshee.Audiobook/Actions.cs:61
@@ -4786,7 +4786,7 @@ msgid "Duplicate this audio CD"
 msgstr "Deze cd dupliceren"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:131
-msgid "Searching for track information..."
+msgid "Searching for track information…"
 msgstr "Zoeken naar nummerinformatie…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:164
@@ -4808,7 +4808,7 @@ msgid "Could not duplicate audio CD"
 msgstr "Kon audio-cd niet kopiëren"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:364
-msgid "Ejecting audio CD..."
+msgid "Ejecting audio CD…"
 msgstr "Uitwerpen van audio-cd…"
 
 #: ../src/Extensions/Banshee.AudioCd/Banshee.AudioCd/AudioCdSource.cs:382
@@ -5016,7 +5016,7 @@ msgstr "eMusic-nummer(s) downloaden"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:51
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:51
-msgid "Initializing..."
+msgid "Initializing…"
 msgstr "Initialiseren…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:52
@@ -5038,7 +5038,7 @@ msgstr "Downloads afbreken"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/DownloadManager/DownloadUserJob.cs:135
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/DownloadManager/DownloadUserJob.cs:135
-msgid "Waiting for downloads to terminate..."
+msgid "Waiting for downloads to terminate…"
 msgstr "Wachten tot downloads zijn afgebroken…"
 
 #: ../src/Extensions/Banshee.Emusic/Banshee.Emusic/EmusicImport.cs:59
@@ -5117,7 +5117,7 @@ msgstr ""
 "of haal de selectie weg om geen actie te ondernemen."
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixActions.cs:50
-msgid "Fix Music Metadata..."
+msgid "Fix Music Metadata…"
 msgstr "Muziekmetadata opschonen…"
 
 #: ../src/Extensions/Banshee.Fixup/Banshee.Fixup/FixSource.cs:48
@@ -5357,7 +5357,7 @@ msgstr "_Tekst"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:100
 #, csharp-format
-msgid "Search..."
+msgid "Search…"
 msgstr "Zoeken…"
 
 #: ../src/Extensions/Banshee.InternetArchive/Banshee.InternetArchive/HomeView.cs:111
@@ -6001,7 +6001,7 @@ msgid "Unknown Similarity"
 msgstr "Onbekende gelijkenis"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:59
-msgid "_Add Station..."
+msgid "_Add Station…"
 msgstr "Zender toe_voegen…"
 
 #: ../src/Extensions/Banshee.LastfmStreaming/Banshee.LastfmStreaming/LastfmStreamingActions.cs:60
@@ -6348,7 +6348,7 @@ msgstr "Speellijsten importeren"
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:120
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/RhythmboxPlayerImportSource.cs:386
 #, csharp-format
-msgid "Locate your \"{0}\" file..."
+msgid "Locate your \"{0}\" file…"
 msgstr "‘{0}’-bestand opzoeken…"
 
 #: ../src/Extensions/Banshee.PlayerMigration/Banshee.PlayerMigration/ItunesPlayerImportDialogs.cs:138
@@ -6603,7 +6603,7 @@ msgid "Check all podcasts for new episodes"
 msgstr "Alle podcasts op nieuwe afleveringen controleren"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:78
-msgid "Add Podcast..."
+msgid "Add Podcast…"
 msgstr "Podcast toevoegen…"
 
 #: ../src/Extensions/Banshee.Podcasting/Banshee.Podcasting.Gui/PodcastActions.cs:79
@@ -6826,12 +6826,12 @@ msgstr "Geüpload door"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:233
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:234
-msgid "Play in Banshee..."
+msgid "Play in Banshee…"
 msgstr "In Banshee afspelen…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:237
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube.Gui/VideoStreamTile.cs:238
-msgid "Play in Web Browser..."
+msgid "Play in Web Browser…"
 msgstr "In webbrowser afspelen…"
 
 #: ../src/Extensions/Banshee.YouTube/Banshee.YouTube/YouTubePane.cs:61
@@ -7143,16 +7143,16 @@ msgstr "Onbekende podcast"
 #~ msgid "Rebuilding Database"
 #~ msgstr "Database opnieuw maken"
 
-#~ msgid "Scanning iPod..."
+#~ msgid "Scanning iPod…"
 #~ msgstr "iPod doorzoeken…"
 
-#~ msgid "Processing Tracks..."
+#~ msgid "Processing Tracks…"
 #~ msgstr "Nummers verwerken…"
 
-#~ msgid "Ordering Tracks..."
+#~ msgid "Ordering Tracks…"
 #~ msgstr "Nummers sorteren…"
 
-#~ msgid "Saving new database..."
+#~ msgid "Saving new database…"
 #~ msgstr "Nieuwe database opslaan…"
 
 #~ msgid "Error rebuilding iPod database"
@@ -7176,10 +7176,10 @@ msgstr "Onbekende podcast"
 #~ msgid "Please manually remove some songs"
 #~ msgstr "Verwijder handmatige enkele nummers"
 
-#~ msgid "Updating..."
+#~ msgid "Updating…"
 #~ msgstr "Bijwerken…"
 
-#~ msgid "Flushing to disk..."
+#~ msgid "Flushing to disk…"
 #~ msgstr "Naar schijf schrijven…"
 
 #~ msgid "Unable to read your iPod"
@@ -7223,7 +7223,7 @@ msgstr "Onbekende podcast"
 #~ "Uw iPod is als ‘alleen lezen’ aangekoppeld. Banshee kan uw iPod niet "
 #~ "herstellen."
 
-#~ msgid "Rebuild iPod Database..."
+#~ msgid "Rebuild iPod Database…"
 #~ msgstr "iPod-database opnieuw maken"
 
 #~ msgid "Confirm Rebuild iPod Database"
@@ -7243,7 +7243,7 @@ msgstr "Onbekende podcast"
 #~ msgid "Rebuild Database"
 #~ msgstr "Database opnieuw maken"
 
-#~ msgid "Rebuilding iPod Database..."
+#~ msgid "Rebuilding iPod Database…"
 #~ msgstr "iPod-database opnieuw maken…"
 
 #~ msgid "GIO IO backend"
@@ -7361,7 +7361,7 @@ msgstr "Onbekende podcast"
 #~ msgstr "Auteur"
 
 #, fuzzy
-#~ msgid "Authorize..."
+#~ msgid "Authorize…"
 #~ msgstr "Auteur"
 
 #~ msgid "Loved"
@@ -7379,7 +7379,7 @@ msgstr "Onbekende podcast"
 #~ msgid "Refresh All Podcasts"
 #~ msgstr "Alle podcasts bijwerken"
 
-#~ msgid "Subscribe to Podcast..."
+#~ msgid "Subscribe to Podcast…"
 #~ msgstr "Op podcast abonneren…"
 
 #~ msgid "Mark as Old"
@@ -7474,10 +7474,10 @@ msgstr "Onbekende podcast"
 #~ msgid "Eject {0}"
 #~ msgstr "{0} uitwerpen"
 
-#~ msgid "Preparing..."
+#~ msgid "Preparing…"
 #~ msgstr "Voorbereiden…"
 
-#~ msgid "_Configure..."
+#~ msgid "_Configure…"
 #~ msgstr "In_stellen…"
 
 #~ msgid "Configure the Last.fm Extension"
