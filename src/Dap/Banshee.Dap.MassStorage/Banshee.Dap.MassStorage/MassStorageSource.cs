@@ -702,7 +702,7 @@ namespace Banshee.Dap.MassStorage
                 string album = FileNamePattern.Escape (track.DisplayAlbumTitle);
                 string title = FileNamePattern.Escape (track.DisplayTrackTitle);
                 file_path = System.IO.Path.Combine (album, title);
-            } else if (ms_device == null || !ms_device.GetTrackPath (track, out file_path)) {
+            } else {
                 // If the folder_depth property exists, we have to put the files in a hiearchy of
                 // the exact given depth (not including the mount point/audio_folder).
                 if (FolderDepth != -1) {
@@ -750,7 +750,7 @@ namespace Banshee.Dap.MassStorage
                         file_path = System.IO.Path.Combine (file_path, track_album);
                         file_path = System.IO.Path.Combine (file_path, String.Format ("{0} - {1}", track_number, track_title));
                     }
-                } else {
+                } else if (ms_device == null || !ms_device.GetTrackPath (track, out file_path)) {
                     file_path = MusicLibrarySource.MusicFileNamePattern.CreateFromTrackInfo (track);
                 }
             }
