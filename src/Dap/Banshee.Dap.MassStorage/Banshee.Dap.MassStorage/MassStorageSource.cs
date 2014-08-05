@@ -595,25 +595,25 @@ namespace Banshee.Dap.MassStorage
                 string coverart_id = track.ArtworkId;
 
                 if (!File.Exists (cover_uri) && CoverArtSpec.CoverExists (coverart_id)) {
-                    Gdk.Pixbuf pic = null;
-
-                    if (CoverArtSize == 0) {
-                        if (CoverArtFileType == "jpg" || CoverArtFileType == "jpeg") {
-                            SafeUri local_cover_uri = new SafeUri (Banshee.Base.CoverArtSpec.GetPath (coverart_id));
-                            Banshee.IO.File.Copy (local_cover_uri, cover_uri, false);
-                        } else {
-                            pic = artwork_manager.LookupPixbuf (coverart_id);
-                        }
+                    if (CoverArtFileType == "jpg" || CoverArtFileType == "jpeg") {
+                        SafeUri local_cover_uri = new SafeUri (Banshee.Base.CoverArtSpec.GetPath (coverart_id));
+                        Banshee.IO.File.Copy (local_cover_uri, cover_uri, false);
                     } else {
-                        pic = artwork_manager.LookupScalePixbuf (coverart_id, CoverArtSize);
-                    }
-
-                    if (pic != null) {
+                        Gdk.Pixbuf pic = null;
                         try {
-                            byte [] bytes = pic.SaveToBuffer (CoverArtFileType);
-                            System.IO.Stream cover_art_file = File.OpenWrite (cover_uri, true);
-                            cover_art_file.Write (bytes, 0, bytes.Length);
-                            cover_art_file.Close ();
+                            byte[] bytes = null;
+                            ThreadAssist.BlockingProxyToMain (() => {
+                                pic = artwork_manager.LookupScalePixbuf (coverart_id, CoverArtSize);
+                                bytes = pic.SaveToBuffer (CoverArtFileType);
+                            });
+
+                            if (bytes != null) {
+                                System.IO.Stream cover_art_file = File.OpenWrite (cover_uri, true);
+                                cover_art_file.Write (bytes, 0, bytes.Length);
+                                cover_art_file.Close ();
+                            } else {
+                                Log.Error ("Cover art {0} had no bytes", coverart_id);
+                            }
                         } catch (GLib.GException){
                             Log.DebugFormat ("Could not convert cover art to {0}, unsupported filetype?", CoverArtFileType);
                         } finally {
