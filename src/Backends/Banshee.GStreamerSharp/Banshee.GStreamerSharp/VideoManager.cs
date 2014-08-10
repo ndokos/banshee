@@ -124,6 +124,7 @@ namespace Banshee.GStreamerSharp
 
             if (found_xoverlay) {
                 xoverlay.WindowHandle = video_window_xid.Value;
+                xoverlay.HandleEvents (true);
             }
         }
 
@@ -151,6 +152,7 @@ namespace Banshee.GStreamerSharp
             }
 
             xoverlay.WindowHandle = video_window_xid.Value;
+            xoverlay.HandleEvents (true);
             return true;
         }
 
