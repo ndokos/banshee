@@ -34,11 +34,14 @@ function check_autotool_version () {
 }
 
 function run () {
+	which $1 >/dev/null || {
+		error "Could not find '$1', which is required to configure $PROJECT"
+	}
 	echo "Running $@ ..."
 	$@ 2>.autogen.log || {
 		cat .autogen.log 1>&2
 		rm .autogen.log
-		error "Could not run $1, which is required to configure $PROJECT"
+		error "There were errors when running '$1', a step that is required to configure $PROJECT"
 	}
 	rm .autogen.log
 }
@@ -49,6 +52,12 @@ test -z "$srcdir" && srcdir=.
 (test -f $srcdir/configure.ac) || {
 	error "Directory \"$srcdir\" does not look like the top-level $PROJECT directory"
 }
+
+builddir=`pwd`
+cd "$srcdir"
+
+# in case there are binaries from a previous compilation
+make distclean 2>/dev/null
 
 # MacPorts on OS X only seems to have glibtoolize
 WHICHLIBTOOLIZE=$(which libtoolize || which glibtoolize)
@@ -87,6 +96,7 @@ if [ $# = 0 ]; then
 	echo "WARNING: I am going to run configure without any arguments."
 fi
 
+cd "$builddir"
 
 { cat <<EOF
 #!/usr/bin/env bash
@@ -95,4 +105,4 @@ EOF
 } > reautogen.sh
 chmod +x reautogen.sh
 
-run ./configure $@
+run "$srcdir/configure" $@

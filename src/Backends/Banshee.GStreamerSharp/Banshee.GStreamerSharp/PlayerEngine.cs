@@ -39,6 +39,7 @@ using Mono.Unix;
 
 using Gst;
 using Gst.PbUtils;
+using Gst.Video;
 
 using Hyena;
 using Banshee.Collection;
@@ -47,7 +48,6 @@ using Banshee.MediaEngine;
 using Banshee.ServiceStack;
 using Banshee.Configuration;
 using Banshee.Preferences;
-using Gst.Video;
 
 using Constants = Gst.Constants;
 using Global = Gst.Global;
@@ -468,7 +468,7 @@ namespace Banshee.GStreamerSharp
             if (accurate_seek) {
                 seek_flags |= SeekFlags.Accurate;
             }
-            playbin.SeekSimple (Format.Time, seek_flags, (((long)position) * Constants.MSECOND));
+            playbin.SeekSimple (Format.Time, seek_flags, (((long)position) * Gst.Constants.MSECOND));
             OnEventChanged (PlayerEvent.Seek);
         }
 
@@ -538,8 +538,8 @@ namespace Banshee.GStreamerSharp
 
                 case MessageType.Element:
 
-                    if (GlobalPbUtil.IsMissingPluginMessage (msg)) {
-                        string detail = GlobalPbUtil.MissingPluginMessageGetInstallerDetail (msg);
+                if (Gst.PbUtils.Global.IsMissingPluginMessage (msg)) {
+                    string detail = Gst.PbUtils.Global.MissingPluginMessageGetInstallerDetail (msg);
 
                         if (detail == null)
                             return false;
@@ -552,10 +552,10 @@ namespace Banshee.GStreamerSharp
                         Log.DebugFormat ("Saving missing element details ('{0}')", detail);
                         missing_details.Add (detail);
 
-                        Log.Error ("Missing GStreamer Plugin", GlobalPbUtil.MissingPluginMessageGetDescription (msg), true);
+                        Log.Error ("Missing GStreamer Plugin", Gst.PbUtils.Global.MissingPluginMessageGetDescription (msg), true);
 
                         InstallPluginsContext install_context = new InstallPluginsContext ();
-                        GlobalPbUtil.InstallPluginsAsync (missing_details.ToArray (), install_context, OnInstallPluginsReturn);
+                        Gst.PbUtils.Global.InstallPluginsAsync (missing_details.ToArray (), install_context, OnInstallPluginsReturn);
                     } else if (NavigationAdapter.MessageGetType (msg) == NavigationMessageType.CommandsChanged) {
                         dvd_manager.HandleCommandsChanged (playbin);
                     }
@@ -615,7 +615,7 @@ namespace Banshee.GStreamerSharp
 
             var error_message = String.IsNullOrEmpty (ex.Message) ? Catalog.GetString ("Unknown Error") : ex.Message;
 
-            if (ex.Domain == Global.ResourceErrorQuark ()) {
+            if (ex.Domain == Gst.Global.ResourceErrorQuark ()) {
                 ResourceError domain_code = (ResourceError)ex.Code;
                 if (failed_track != null) {
                     switch (domain_code) {
@@ -627,7 +627,7 @@ namespace Banshee.GStreamerSharp
                     }
                 }
                 Log.Error (String.Format ("GStreamer resource error: {0}", domain_code), false);
-            } else if (ex.Domain == Global.StreamErrorQuark ()) {
+            } else if (ex.Domain == Gst.Global.StreamErrorQuark ()) {
                 StreamError domain_code = (StreamError)ex.Code;
                 if (failed_track != null) {
                     switch (domain_code) {
@@ -640,7 +640,7 @@ namespace Banshee.GStreamerSharp
                 }
 
                 Log.Error (String.Format ("GStreamer stream error: {0}", domain_code), false);
-            } else if (ex.Domain == Global.CoreErrorQuark ()) {
+            } else if (ex.Domain == Gst.Global.CoreErrorQuark ()) {
                 CoreError domain_code = (CoreError)ex.Code;
                 if (failed_track != null) {
                     switch (domain_code) {
@@ -655,7 +655,7 @@ namespace Banshee.GStreamerSharp
                 if (domain_code != CoreError.MissingPlugin) {
                     Log.Error (String.Format ("GStreamer core error: {0}", domain_code), false);
                 }
-            } else if (ex.Domain == Global.LibraryErrorQuark ()) {
+            } else if (ex.Domain == Gst.Global.LibraryErrorQuark ()) {
                 Log.Error (String.Format ("GStreamer library error: {0}", ex.Code), false);
             }
 
@@ -800,7 +800,7 @@ namespace Banshee.GStreamerSharp
                 return String.Empty;
 
             string code;
-            if (!list.GetString (Constants.TAG_LANGUAGE_CODE, out code))
+            if (!list.GetString (Gst.Constants.TAG_LANGUAGE_CODE, out code))
                 return String.Empty;
 
             var name = Tag.GetLanguageName (code);
@@ -847,7 +847,7 @@ namespace Banshee.GStreamerSharp
             get {
                 long pos;
                 playbin.QueryPosition (query_format, out pos);
-                return (uint) ((ulong)pos / Constants.MSECOND);
+                return (uint) ((ulong)pos / Gst.Constants.MSECOND);
             }
             set { Seek (value); }
         }
@@ -856,7 +856,7 @@ namespace Banshee.GStreamerSharp
             get {
                 long duration;
                 playbin.QueryDuration (query_format, out duration);
-                return (uint) ((ulong)duration / Constants.MSECOND);
+                return (uint) ((ulong)duration / Gst.Constants.MSECOND);
             }
         }
 
