@@ -32,7 +32,7 @@ using org.freedesktop.DBus;
 namespace Notifications {
 	[Interface ("org.freedesktop.Notifications")]
 	internal interface INotifications : Introspectable, Properties {
-		ServerInformation ServerInformation { get; }
+		ServerInformation GetServerInformation ();
 		string[] GetCapabilities ();
 		void CloseNotification (uint id);
 		uint Notify (string app_name, uint id, string icon, string summary, string body,
@@ -89,7 +89,7 @@ namespace Notifications {
 		
 		public static ServerInformation ServerInformation {
 			get {
-				return DBusObject.ServerInformation;
+				return DBusObject.GetServerInformation ();
 			}
 		}
 	}
