@@ -30,7 +30,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Externalconsole>true</Externalconsole>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <ItemGroup>

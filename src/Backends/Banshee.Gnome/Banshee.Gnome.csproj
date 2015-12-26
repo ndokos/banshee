@@ -27,7 +27,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <CustomCommands>
       <CustomCommands>
         <Command type="Build" command="echo 1" />
@@ -73,13 +73,13 @@
       <Package>gconf-sharp-2.0</Package>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\bin\dbus-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
     </Reference>
     <Reference Include="dbus-sharp-glib">
-      <HintPath>..\..\..\bin\bin\dbus-sharp-glib.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp-glib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

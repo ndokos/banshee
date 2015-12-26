@@ -28,7 +28,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <CustomCommands>
       <CustomCommands>
         <Command type="AfterBuild" command="..\..\..\build\windows\post-build.bat" workingdir="${SolutionDir}" />
@@ -57,16 +57,16 @@
     </ProjectReference>
     <Reference Include="Mono.Addins, Version=0.4.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\bin\bin\Mono.Addins.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Addins.dll</HintPath>
       <Package>mono-addins</Package>
     </Reference>
     <Reference Include="dbus-sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f6716e4f9b2ed099">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\bin\bin\dbus-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
     </Reference>
     <Reference Include="taglib-sharp, Version=2.0.3.7, Culture=neutral, PublicKeyToken=db62eba44689b5b0">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\bin\bin\taglib-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\taglib-sharp.dll</HintPath>
       <Package>taglib-sharp</Package>
     </Reference>
     <Reference Include="nunit.framework, Version=2.6.0.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
@@ -77,7 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Banshee.Core\Banshee.Core.csproj">
@@ -87,10 +87,10 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="Karma-Sharp">
-      <HintPath>..\..\..\bin\bin\karma-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\karma-sharp.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>

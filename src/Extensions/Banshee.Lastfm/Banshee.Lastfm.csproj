@@ -25,7 +25,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <ItemGroup>
@@ -38,13 +38,13 @@
     <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="gtk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Security">
-      <HintPath>..\..\..\bin\bin\Mono.Security.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Security.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Addins">
-      <HintPath>..\..\..\bin\bin\Mono.Addins.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Addins.dll</HintPath>
       <Package>mono-addins</Package>
     </Reference>
     <Reference Include="gio-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />

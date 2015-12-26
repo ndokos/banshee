@@ -30,13 +30,13 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Externalconsole>true</Externalconsole>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\bin\dbus-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

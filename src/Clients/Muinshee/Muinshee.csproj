@@ -30,7 +30,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Externalconsole>true</Externalconsole>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <ItemGroup>
@@ -40,17 +40,17 @@
     <Reference Include="gio-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="gtk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="cairo-sharp, Version=1.10.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756">
-      <HintPath>..\..\..\bin\bin\cairo-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\cairo-sharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\bin\dbus-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
     </Reference>
     <Reference Include="dbus-sharp-glib">
-      <HintPath>..\..\..\bin\bin\dbus-sharp-glib.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp-glib.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

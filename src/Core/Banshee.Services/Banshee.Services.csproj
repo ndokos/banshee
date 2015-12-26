@@ -30,7 +30,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <DefineConstants>WIN32</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
@@ -39,23 +39,23 @@
     <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="System.Xml" />
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\bin\dbus-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
     </Reference>
     <Reference Include="dbus-sharp-glib">
-      <HintPath>..\..\..\bin\bin\dbus-sharp-glib.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp-glib.dll</HintPath>
     </Reference>
     <Reference Include="taglib-sharp">
-      <HintPath>..\..\..\bin\bin\taglib-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\taglib-sharp.dll</HintPath>
       <Package>taglib-sharp</Package>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>..\..\..\bin\bin\ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>..\..\..\bin\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Addins">
-      <HintPath>..\..\..\bin\bin\Mono.Addins.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Addins.dll</HintPath>
       <Package>mono-addins</Package>
     </Reference>
   </ItemGroup>

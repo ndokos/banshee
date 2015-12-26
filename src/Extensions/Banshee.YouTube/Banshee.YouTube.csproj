@@ -31,7 +31,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
@@ -46,22 +46,22 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>..\..\..\bin\bin\ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>..\..\..\bin\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Google.GData.YouTube">
-      <HintPath>..\..\..\bin\bin\Google.GData.YouTube.dll</HintPath>
+      <HintPath>..\..\..\bin\Google.GData.YouTube.dll</HintPath>
       <Package>gdata-sharp-youtube</Package>
     </Reference>
     <Reference Include="Google.GData.Extensions">
-      <HintPath>..\..\..\bin\bin\Google.GData.Extensions.dll</HintPath>
+      <HintPath>..\..\..\bin\Google.GData.Extensions.dll</HintPath>
       <Package>gdata-sharp-core</Package>
     </Reference>
     <Reference Include="Google.GData.Client">
-      <HintPath>..\..\..\bin\bin\Google.GData.Client.dll</HintPath>
+      <HintPath>..\..\..\bin\Google.GData.Client.dll</HintPath>
       <Package>gdata-sharp-core</Package>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
     <Reference Include="gtk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />

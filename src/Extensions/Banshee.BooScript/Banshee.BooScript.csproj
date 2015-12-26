@@ -26,7 +26,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <ItemGroup>
@@ -51,19 +51,19 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="Boo.Lang">
-      <HintPath>..\..\..\bin\bin\Boo.Lang.dll</HintPath>
+      <HintPath>..\..\..\bin\Boo.Lang.dll</HintPath>
       <Package>boo</Package>
     </Reference>
     <Reference Include="Boo.Lang.Compiler">
-      <HintPath>..\..\..\bin\bin\Boo.Lang.Compiler.dll</HintPath>
+      <HintPath>..\..\..\bin\Boo.Lang.Compiler.dll</HintPath>
       <Package>boo</Package>
     </Reference>
     <Reference Include="Boo.Lang.Interpreter">
-      <HintPath>..\..\..\bin\bin\Boo.Lang.Interpreter.dll</HintPath>
+      <HintPath>..\..\..\bin\Boo.Lang.Interpreter.dll</HintPath>
       <Package>boo</Package>
     </Reference>
     <Reference Include="Boo.Lang.Parser">
-      <HintPath>..\..\..\bin\bin\Boo.Lang.Parser.dll</HintPath>
+      <HintPath>..\..\..\bin\Boo.Lang.Parser.dll</HintPath>
       <Package>boo</Package>
     </Reference>
   </ItemGroup>

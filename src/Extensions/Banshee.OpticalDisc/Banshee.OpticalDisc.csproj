@@ -27,7 +27,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Banshee.Core\Banshee.Core.csproj">
@@ -49,11 +49,11 @@
     <Reference Include="atk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="taglib-sharp">
-      <HintPath>..\..\..\bin\bin\taglib-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\taglib-sharp.dll</HintPath>
       <Package>taglib-sharp</Package>
     </Reference>
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
     <ProjectReference Include="..\..\Hyena\Hyena\Hyena.csproj">
       <Project>{95374549-9553-4C1E-9D89-667755F90E12}</Project>
@@ -64,7 +64,7 @@
       <Name>Hyena.Gui</Name>
     </ProjectReference>
     <Reference Include="Mono.Addins">
-      <HintPath>..\..\..\bin\bin\Mono.Addins.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Addins.dll</HintPath>
       <Package>mono-addins</Package>
     </Reference>
     <ProjectReference Include="..\..\Hyena\Hyena.Data.Sqlite\Hyena.Data.Sqlite.csproj">

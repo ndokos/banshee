@@ -28,7 +28,7 @@
     <DebugType>full</DebugType>
     <PlatformTarget>x86</PlatformTarget>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\bin\bin</OutputPath>
+    <OutputPath>..\..\..\bin</OutputPath>
     <DefineConstants>INTERNAL_NOTIFY_SHARP</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
@@ -50,13 +50,13 @@
     </ProjectReference>
     <Reference Include="atk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="cairo-sharp, Version=1.10.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756">
-      <HintPath>..\..\..\bin\bin\cairo-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\cairo-sharp.dll</HintPath>
     </Reference>
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\bin\dbus-sharp.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
     </Reference>
     <Reference Include="dbus-sharp-glib">
-      <HintPath>..\..\..\bin\bin\dbus-sharp-glib.dll</HintPath>
+      <HintPath>..\..\..\bin\dbus-sharp-glib.dll</HintPath>
     </Reference>
     <ProjectReference Include="..\..\Hyena\Hyena.Gui\Hyena.Gui.csproj">
       <Project>{C856EFD8-E812-4E61-8B76-E3583D94C233}</Project>
@@ -79,7 +79,7 @@
     <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="gdk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
     <Reference Include="Mono.Posix">
-      <HintPath>..\..\..\bin\bin\Mono.Posix.dll</HintPath>
+      <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
