@@ -21,11 +21,10 @@
     <WarningLevel>4</WarningLevel>
     <OutputPath>..\..\..\bin</OutputPath>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Windows|AnyCPU' ">
-    <DebugType>none</DebugType>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Optimize>false</Optimize>
-    <WarningLevel>4</WarningLevel>
     <OutputPath>..\..\..\bin</OutputPath>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Banshee.Core\Banshee.Core.csproj">
@@ -59,13 +58,15 @@
     <Reference Include="System.Core" />
     <Reference Include="Mono.Addins">
       <HintPath>..\..\..\bin\Mono.Addins.dll</HintPath>
-      <Package>mono-addins</Package>
     </Reference>
-    <Reference Include="gtk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
-    <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <Reference Include="gtk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>gtk-sharp-3.0</Package>
+    </Reference>
+    <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>glib-sharp-3.0</Package>
+    </Reference>
     <Reference Include="taglib-sharp">
       <HintPath>..\..\..\bin\taglib-sharp.dll</HintPath>
-      <Package>taglib-sharp</Package>
     </Reference>
   </ItemGroup>
   <ItemGroup>

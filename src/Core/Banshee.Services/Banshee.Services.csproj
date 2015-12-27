@@ -25,28 +25,27 @@
     <Optimize>false</Optimize>
     <OutputPath>..\..\..\bin</OutputPath>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Windows|AnyCPU' ">
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <PlatformTarget>x86</PlatformTarget>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Optimize>false</Optimize>
     <OutputPath>..\..\..\bin</OutputPath>
-    <DefineConstants>WIN32</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <Reference Include="glib-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>glib-sharp-3.0</Package>
+    </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="dbus-sharp">
       <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
+      <Package>dbus-sharp-2.0</Package>
     </Reference>
     <Reference Include="dbus-sharp-glib">
       <HintPath>..\..\..\bin\dbus-sharp-glib.dll</HintPath>
+      <Package>dbus-sharp-glib-2.0</Package>
     </Reference>
     <Reference Include="taglib-sharp">
       <HintPath>..\..\..\bin\taglib-sharp.dll</HintPath>
-      <Package>taglib-sharp</Package>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
       <HintPath>..\..\..\bin\ICSharpCode.SharpZipLib.dll</HintPath>
@@ -56,7 +55,6 @@
     </Reference>
     <Reference Include="Mono.Addins">
       <HintPath>..\..\..\bin\Mono.Addins.dll</HintPath>
-      <Package>mono-addins</Package>
     </Reference>
   </ItemGroup>
   <ItemGroup>
