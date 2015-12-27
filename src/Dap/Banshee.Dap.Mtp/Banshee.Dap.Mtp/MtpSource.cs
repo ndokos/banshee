@@ -27,6 +27,7 @@
 //
 
 using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.Threading;
 using Mono.Unix;
@@ -354,7 +355,7 @@ namespace Banshee.Dap.Mtp
 
                 // Add/update album art
                 if (!video) {
-                    string key = MakeAlbumKey (track.AlbumArtist, track.AlbumTitle);
+                    string key = MakeAlbumKey (track);
                     if (!album_cache.ContainsKey (key)) {
                         // LIBMTP 1.0.3 BUG WORKAROUND
                         // In libmtp.c the 'LIBMTP_Create_New_Album' function invokes 'create_new_abstract_list'.
@@ -448,23 +449,23 @@ namespace Banshee.Dap.Mtp
 
         private Folder GetAlbumFolder (TrackInfo track)
         {
-            string artist = track.DisplayAlbumArtistName;
-            string album = track.DisplayAlbumTitle;
-            string key = MakeAlbumKey (artist, album);
+            string artist = FileSystem.Safe(track.DisplayAlbumArtistName);
+            string album = FileSystem.Safe(track.DisplayAlbumTitle);
+            string key = MakeAlbumKey (track);
 
             if (album_cache.ContainsKey (key)) {
                 return album_cache [key].Item2;
             }
 
             Folder root = mtp_device.MusicFolder;
-            Folder tmp = root.GetChildren ().Find (x => x.Name == artist);
+            Folder tmp = root.GetChildren ().Find (x => FileSystem.EqualsNoCase(artist, x.Name));
             Folder target;
 
             if (null == tmp) {
                 target = root.AddChild (artist).AddChild (album);
             }
             else {
-                target = tmp.GetChildren ().Find (x => x.Name == album);
+                target = tmp.GetChildren ().Find (x => FileSystem.EqualsNoCase(album, x.Name));
 
                 if (null == target) {
                     target = tmp.AddChild (album);
@@ -490,7 +491,7 @@ namespace Banshee.Dap.Mtp
                 mtp_device.Remove (mtp_track);
 
                 // Remove track from album, and remove album from device if it no longer has tracks
-                string key = MakeAlbumKey (track.ArtistName, track.AlbumTitle);
+                string key = MakeAlbumKey (track);
                 if (album_cache.ContainsKey (key)) {
                     Album album = album_cache[key].Item1;
                     album.RemoveTrack (mtp_track);
@@ -530,9 +531,9 @@ namespace Banshee.Dap.Mtp
             base.Dispose ();
         }
 
-        private static string MakeAlbumKey (string album_artist, string album)
+        private static string MakeAlbumKey (TrackInfo track)
         {
-            return String.Format ("{0}_{1}", album_artist, album);
+            return track.DisplayAlbumArtistName + "_" + track.DisplayAlbumTitle;
         }
 
         public static readonly SchemaEntry<bool> NeverSyncAlbumArtSchema = new SchemaEntry<bool>(
