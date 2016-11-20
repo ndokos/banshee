@@ -89,12 +89,12 @@ namespace Banshee.Dap.Gui
             ThreadAssist.ProxyToMain (UpdateActions);
         }
 
-        private void UpdateActions ()
+        internal void UpdateActions ()
         {
             DapSource dap = Dap;
             if (dap != null) {
-                UpdateAction ("SyncDapAction", dap.Sync.Enabled);
-                UpdateAction ("ClaimDapAction", dap is PotentialSource);
+                UpdateAction ("SyncDapAction", dap.IsConnected && dap.Sync.Enabled);
+                UpdateAction ("ClaimDapAction", !dap.IsConnected);
             }
         }
 

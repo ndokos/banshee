@@ -48,8 +48,9 @@ using Banshee.Hardware;
 
 namespace Banshee.Dap.Mtp
 {
-    public class MtpSource : DapSource
+    public class MtpSource : PotentialSource
     {
+        private RawMtpDevice raw_device;
         private MtpDevice mtp_device;
 
         //private bool supports_jpegs = false;
@@ -89,32 +90,34 @@ namespace Banshee.Dap.Mtp
                 throw new InvalidDeviceException ();
             }
 
-            IVolume volume = device as IVolume;
-            foreach (var v in devices) {
-                // Using the HAL hardware backend, HAL says the busnum is 2, but libmtp says it's 0, so disabling that check
-                //if (v.BusNumber == busnum && v.DeviceNumber == devnum) {
-                if (v.DeviceNumber == devnum) {
-                    // If gvfs-gphoto has it mounted, unmount it
-                    if (volume != null && volume.IsMounted && force) {
-                        Log.DebugFormat ("MtpSource: attempting to unmount {0}", volume.Name);
-                        volume.Unmount ();
-                    }
+            raw_device = devices.FirstOrDefault (x => x.DeviceNumber == devnum);
 
-                    if (volume != null && volume.IsMounted) {
-                        throw new InvalidDeviceStateException ();
-                    }
-
-                    mtp_device = MtpDevice.Connect (v);
-
-                    if (mtp_device == null) {
-                        Log.DebugFormat ("Failed to connect to mtp device {0}", device.Name);
-                        throw new InvalidDeviceStateException ();
-                    }
-                }
+            if (raw_device == null) {
+                throw new InvalidDeviceException ();
             }
 
+            Initialize ();
+        }
+
+        protected override bool Claim()
+        {
+            IDevice device = Device;
+            IVolume volume = device as IVolume;
+
+            if (volume != null && volume.IsMounted) {
+                Log.DebugFormat ("MtpSource: attempting to unmount {0}", volume.Name);
+                volume.Unmount ();
+            }
+
+            if (volume != null && volume.IsMounted) {
+                throw new InvalidDeviceStateException ();
+            }
+
+            mtp_device = MtpDevice.Connect (raw_device);
+
             if (mtp_device == null) {
-                throw new InvalidDeviceException ();
+                Log.DebugFormat ("Failed to connect to mtp device {0}", device.Name);
+                throw new InvalidDeviceStateException ();
             }
 
             // libmtp sometimes returns '?????'. I assume this is if the device does
@@ -124,7 +127,7 @@ namespace Banshee.Dap.Mtp
             else
                 Name = mtp_device.Name;
 
-            Initialize ();
+            Initialize (true);
 
             List<string> mimetypes = new List<string> ();
             foreach (FileType format in mtp_device.GetFileTypes ()) {
@@ -147,10 +150,14 @@ namespace Banshee.Dap.Mtp
             } catch (LibMtpException e) {
                 Log.Warning ("Unable to get battery level from MTP device", e);
             }
+
+            return true;
         }
 
         protected override void LoadFromDevice ()
         {
+            if (null == mtp_device) return;
+
             // Translators: {0} is the file currently being loaded
             // and {1} is the total # of files that will be loaded.
             string format = Catalog.GetString ("Reading File - {0} of {1}");
@@ -207,7 +214,6 @@ namespace Banshee.Dap.Mtp
                         for (int current = 0, total = playlists.Count; current < total; ++current) {
                             MTP.Playlist playlist = playlists [current];
                             SetStatus (String.Format (format, current + 1, total), false);
-                            Track mtp_track = files [current];
                             PlaylistSource pl_src = new PlaylistSource (playlist.Name, this);
                             pl_src.Save ();
                             // TODO a transaction would make sense here (when the threading issue is fixed)
@@ -273,7 +279,7 @@ namespace Banshee.Dap.Mtp
 
 
         public override bool CanRename {
-            get { return !(IsAdding || IsDeleting); }
+            get { return IsConnected && !(IsAdding || IsDeleting); }
         }
 
         private SafeUri empty_file = new SafeUri (Paths.Combine (Paths.ApplicationCache, "mtp.mp3"));
@@ -338,8 +344,16 @@ namespace Banshee.Dap.Mtp
             }
         }
 
+        public override bool CanImport {
+            get { return IsConnected; }
+        }
+
         public override bool IsReadOnly {
-            get { return false; }
+            get { return !IsConnected; }
+        }
+
+        public override bool IsConnected {
+            get { return mtp_device != null; }
         }
 
         protected override void AddTrackToDevice (DatabaseTrackInfo track, SafeUri fromUri)
