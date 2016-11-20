@@ -19,10 +19,12 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <OutputPath>..\..\..\bin</OutputPath>
+    <DefineConstants>LIBMTP_SIZEOF_TIME_T_64</DefineConstants>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>..\..\..\bin</OutputPath>
+    <DefineConstants>LIBMTP_SIZEOF_TIME_T_64</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
