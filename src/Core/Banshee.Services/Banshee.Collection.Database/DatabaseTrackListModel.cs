@@ -285,8 +285,6 @@ namespace Banshee.Collection.Database
                     }
                 }
 
-                Log.DebugFormat ("Source: {0}, Trigger: {1}, Found: {2}, Current: {3}, Reload: {4} - {5}", source.Name, trigger?.FilterName ?? "null", found, source.CurrentFilters.Count, reload_models.Count, string.Join(", ", reload_models.Select(x => x.FilterName)));
-
                 if (reload_models.Count == 0) {
                     ReloadWithFilters (true);
                 } else {
