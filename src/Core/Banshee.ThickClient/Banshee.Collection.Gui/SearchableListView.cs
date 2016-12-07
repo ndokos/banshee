@@ -27,22 +27,20 @@
 //
 
 using System;
-using Mono.Unix;
 using Gtk;
-
-using Hyena.Data;
 using Hyena.Data.Gui;
-using Hyena.Gui;
 using Hyena.Query;
 using Hyena.Widgets;
-
-using Banshee.Gui;
-using Banshee.Collection;
 using Banshee.Collection.Database;
+using Hyena.Collections;
 
 namespace Banshee.Collection.Gui
 {
+#if TREEVIEW
+    public class SearchableListView<T> : TreeView<T>
+#else
     public class SearchableListView<T> : ListView<T>
+#endif
     {
         protected SearchableListView () : base ()
         {
@@ -192,7 +190,7 @@ namespace Banshee.Collection.Gui
                 search_popup.KeyPressed += OnPopupKeyPressed;
             }
 
-            search_popup.Position (EventWindow);
+            search_popup.Position (Window);
             search_popup.HasFocus = true;
             search_popup.Show ();
             search_popup.Text = String.Format ("{0}{1}", search_popup.Text, "");//input);

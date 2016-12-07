@@ -149,13 +149,21 @@ namespace Banshee.Sources.Gui
 
         protected abstract void InitializeViews ();
 
+#if TREEVIEW
+        protected void SetupMainView<T> (TreeView<T> main_view)
+#else
         protected void SetupMainView<T> (ListView<T> main_view)
+#endif
         {
             this.main_view = main_view;
             main_scrolled_window = SetupView (main_view);
         }
 
+#if TREEVIEW
+        protected void SetupFilterView<T> (TreeView<T> filter_view)
+#else
         protected void SetupFilterView<T> (ListView<T> filter_view)
+#endif
         {
             ScrolledWindow window = SetupView (filter_view);
             filter_scrolled_windows.Add (window);
@@ -338,7 +346,7 @@ namespace Banshee.Sources.Gui
 
         protected void SetModel<T> (IListModel<T> model)
         {
-            ListView<T> view = FindListView <T> ();
+            var view = FindListView <T> ();
             if (view != null) {
                 SetModel (view, model);
             } else {
@@ -346,7 +354,11 @@ namespace Banshee.Sources.Gui
             }
         }
 
+        #if TREEVIEW
+        protected void SetModel<T> (TreeView<T> view, IListModel<T> model)
+        #else
         protected void SetModel<T> (ListView<T> view, IListModel<T> model)
+        #endif
         {
             if (view.Model != null) {
                 model_positions[view.Model] = view.Vadjustment != null ? view.Vadjustment.Value : 0;
@@ -364,17 +376,31 @@ namespace Banshee.Sources.Gui
             view.SetModel (model, model_positions[model]);
         }
 
-        private ListView<T> FindListView<T> ()
+        #if TREEVIEW
+        private TreeView<T> FindListView<T> ()
         {
-            if (main_view is ListView<T>)
-                return (ListView<T>) main_view;
+            if (main_view is TreeView<T>)
+                return (TreeView<T>) main_view;
 
             foreach (object view in filter_views)
-                if (view is ListView<T>)
-                    return (ListView<T>) view;
+                if (view is TreeView<T>)
+                    return (TreeView<T>) view;
 
             return null;
         }
+        #else
+        private ListView<T> FindListView<T> ()
+        {
+            if (main_view is ListView<T>)
+                return (ListView<T>)main_view;
+
+            foreach (object view in filter_views)
+                if (view is ListView<T>)
+                    return (ListView<T>)view;
+
+            return null;
+        }
+        #endif
 
         protected virtual string ForcePosition {
             get { return null; }

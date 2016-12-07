@@ -61,7 +61,9 @@ namespace Banshee.Collection.Gui
             RowActivated += (o, a) => {
                 var source = ServiceManager.SourceManager.ActiveSource as ITrackModelSource;
                 if (source != null && source.TrackModel == Model) {
-                    ServiceManager.Get<InterfaceActionService> ().TrackActions["PlayTrack"].Activate ();
+                    var ias = ServiceManager.Get<InterfaceActionService> ();
+                    var action = ias.TrackActions ["PlayTrack"];
+                    action.Activate ();
                 }
             };
 

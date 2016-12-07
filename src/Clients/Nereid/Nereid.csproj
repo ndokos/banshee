@@ -115,6 +115,7 @@
     <Compile Include="Nereid\PlayerInterface.cs" />
     <Compile Include="Nereid\ViewContainer.cs" />
     <Compile Include="Nereid\Client.cs" />
+    <Compile Include="Nereid\PlayerInterfaceLite.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

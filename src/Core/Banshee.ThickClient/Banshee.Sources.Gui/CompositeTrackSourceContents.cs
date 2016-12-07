@@ -56,7 +56,9 @@ namespace Banshee.Sources.Gui
         private YearListView year_view;
         private ArtistListView artist_view;
         private ArtistListView albumartist_view;
+#if !TREEVIEW
         private AlbumListView album_view;
+#endif
         private TrackListView track_view;
 
         private InterfaceActionService action_service;
@@ -207,7 +209,11 @@ namespace Banshee.Sources.Gui
             ArtistFilterType.Set (args.Current.Value == 1 ? "albumartist" : "artist");
         }
 
+#if TREEVIEW
+        private void SwapView<T> (TreeView<T> oldView, TreeView<T> newView)
+#else
         private void SwapView<T> (ListView<T> oldView, ListView<T> newView)
+#endif
         {
             List<ScrolledWindow> new_filter_list = new List<ScrolledWindow> ();
             List<ScrolledWindow> old_filter_list = new List<ScrolledWindow> (filter_scrolled_windows);
@@ -272,7 +278,9 @@ namespace Banshee.Sources.Gui
                 year_view_widget.Parent.Visible = YearFilterVisible.Get ();
             };
 
+#if !TREEVIEW
             SetupFilterView (album_view = new AlbumListView ());
+#endif
         }
 
         protected override void ClearFilterSelections ()
@@ -289,9 +297,11 @@ namespace Banshee.Sources.Gui
                 albumartist_view.Selection.Clear ();
             }
 
+#if !TREEVIEW
             if (album_view.Model != null) {
                 album_view.Selection.Clear ();
             }
+#endif
 
             if (year_view.Model != null) {
                 year_view.Selection.Clear ();
@@ -302,7 +312,9 @@ namespace Banshee.Sources.Gui
         {
             SetModel (track);
             SetModel (artist);
+#if !TREEVIEW
             SetModel (album);
+#endif
             SetModel (genre);
         }
 
@@ -350,8 +362,10 @@ namespace Banshee.Sources.Gui
                         SetModel (artist_view, (model as IListModel<ArtistInfo>));
                     else if (model is IListModel<ArtistInfo> && model is DatabaseAlbumArtistListModel)
                         SetModel (albumartist_view, (model as IListModel<ArtistInfo>));
+#if !TREEVIEW
                     else if (model is IListModel<AlbumInfo>)
                         SetModel (album_view, (model as IListModel<AlbumInfo>));
+#endif
                     else if (model is IListModel<QueryFilterInfo<string>> && !genre_view_model_set) {
                         SetModel (genre_view, (model as IListModel<QueryFilterInfo<string>>));
                         genre_view_model_set = true;
@@ -372,7 +386,9 @@ namespace Banshee.Sources.Gui
             SetModel (track_view, null);
             SetModel (artist_view, null);
             SetModel (albumartist_view, null);
+#if !TREEVIEW
             SetModel (album_view, null);
+#endif
             SetModel (year_view, null);
             SetModel (genre_view, null);
             track_view.HeaderVisible = false;

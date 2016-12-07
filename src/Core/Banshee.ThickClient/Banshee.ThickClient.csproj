@@ -20,10 +20,12 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>..\..\..\bin</OutputPath>
+    <DefineConstants>DEBUG TREEVIEW</DefineConstants>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Optimize>false</Optimize>
     <OutputPath>..\..\..\bin</OutputPath>
+    <DefineConstants>TREEVIEW</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Banshee.Services\Banshee.Services.csproj">
@@ -296,6 +298,8 @@
     <Compile Include="Banshee.Gui\ArtistListActions.cs" />
     <Compile Include="Banshee.Collection.Gui\ColumnCellArtistText.cs" />
     <Compile Include="Banshee.Collection.Gui\IArtistListRenderer.cs" />
+    <Compile Include="Banshee.Gui\MainMenuButton.cs" />
+    <Compile Include="Banshee.Sources.Gui\SimpleListSourceContents.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
