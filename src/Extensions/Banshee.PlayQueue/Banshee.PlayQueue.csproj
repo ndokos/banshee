@@ -54,14 +54,6 @@
       <Project>{A3701765-E571-413D-808C-9788A22791AF}</Project>
       <Name>Banshee.Widgets</Name>
     </ProjectReference>
-    <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
-      <Package>dbus-sharp-2.0</Package>
-    </Reference>
-    <Reference Include="dbus-sharp-glib">
-      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
-      <Package>dbus-sharp-glib-2.0</Package>
-    </Reference>
     <Reference Include="Mono.Posix">
       <HintPath>..\..\..\bin\Mono.Posix.dll</HintPath>
     </Reference>
@@ -79,6 +71,12 @@
       <Name>Hyena.Gui</Name>
     </ProjectReference>
     <Reference Include="System" />
+    <Reference Include="dbus-sharp">
+      <Package>dbus-sharp-2.0</Package>
+    </Reference>
+    <Reference Include="dbus-sharp-glib">
+      <Package>dbus-sharp-glib-2.0</Package>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="gtk-sharp, Version=3.0.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">

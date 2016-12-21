@@ -41,7 +41,6 @@
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
       <Package>dbus-sharp-2.0</Package>
     </Reference>
   </ItemGroup>

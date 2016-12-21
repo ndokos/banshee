@@ -52,11 +52,9 @@
       <Package>gtk-sharp-3.0</Package>
     </Reference>
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
       <Package>dbus-sharp-2.0</Package>
     </Reference>
     <Reference Include="dbus-sharp-glib">
-      <HintPath>..\..\..\bin\dbus-sharp-glib.dll</HintPath>
       <Package>dbus-sharp-glib-2.0</Package>
     </Reference>
     <ProjectReference Include="..\..\Hyena\Hyena.Gui\Hyena.Gui.csproj">

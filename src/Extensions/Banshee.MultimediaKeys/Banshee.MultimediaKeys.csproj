@@ -36,7 +36,6 @@
       <Name>Banshee.Services</Name>
     </ProjectReference>
     <Reference Include="dbus-sharp">
-      <HintPath>..\..\..\bin\dbus-sharp.dll</HintPath>
       <Package>dbus-sharp-2.0</Package>
     </Reference>
     <Reference Include="Mono.Posix">
