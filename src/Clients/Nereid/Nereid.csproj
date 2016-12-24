@@ -110,6 +110,10 @@
       <Name>Hyena.Gui</Name>
       <Private>False</Private>
     </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\Gtk.Extra\Gtk.Extra.csproj">
+      <Project>{BEDAF1EF-1BB9-4F19-B875-BA56FF9CBA7E}</Project>
+      <Name>Gtk.Extra</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Nereid\PlayerInterface.cs" />

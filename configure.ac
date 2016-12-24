@@ -69,6 +69,7 @@ AC_SUBST(BANSHEE_DESKTOP_NAME)
 
 dnl Required dependencies (managed/core)
 BANSHEE_CHECK_GTK_SHARP
+BANSHEE_CHECK_GTK_EXTRA
 
 dnl Clutter support is not available in Gst# backend and is opt-in in the unmanaged one
 dnl so we set a default value here for simplicity
@@ -307,6 +308,8 @@ src/Backends/Banshee.Osx/Makefile
 src/Backends/Banshee.Windows/Makefile
 
 src/Libraries/Makefile
+src/Libraries/Gtk.Extra/Makefile
+src/Libraries/Gtk.Extra/Gtk.Extra.dll.config
 src/Libraries/Lastfm/Makefile
 src/Libraries/Lastfm.Gui/Makefile
 src/Libraries/Migo/Makefile
