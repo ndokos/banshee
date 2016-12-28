@@ -36,8 +36,6 @@ using Banshee.ServiceStack;
 using Banshee.Sources;
 using Banshee.Sources.Gui;
 using Gtk;
-using Hyena;
-using Hyena.Data.Gui;
 
 namespace Nereid
 {
@@ -190,10 +188,6 @@ namespace Nereid
 
             var search_align = new Alignment (0.5f, 0.5f, 0f, 0f);
             search_align.Child = _view_container.SearchEntry;
-
-            //var track_info_display = new ClassicTrackInfoDisplay ();
-            //track_info_display.Show ();
-            //ActionService.PopulateToolbarPlaceholder (toolbar, "/HeaderToolbar/TrackInfoDisplay", track_info_display, true);
 
             var lbox = new HBox ();
             lbox.PackStart (task_status, false, false, 0);
@@ -420,6 +414,7 @@ namespace Nereid
 
         void OnSourceUpdated (SourceEventArgs args)
         {
+            Widgets (args.Source);
             Update (args.Source);
         }
 
@@ -440,6 +435,58 @@ namespace Nereid
             _header.Subtitle = _status_label.Text;
         }
 
+        void Widgets (Source source)
+        {
+            if (null == source)
+            {
+                return;
+            }
+
+            if (ServiceManager.SourceManager.ActiveSource != source)
+            {
+                return;
+            }
+
+            var contents = source.GetProperty<ISourceContents> ("Nereid.SourceContents", source.GetInheritedProperty<bool> ("Nereid.SourceContentsPropagate"));
+
+            if (null == contents)
+            {
+                contents = source is ITrackModelSource ? _composite : new _SourceContents ();
+            }
+
+            if (contents != _view_container.Content)
+            {
+                _view_container.Content = contents;
+            }
+
+            if (source != _view_container.Content.Source)
+            {
+                _view_container.Content.ResetSource ();
+                _view_container.Content.SetSource (source);
+
+                if (_view_container.Content is ITrackModelSourceContents)
+                {
+                    var track_content = (ITrackModelSourceContents) _view_container.Content;
+                    source.Properties.Set ("Track.IListView", track_content.TrackView);
+                }
+            }
+
+            var header = source.Properties.Get<Widget> ("Nereid.SourceContents.HeaderWidget");
+            var footer = source.Properties.Get<Widget> ("Nereid.SourceContents.FooterWidget");
+
+            if (null == header?.Parent)
+            {
+                _view_container.ClearHeaderWidget ();
+                _view_container.SetHeaderWidget (header);
+            }
+
+            if (null == footer?.Parent)
+            {
+                _view_container.ClearFooter ();
+                _view_container.SetFooter (footer);
+            }
+        }
+
         void Set (Source source)
         {
             if (source == null) {
@@ -454,47 +501,11 @@ namespace Nereid
                 return;
             }
 
-            _view_container.Content.ResetSource ();
-
-            var contents = source.GetProperty<ISourceContents> ("Nereid.SourceContents", source.GetInheritedProperty<bool> ("Nereid.SourceContentsPropagate"));
-
-            _view_container.ClearHeaderWidget ();
-            _view_container.ClearFooter ();
-
-            if (contents != null) {
-                _view_container.Content = contents;
-            } else if (source is ITrackModelSource) {
-                _view_container.Content = _composite;
-            } else {
-                _view_container.Content = new _SourceContents ();
-            }
-
-            _view_container.Content.SetSource (source);
-
-            if (_view_container.Visible && _view_container.Content is ITrackModelSourceContents) {
-                var track_content = (ITrackModelSourceContents) _view_container.Content;
-                source.Properties.Set ("Track.IListView", track_content.TrackView);
-            }
-
-            if (source.Properties.Contains ("Nereid.SourceContents.HeaderWidget")) {
-                var widget = source.Properties.Get<Widget> ("Nereid.SourceContents.HeaderWidget");
-                _view_container.SetHeaderWidget (widget);
-            }
-
-            if (source.Properties.Contains ("Nereid.SourceContents.FooterWidget")) {
-                var widget = source.Properties.Get<Widget> ("Nereid.SourceContents.FooterWidget");
-                _view_container.SetFooter (widget);
-            }
-
-            //if (source is ITrackModelSource) {
-            //    previous_track_model = (source as ITrackModelSource).TrackModel;
-            //    previous_track_model.Reloaded += OnTrackModelReloaded;
-            //}
+            Widgets (source);
+            Update (source);
 
             _view_container.SearchEntry.Ready = false;
             _view_container.SearchEntry.CancelSearch ();
-
-            Update (source);
 
             if (source.FilterQuery != null) {
                 _view_container.SearchEntry.Query = source.FilterQuery;
@@ -503,8 +514,6 @@ namespace Nereid
 
             _view_container.SearchSensitive = source.CanSearch;
             _view_container.SearchEntry.Ready = true;
-
-            _view_container.Show ();
         }
 
         class _SourceContents : ScrolledWindow, ISourceContents
