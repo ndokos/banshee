@@ -4,12 +4,12 @@ LINK = $(REF_GTK_EXTRA)
 
 SOURCES =  \
 	Gtk/Child.cs \
-	Gtk/Extensions.cs \
 	Gtk/HeaderBar.cs \
 	Gtk/JunctionSides.cs \
 	Gtk/PopoverConstraint.cs \
 	Gtk/Popover.cs \
-	Gtk/PopoverMenu.cs
+	Gtk/PopoverMenu.cs \
+	Gtk.Extra/Extensions.cs
 
 include $(top_srcdir)/build/build.mk
 

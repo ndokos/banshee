@@ -54,7 +54,10 @@
     <Compile Include="Gtk\Popover.cs" />
     <Compile Include="Gtk\PopoverConstraint.cs" />
     <Compile Include="Gtk\PopoverMenu.cs" />
-    <Compile Include="Gtk\Extensions.cs" />
+    <Compile Include="Gtk.Extra\Extensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Gtk.Extra\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
