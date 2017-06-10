@@ -103,11 +103,7 @@ namespace Banshee.Sources.Gui
 
         #endregion
 
-#if TREEVIEW
-        protected void SetModel<T> (TreeView<T> view, IListModel<T> model)
-#else
-        protected void SetModel<T> (ListView<T> view, IListModel<T> model)
-#endif
+        protected void SetModel<T> (IListView<T> view, IListModel<T> model)
         {
             if (model == null) {
                 view.SetModel (null);

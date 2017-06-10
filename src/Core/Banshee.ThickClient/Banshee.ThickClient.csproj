@@ -298,6 +298,8 @@
     <Compile Include="Banshee.Collection.Gui\IArtistListRenderer.cs" />
     <Compile Include="Banshee.Gui\MainMenuButton.cs" />
     <Compile Include="Banshee.Sources.Gui\SimpleListSourceContents.cs" />
+    <Compile Include="Banshee.Collection.Gui\SearchableTreeView.cs" />
+    <Compile Include="Banshee.Collection.Gui\TrackFilterTreeView.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

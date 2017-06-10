@@ -44,7 +44,11 @@ using Banshee.Gui;
 
 namespace Banshee.Collection.Gui
 {
+#if TREEVIEW
+    public class BaseTrackListView : SearchableTreeView<TrackInfo>
+#else
     public class BaseTrackListView : SearchableListView<TrackInfo>
+#endif
     {
         public BaseTrackListView () : base ()
         {

@@ -55,9 +55,7 @@ namespace Banshee.Collection.Gui
             renderer = new ColumnCellAlbum ();
             grid_layout = new DataViewLayoutGrid () {
                 ChildAllocator = () => new DataViewChildAlbum (),
-#if !TREEVIEW
                 View = this
-#endif
             };
             grid_layout.ChildCountChanged += (o, e) => {
                 var artwork_manager = ServiceManager.Get<ArtworkManager> ();

@@ -36,13 +36,13 @@ using Hyena.Collections;
 
 namespace Banshee.Collection.Gui
 {
-    public class SearchableListView<T> : ListView<T>
+    public class SearchableTreeView<T> : TreeView<T>
     {
-        protected SearchableListView () : base ()
+        protected SearchableTreeView () : base ()
         {
         }
 
-        protected SearchableListView (IntPtr raw) : base (raw)
+        protected SearchableTreeView (IntPtr raw) : base (raw)
         {
         }
 

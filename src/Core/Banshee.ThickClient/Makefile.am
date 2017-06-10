@@ -42,9 +42,11 @@ SOURCES =  \
 	Banshee.Collection.Gui/PersistentColumnController.cs \
 	Banshee.Collection.Gui/QueryFilterView.cs \
 	Banshee.Collection.Gui/SearchableListView.cs \
+	Banshee.Collection.Gui/SearchableTreeView.cs \
 	Banshee.Collection.Gui/TerseTrackListView.cs \
 	Banshee.Collection.Gui/Tests/ArtworkManagerTests.cs \
 	Banshee.Collection.Gui/TrackFilterListView.cs \
+	Banshee.Collection.Gui/TrackFilterTreeView.cs \
 	Banshee.Collection.Gui/TrackListView.cs \
 	Banshee.Collection.Gui/XmlColumnController.cs \
 	Banshee.Collection.Gui/YearListView.cs \
