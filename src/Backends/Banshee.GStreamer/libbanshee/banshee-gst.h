@@ -66,6 +66,8 @@ typedef void (* BansheeLogHandler) (BansheeLogType type, const gchar *component,
 
 MYEXPORT void
 gstreamer_initialize (gboolean debugging, BansheeLogHandler log_handler);
+MYEXPORT void
+gstreamer_deinitialize ();
 gboolean  banshee_is_debugging ();
 guint     banshee_get_version_number ();
 

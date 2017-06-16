@@ -212,6 +212,7 @@ namespace Banshee.GStreamer
             UninstallPreferences ();
             base.Dispose ();
             bp_destroy (handle);
+            gstreamer_deinitialize ();
             handle = new HandleRef (this, IntPtr.Zero);
             is_initialized = false;
         }
@@ -928,6 +929,9 @@ namespace Banshee.GStreamer
 
 
 #endregion
+
+        [DllImport (PlayerEngine.LibBansheeLibrary, CallingConvention = CallingConvention.Cdecl)]
+        private static extern void gstreamer_deinitialize ();
 
         [DllImport (PlayerEngine.LibBansheeLibrary, CallingConvention = CallingConvention.Cdecl)]
         private static extern IntPtr bp_new ();
