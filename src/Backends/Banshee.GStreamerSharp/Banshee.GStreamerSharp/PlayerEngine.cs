@@ -419,7 +419,7 @@ namespace Banshee.GStreamerSharp
             //
             // This will be overridden by IncrementLastPlayed () called by
             // PlaybackControllerService's EndOfStream handler.
-            CurrentTrack.UpdateLastPlayed ();
+            CurrentTrack?.UpdateLastPlayed ();
 
             next_track_set.Reset ();
             pending_uri = null;
