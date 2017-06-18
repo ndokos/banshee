@@ -688,7 +688,6 @@ namespace Banshee.GStreamerSharp
             for (uint i = 0; i < tag_list.GetTagSize (tagname); i++) {
                 GLib.Value val = tag_list.GetValueIndex (tagname, i);
                 OnTagFound (new StreamTag () { Name = tagname, Value = val.Val });
-                val.Dispose ();
             }
         }
 
